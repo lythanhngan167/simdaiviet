@@ -1,0 +1,17 @@
+<wpml-config>
+    <admin-texts>
+        <key name="classima">
+            <key name="phone" />
+            <key name="address" />
+            <key name="header_btn_txt" />
+            <key name="header_btn_txt_mob" />
+            <key name="header_btn_url" />
+            <key name="copyright_text" />
+            <key name="error_text" />
+            <key name="error_buttontext" />
+        </key>
+    </admin-texts>
+    <custom-fields>
+       <custom-field action="translate">classima_specification</custom-field>
+   </custom-fields>
+</wpml-config>

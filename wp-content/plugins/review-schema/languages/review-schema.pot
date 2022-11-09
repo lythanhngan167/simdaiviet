@@ -1,0 +1,3787 @@
+# Copyright (C) 2022 Review Schema
+# This file is distributed under the same license as the Review Schema package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Review Schema\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: %s template
+#: ../app/Helpers/Functions.php:100
+msgid "%s does not exist."
+msgstr ""
+
+#: ../app/Helpers/Functions.php:142
+msgid "Month"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:152, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1165
+msgid "Day"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:153
+msgid "Year"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:154
+msgid "Hour"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:155
+msgid "Minute"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:185
+msgid "OK"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:186
+msgid "Cancel"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:201
+msgid "ago"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:759, ../app/Helpers/Functions.php:835, ../app/Models/SettingsAPI.php:619, ../app/Controllers/Admin/Meta/MetaOptions.php:527, ../views/widgets/review-schema.php:9
+msgid "Select"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:760, ../app/Helpers/Functions.php:787
+msgid "Article"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:761, ../app/Helpers/Functions.php:789
+msgid "News article"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:762, ../app/Helpers/Functions.php:790
+msgid "Blog posting"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:763, ../app/Helpers/Functions.php:805
+msgid "Product"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:767, ../app/Helpers/Functions.php:808
+msgid "Course"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:788
+msgid "Tech Article"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:791
+msgid "Event"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:792
+msgid "Local business"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:793
+msgid "Faq"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:794, ../app/Controllers/Admin/Meta/MetaOptions.php:542
+msgid "Service"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:795
+msgid "Q&A"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:796
+msgid "How to"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:797, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4129
+msgid "About"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:798
+msgid "Contact"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:799
+msgid "Person"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:800
+msgid "Movie"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:801
+msgid "Audio"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:802, ../views/settings/review-settings.php:63
+msgid "Video"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:803
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:804
+msgid "ItemList"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:806
+msgid "Book"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:807
+msgid "Real Estate Listing"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:809
+msgid "Job posting"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:810
+msgid "Recipe"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:811
+msgid "Software App"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:812
+msgid "Image License"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:813
+msgid "Special announcement"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:814
+msgid "Mosque"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:815
+msgid "Church"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:816
+msgid "Hindu Temple"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:817
+msgid "Buddhist Temple"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:818, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4042
+msgid "Medical Webpage"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:819
+msgid "Collection Page"
+msgstr ""
+
+#: ../app/Helpers/Functions.php:1006
+msgid "This function should not be called before rtrs_init."
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:52
+msgid "Your review has been submitted."
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:103
+msgid "<b>Go away SPAMMER!</b>"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:101
+msgid "<b>ERROR:</b> please select <b>I'm not a robot!</b>"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:101, ../app/Controllers/Admin/Meta/AddMetaBox.php:624, ../app/Controllers/Admin/Meta/AddMetaBox.php:604
+msgid "« Back"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:361, ../app/Controllers/Admin/ReviewSettings.php:295, ../app/Controllers/Admin/ReviewTable.php:213, ../app/Controllers/Ajax/Review.php:646, ../views/settings/review-settings.php:58
+msgid "Rating"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:386, ../app/Controllers/Ajax/Review.php:669, ../templates/partials/pros-cons.php:23
+msgid "PROS"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:390, ../app/Hooks/Frontend.php:402, ../app/Controllers/Admin/ScriptLoader.php:86, ../app/Controllers/Admin/ScriptLoader.php:132, ../app/Controllers/Ajax/Review.php:684, ../app/Controllers/Ajax/Review.php:677, ../app/Controllers/Ajax/Review.php:708, ../app/Controllers/Ajax/Review.php:701
+msgid "Write here!"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:392, ../app/Hooks/Frontend.php:404, ../app/Controllers/Ajax/Review.php:687, ../app/Controllers/Ajax/Review.php:712
+msgid "Add Field"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:398, ../app/Controllers/Ajax/Review.php:693, ../templates/partials/pros-cons.php:37
+msgid "CONS"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:418, ../app/Models/Field.php:584, ../app/Models/Field.php:624, ../app/Controllers/Admin/ReviewSettings.php:457, ../app/Controllers/Admin/ScriptLoader.php:79, ../app/Controllers/Ajax/Review.php:727, ../app/Controllers/Ajax/Review.php:733
+msgid "Upload Image"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:424
+msgid "Choose Image"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:443, ../app/Controllers/Admin/ScriptLoader.php:80, ../app/Controllers/Ajax/Review.php:750
+msgid "Upload Video"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:448, ../app/Controllers/Ajax/Review.php:755
+msgid "Hosted Video"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:449, ../app/Controllers/Ajax/Review.php:756
+msgid "External Video"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:456
+msgid "Choose Video"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:465, ../app/Controllers/Ajax/Review.php:772
+msgid "External Video Link"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:466, ../app/Controllers/Ajax/Review.php:773
+msgid "https://www.youtube.com/watch?v=668nUCeBHyY"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:475, ../app/Controllers/Admin/ReviewSettings.php:361, ../app/Controllers/Ajax/Review.php:780
+msgid "Recommendation"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:480, ../app/Controllers/Admin/ReviewSettings.php:365, ../app/Controllers/Ajax/Review.php:787
+msgid "Happy"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:485, ../app/Controllers/Admin/ReviewSettings.php:366, ../app/Controllers/Ajax/Review.php:795
+msgid "Sad"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:490, ../app/Controllers/Ajax/Review.php:802
+msgid "Nothing"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:504, ../app/Controllers/Ajax/Review.php:816
+msgid "Review anonymously"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:533
+msgid "Leave feedback about this"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:534
+msgid "Leave feedback about this to %s"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:535
+msgid "Cancel Reply"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:536, ../app/Controllers/Ajax/Review.php:836
+msgid "Submit Review"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:539, ../app/Controllers/Admin/ReviewSettings.php:101, ../app/Controllers/Admin/Meta/AffiliateOptions.php:183, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:193, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:240, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:381, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:428, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:569, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:616, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:675, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1076, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1218, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1251, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1398, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1552, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1849, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1896, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1956, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2150, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2346, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2412, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2425, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2502, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2675, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2782, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2814, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2827, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2840, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2892, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2942, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2998, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3052, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3113, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3343, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3415, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3574, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3635, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3766, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3815, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4181, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4278, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4375, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4471, ../views/settings/schema-settings.php:65
+msgid "Name"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:540, ../app/Controllers/Admin/ReviewSettings.php:105, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3129, ../views/settings/schema-corporate_contacts-settings.php:46
+msgid "Email"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:541
+msgid "Website"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:542, ../app/Controllers/Admin/ReviewSettings.php:347, ../app/Controllers/Ajax/Review.php:823, ../app/Controllers/Admin/Meta/AffiliateOptions.php:52, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:901, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1742, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4064, ../views/settings/review-settings.php:60
+msgid "Title"
+msgstr ""
+
+#: ../app/Hooks/Frontend.php:543, ../app/Controllers/Ajax/Review.php:829
+msgid "Write your review"
+msgstr ""
+
+#: ../app/Models/Field.php:131, ../app/Models/Field.php:548, ../app/Models/Field.php:686, ../app/Models/SettingsAPI.php:514
+msgid "[Pro]"
+msgstr ""
+
+#: ../app/Models/Field.php:131
+msgid "This is premium field"
+msgstr ""
+
+#: ../app/Models/Field.php:140
+msgid "Required"
+msgstr ""
+
+#: ../app/Models/Field.php:145, ../templates/reviews.php:67
+msgid "Recommended"
+msgstr ""
+
+#: ../app/Models/Field.php:552, ../app/Models/Field.php:692, ../app/Models/SettingsAPI.php:518
+msgid "Add New"
+msgstr ""
+
+#: ../app/Models/Field.php:728
+msgid "Pro"
+msgstr ""
+
+#: ../app/Models/Field.php:836
+msgid "Color"
+msgstr ""
+
+#: ../app/Models/Field.php:844
+msgid "Font size"
+msgstr ""
+
+#: ../app/Models/Field.php:847, ../app/Models/Field.php:861, ../app/Models/Field.php:876
+msgid "Default"
+msgstr ""
+
+#: ../app/Models/Field.php:859
+msgid "Weight"
+msgstr ""
+
+#: ../app/Models/Field.php:874
+msgid "Alignment"
+msgstr ""
+
+#: ../app/Models/Field.php:901
+msgid "Left"
+msgstr ""
+
+#: ../app/Models/Field.php:902
+msgid "Right"
+msgstr ""
+
+#: ../app/Models/Field.php:903
+msgid "Center"
+msgstr ""
+
+#: ../app/Models/Field.php:904
+msgid "Justify"
+msgstr ""
+
+#: ../app/Models/Field.php:910, ../app/Controllers/Admin/ReviewSettings.php:367
+msgid "Normal"
+msgstr ""
+
+#: ../app/Models/Field.php:911
+msgid "Bold"
+msgstr ""
+
+#: ../app/Models/Field.php:912
+msgid "Bolder"
+msgstr ""
+
+#: ../app/Models/Field.php:913
+msgid "Lighter"
+msgstr ""
+
+#: ../app/Models/Field.php:914
+msgid "Inherit"
+msgstr ""
+
+#: ../app/Models/Field.php:915
+msgid "Initial"
+msgstr ""
+
+#: ../app/Models/Field.php:916
+msgid "Unset"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:580, ../app/Controllers/Admin/ReviewTable.php:212, ../app/Controllers/Admin/Meta/AddMetaBox.php:50
+msgid "Post Type"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:581
+msgid "Schema Type"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:582
+msgid "Overridden?"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:633
+msgid "From Review Schema Generator"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:636
+msgid "Yes"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:640, ../templates/review/layout-one.php:54, ../templates/review/layout-two.php:54
+msgid "(Edit)"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:689
+msgid "Import"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:779
+msgid "Add Image"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:783, ../app/Controllers/Admin/ScriptLoader.php:135
+msgid "Remove Image"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:1278
+msgid "Select all"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:1280
+msgid "Select none"
+msgstr ""
+
+#: ../app/Models/SettingsAPI.php:1470, ../app/Controllers/Admin/Meta/AffiliateOptions.php:334, ../app/Controllers/Admin/Meta/AffiliateOptions.php:352, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1166, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1820, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2022, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2284, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2301, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3947
+msgid "Select one"
+msgstr ""
+
+#: ../app/Widgets/ReviewSchema.php:17, ../app/Controllers/Admin/RegisterPostType.php:64, ../app/Controllers/Admin/RegisterPostType.php:79, ../app/Controllers/Admin/RegisterPostType.php:80, ../app/Controllers/Admin/Meta/AddMetaBox.php:311
+msgid "Affiliate"
+msgstr ""
+
+#: ../app/Widgets/ReviewSchema.php:20
+msgid "A list of Affiliate."
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:37, ../app/Controllers/Admin/AdminSettings.php:38, ../app/Controllers/Admin/RegisterPostType.php:22, ../app/Controllers/Admin/RegisterPostType.php:37, ../app/Controllers/Admin/RegisterPostType.php:38, ../templates/partials/attachment.php:45
+msgid "Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:50, ../app/Controllers/Admin/AdminSettings.php:51, ../app/Controllers/Admin/Meta/AddMetaBox.php:258, ../app/Controllers/Admin/Meta/MetaOptions.php:369
+msgid "Settings"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:59, ../app/Controllers/Admin/AdminSettings.php:60
+msgid "Get Help"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:114
+msgid "Organization Info"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:115, ../views/settings/schema-social_profiles-settings.php:12
+msgid "Social Profiles"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:116
+msgid "Corporate Contacts"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:117
+msgid "Search Result"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:118
+msgid "Publisher Info"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:120
+msgid "Third Party Plugin"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:136, ../app/Controllers/Admin/ReviewTable.php:668
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:141
+msgid "Your settings have been saved."
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:149, ../app/Controllers/Admin/ReviewTable.php:17, ../app/Controllers/Admin/Meta/AddMetaBox.php:257, ../app/Controllers/Admin/Meta/AddMetaBox.php:364, ../app/Controllers/Admin/Meta/MetaOptions.php:62, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:812, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1309, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1463, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1653, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2061, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2549, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3465
+msgid "Review"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:150, ../app/Controllers/Admin/Meta/AddMetaBox.php:259, ../app/Controllers/Admin/Meta/AddMetaBox.php:312, ../app/Controllers/Admin/Meta/AddMetaBox.php:368
+msgid "Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:151
+msgid "WooCommerce"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:152
+msgid "Media"
+msgstr ""
+
+#: ../app/Controllers/Admin/AdminSettings.php:153
+msgid "Misc"
+msgstr ""
+
+#: ../app/Controllers/Admin/Notifications.php:14
+msgid "Facing issue?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Notifications.php:14
+msgid "Please open a support ticket."
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:20
+msgctxt "Post Type General Name"
+msgid "Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:21
+msgctxt "Post Type Singular Name"
+msgid "Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:23
+msgid "Parent Review Schema:"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:24
+msgid "All Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:25
+msgid "View Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:26
+msgid "Add New Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:27
+msgid "New Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:28
+msgid "Edit Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:29
+msgid "Update Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:30
+msgid "Search Review Schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:31
+msgid "No review schema found"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:32
+msgid "No review schema found in Trash"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:62
+msgctxt "Post Type General Name"
+msgid "Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:63
+msgctxt "Post Type Singular Name"
+msgid "Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:65
+msgid "Parent Affiliate:"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:66
+msgid "All Affiliates"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:67
+msgid "View Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:68
+msgid "Add New Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:69
+msgid "New Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:70
+msgid "Edit Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:71
+msgid "Update Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:72
+msgid "Search Affiliate"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:73
+msgid "No affiliate found"
+msgstr ""
+
+#: ../app/Controllers/Admin/RegisterPostType.php:74
+msgid "No affiliate found in Trash"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:28, ../app/Controllers/Admin/ReviewSettings.php:29, ../app/Controllers/Admin/ReviewSettings.php:510
+msgid "All Reviews"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:521
+msgid "Search Review"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:47, ../app/Controllers/Admin/ReviewSettings.php:71, ../views/settings/review-settings.php:45
+msgid "Edit Review"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:57
+msgid "Invalid comment ID."
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:57
+msgid "Go back"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:61
+msgid "Sorry, you are not allowed to edit this comment."
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:65
+msgid "This comment is in the Trash. Please move it out of the Trash if you want to edit it."
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:84
+msgid "Permalink:"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:95, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:828, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1325, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1479, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1566, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1669, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2077, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2351, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2565, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3299, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3451, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3481
+msgid "Author"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:97
+msgid "Comment Author"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:111, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:259, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:447, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:635, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:793, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:794, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1600, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1915, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2440, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2691, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2855, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2963, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3014, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3068, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3074, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3134, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3294, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3348, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3381, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3597, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3650, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3671, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3678, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3719, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3727, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3734, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3822, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4197, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4199, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4294, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4296, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4391, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4393, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4487, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4489, ../views/settings/schema-corporate_contacts-settings.php:39
+msgid "URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:123, ../app/Controllers/Admin/ReviewTable.php:211
+msgid "Comment"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:145
+msgid "Save"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:151
+msgid "Status:"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:156, ../app/Controllers/Admin/ReviewTable.php:432
+msgid "Approved"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:159
+msgid "Pending"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:162
+msgid "Spam"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:168
+msgid "Comment status"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:169
+msgctxt "comment status"
+msgid "Approved"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:170
+msgctxt "comment status"
+msgid "Pending"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:171
+msgctxt "comment status"
+msgid "Spam"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:181
+msgctxt "publish box date format"
+msgid "M j, Y"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:183
+msgctxt "publish box time format"
+msgid "H:i"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:190
+msgid "Submitted on: %s"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:194, ../app/Controllers/Admin/ReviewTable.php:391, ../app/Controllers/Admin/ScriptLoader.php:78
+msgid "Edit"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:195
+msgid "Edit date and time"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:198
+msgid "Date and time"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:218
+msgid "In response to: %s"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:234
+msgid "In reply to: %s"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:260, ../app/Controllers/Admin/ReviewTable.php:373, ../app/Controllers/Admin/ReviewTable.php:647
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:260, ../app/Controllers/Admin/ReviewTable.php:649
+msgid "Move to Trash"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:263
+msgid "Update"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:277
+msgid "Review Options"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:293
+msgid "Multi Criteria"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:353, ../app/Controllers/Admin/ScriptLoader.php:75
+msgid "Highlight?"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:374, ../app/Controllers/Admin/Meta/AffiliateOptions.php:118, ../templates/affiliate/layout-four.php:75, ../templates/affiliate/layout-two.php:75
+msgid "Pros"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:389
+msgid "Add Pros"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:395, ../app/Controllers/Admin/Meta/AffiliateOptions.php:134, ../templates/affiliate/layout-four.php:90, ../templates/affiliate/layout-two.php:91
+msgid "Cons"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:409
+msgid "Add Cons"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:419, ../app/Controllers/Admin/Meta/AffiliateOptions.php:190, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:203, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:391, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:579, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:726, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1256, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1859, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2156, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2363, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2435, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2514, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2721, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2793, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2850, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2904, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3009, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3063, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3119, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3440, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3870, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4081, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4193, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4290, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4387, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4483, ../views/settings/review-settings.php:62, ../views/settings/schema-settings.php:75
+msgid "Image"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewSettings.php:537, ../app/Controllers/Admin/ReviewTable.php:18
+msgid "Reviews"
+msgstr ""
+
+#. translators: %s: Number of comments.
+#: ../app/Controllers/Admin/ReviewTable.php:99
+msgctxt "comments"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of comments.
+#: ../app/Controllers/Admin/ReviewTable.php:107
+msgctxt "comments"
+msgid "Pending <span class=\"count\">(%s)</span>"
+msgid_plural "Pending <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of comments.
+#: ../app/Controllers/Admin/ReviewTable.php:115
+msgctxt "comments"
+msgid "Approved <span class=\"count\">(%s)</span>"
+msgid_plural "Approved <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of comments.
+#: ../app/Controllers/Admin/ReviewTable.php:123
+msgctxt "comments"
+msgid "Spam <span class=\"count\">(%s)</span>"
+msgid_plural "Spam <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: %s: Number of comments.
+#: ../app/Controllers/Admin/ReviewTable.php:131
+msgctxt "comments"
+msgid "Trash <span class=\"count\">(%s)</span>"
+msgid_plural "Trash <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:200
+msgid "No reviews avaliable."
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:214, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:95, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:289, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:477, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:665, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:891, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1057, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1388, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1542, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1732, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1946, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2067, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2140, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2336, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2622, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2666, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2772, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2988, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3042, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3103, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3229, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3327, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3365, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3405, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3564, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3625, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3708, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3756, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3921, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4053, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4171, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4268, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4365, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4461
+msgid "Status"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:215
+msgid "Review Info"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:216
+msgid "Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:332, ../app/Controllers/Admin/ReviewTable.php:304
+msgid "Unapprove this comment"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:333, ../app/Controllers/Admin/ReviewTable.php:305, ../app/Controllers/Admin/ReviewTable.php:631
+msgid "Unapprove"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:324, ../app/Controllers/Admin/ReviewTable.php:312
+msgid "Approve this comment"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:325, ../app/Controllers/Admin/ReviewTable.php:313, ../app/Controllers/Admin/ReviewTable.php:634
+msgid "Approve"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:352
+msgid "Restore this comment from the spam"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:353, ../app/Controllers/Admin/ReviewTable.php:643
+msgctxt "comment"
+msgid "Not Spam"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:343
+msgid "Mark this comment as spam"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:345
+msgctxt "verb"
+msgid "Spam"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:362
+msgid "Restore this comment from the Trash"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:363, ../app/Controllers/Admin/ReviewTable.php:641
+msgid "Restore"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:380
+msgid "Move this comment to the Trash"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:381
+msgctxt "verb"
+msgid "Trash"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:372
+msgid "Delete this comment permanently"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:390
+msgid "Edit this comment"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:432
+msgid "Unapproved"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:445, ../views/widgets/review-schema.php:2
+msgid "Title:"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:448
+msgid "URL:"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:452
+msgid "Author:"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:589
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../app/Controllers/Admin/ReviewTable.php:637
+msgctxt "comment"
+msgid "Mark as Spam"
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:68
+msgid " for free version."
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:76
+msgid "Remove Highlight?"
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:77
+msgid "Loading..."
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:81, ../app/Controllers/Admin/ScriptLoader.php:127
+msgid "Are you sure to delete?"
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:82
+msgid "[PRO]"
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:84
+msgid " pros field are allowed"
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:85
+msgid " cons field are allowed"
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:128
+msgid "3 criteria field are allowed for free version."
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:129
+msgid "3 pros field are allowed for free version."
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:130
+msgid "3 cons field are allowed for free version."
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:131
+msgid "Multiple schema are not allowed in free version."
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:133
+msgid "At least one field require"
+msgstr ""
+
+#: ../app/Controllers/Admin/ScriptLoader.php:134
+msgid "3 criteria rating field are allowed for free version."
+msgstr ""
+
+#: ../app/Controllers/Ajax/Review.php:342, ../app/Controllers/Ajax/Review.php:420
+msgid "Invalid file type: %s. Supported file types: %s"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Review.php:347, ../app/Controllers/Ajax/Review.php:425
+msgid "File is too large. Max. upload file size is %s"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Review.php:584
+msgid "Sorry! You do not have permission."
+msgstr ""
+
+#: ../app/Controllers/Ajax/Review.php:607
+msgid "Edit your review"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Review.php:763
+msgid "Upload a Video"
+msgstr ""
+
+#: ../app/Controllers/Marketing/BlackFridayOffer.php:49, ../app/Controllers/Marketing/Offer.php:51
+msgid "Don't miss out on our biggest sale of the year! Get your."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:51, ../app/Controllers/Admin/Meta/MetaOptions.php:92
+msgid "Support"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:69, ../app/Controllers/Admin/Meta/MetaOptions.php:97
+msgid "Review with Schema JSON-LD"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:73, ../app/Controllers/Admin/Meta/MetaOptions.php:98
+msgid "Only Review"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:77, ../app/Controllers/Admin/Meta/MetaOptions.php:99
+msgid "Only Schema JSON-LD"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:89
+msgid "Shortcode"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:109
+msgid "Review Schema Generator"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:118, ../app/Controllers/Admin/Meta/AddMetaBox.php:162
+msgid "Documentation"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:127
+msgid "Affiliate Shortcode Generator"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:140
+msgid "Review & Schema Settings"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:163
+msgid "Get started by spending some time with the documentation we included step by step process with screenshots with video."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:169
+msgid "Need Help?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:170
+msgid "Stuck with something? Please create a"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:171
+msgid "ticket here"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:171
+msgid "or post on "
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:171
+msgid "For emergency case join our"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:171
+msgid "live chat"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:172
+msgid "Get Support"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:194
+msgid "Pro field alert!"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:195
+msgid "Sorry! this is a pro field. To use this field, you need to use pro plugin."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:196
+msgid "Upgrade to pro"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:205
+msgid "Already exist alert!"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:206
+msgid "Sorry! this post type already exist, you need to choose new one."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:260, ../app/Controllers/Admin/Meta/AddMetaBox.php:313
+msgid "Style"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:624
+msgid "<b>ERROR:</b> Sorry! this post type already exist, you need to choose new one."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AddMetaBox.php:604
+msgid "<b>ERROR:</b> Please choose a post type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:32
+msgid "Layout"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:57, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:170, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:364, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:552, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1749, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4014
+msgid "Short description"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:66
+msgid "Featured Image"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:73
+msgid "Rating criteria"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:78
+msgid "Criteria name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:83
+msgid "Rating type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:86
+msgid "Rating (1-5)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:87
+msgid "Percent (1-100)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:93
+msgid "Criteria value"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:94
+msgid "Rating value will be 1-5 or percent 1-100"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:101, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:33
+msgid "Total rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:106
+msgid "Avg rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:112
+msgid "Allow pros?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:113, ../app/Controllers/Admin/Meta/AffiliateOptions.php:129, ../app/Controllers/Admin/Meta/AffiliateOptions.php:176, ../app/Controllers/Admin/Meta/MetaOptions.php:262, ../app/Controllers/Admin/Meta/MetaOptions.php:270, ../app/Controllers/Admin/Meta/MetaOptions.php:277, ../app/Controllers/Admin/Meta/MetaOptions.php:294, ../app/Controllers/Admin/Meta/MetaOptions.php:303, ../app/Controllers/Admin/Meta/MetaOptions.php:311, ../app/Controllers/Admin/Meta/MetaOptions.php:319, ../app/Controllers/Admin/Meta/MetaOptions.php:327, ../app/Controllers/Admin/Meta/MetaOptions.php:335, ../app/Controllers/Admin/Meta/MetaOptions.php:361, ../app/Controllers/Admin/Meta/MetaOptions.php:377, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:68
+msgid "Enable"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:128
+msgid "Allow cons?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:144
+msgid "Button text"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:149
+msgid "Button URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:154
+msgid "Regular price"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:159
+msgid "Offer price"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:171
+msgid "Google Schema JSON-LD"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:175, ../app/Controllers/Admin/Meta/MetaOptions.php:240, ../app/Controllers/Admin/Meta/MetaOptions.php:247, ../app/Controllers/Admin/Meta/MetaOptions.php:255, ../app/Controllers/Admin/Meta/MetaOptions.php:343, ../app/Controllers/Admin/Meta/MetaOptions.php:352
+msgid "Disable"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:196, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:169, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:198, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:246, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:363, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:386, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:434, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:551, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:574, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:622, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:712, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:943, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1082, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1223, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1261, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1404, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1636, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1748, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1854, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1902, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1962, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2161, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2369, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2508, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2714, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2788, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2871, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2898, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3004, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3058, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3144, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3421, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3581, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3642, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4013, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4134, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4187, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4284, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4381, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4477, ../views/settings/review-settings.php:59, ../views/settings/schema-settings.php:168
+msgid "Description"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:197, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2162
+msgid "Product description."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:203, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2167
+msgid "Product Identifier"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:210, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2173
+msgid "SKU"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:217, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2179
+msgid "Brand"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:219, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2181
+msgid "The brand of the product (Used globally)."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:225, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2186, ../views/settings/woocommerce-settings.php:22
+msgid "Identifier Type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:228, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2189, ../views/settings/woocommerce-settings.php:26
+msgid "MPN"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:229, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1587, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2190, ../views/settings/woocommerce-settings.php:27
+msgid "ISBN"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:230, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2191, ../views/settings/woocommerce-settings.php:28
+msgid "GTIN-8 (UPC, JAN)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:231, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2192, ../views/settings/woocommerce-settings.php:29
+msgid "GTIN-12 (UPC)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:232, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2193, ../views/settings/woocommerce-settings.php:30
+msgid "GTIN-13 (EAN,JAN)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:234, ../views/settings/woocommerce-settings.php:32
+msgid ""
+"<strong>MPN</strong><br>\n"
+"                    &#8594; MPN(Manufacturer Part Number) Used globally, Alphanumeric digits (various lengths)<br>\n"
+"                    <strong>GTIN</strong><br>\n"
+"                    &#8594; UPC(Universal Product Code) Used in primarily North America. 12 numeric digits. eg. 892685001003.<br>\n"
+"                    &#8594; EAN(European Article Number) Used primarily outside of North America. Typically 13 numeric digits (can occasionally be either eight or 14 numeric digits). eg. 4011200296908<br>\n"
+"                    &#8594; ISBN(International Standard Book Number) Used globally, ISBN-13 (recommended), 13 numeric digits 978-0747595823<br>\n"
+"                    &#8594; JAN(Japanese Article Number) Used only in Japan, 8 or 13 numeric digits."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:247, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2209
+msgid "Identifier Value"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:249, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2211
+msgid "Enter product unique identifier"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:255, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2216
+msgid "Product Review & Rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:261, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2221
+msgid "Review rating avg value"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:263, ../app/Controllers/Admin/Meta/AffiliateOptions.php:291
+msgid "Rating value. (1 , 2.5, 3, 5 etc)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:269, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2228
+msgid "Review Best rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:276, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2234
+msgid "Review Worst rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:283, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2240
+msgid "Review author"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:289, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2245
+msgid "Aggregate Rating value"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:297, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2252
+msgid "Aggregate Total review count"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:298, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2253
+msgid "Review Count. <span class='required'>This is required if (Rating value) is given</span>"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:304, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2258
+msgid "Product Pricing"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:310, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:740, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1415, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2263, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2798
+msgid "Price currency"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:311, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1416, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2264, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2799
+msgid "The 3-letter currency code."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:317, ../app/Controllers/Admin/Meta/MetaOptions.php:541, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:733, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1266, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1409, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1808, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2010, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2269, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2804
+msgid "Price"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:318, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1410, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2270
+msgid "The lowest available price, including service charges and fees, of this type of ticket."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:324, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2275
+msgid "PriceValidUntil"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:327
+msgid "The date (in ISO 8601 date format) after which the price will no longer be available. Like this: 2020-12-25 14:20:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:333, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:746, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1819, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2021, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2283
+msgid "Availability"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:336, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:750, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1822, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2024, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2286
+msgid "InStock"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:337, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1823, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2025, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2287
+msgid "InStoreOnly"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:338, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1824, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2026, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2288
+msgid "OutOfStock"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:339, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:751, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1825, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2027, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2289
+msgid "SoldOut"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:340, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1826, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2028, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2290
+msgid "OnlineOnly"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:341, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1827, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2029, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2291
+msgid "LimitedAvailability"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:342, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1828, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2030, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2292
+msgid "Discontinued"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:343, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:752, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1829, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2031, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2293
+msgid "PreOrder"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:345, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1831, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2033, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2295
+msgid "Select a availability type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:351, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2300
+msgid "Product condition"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:354, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2303
+msgid "NewCondition"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:355, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2304
+msgid "UsedCondition"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:356, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2305
+msgid "DamagedCondition"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:357, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2306
+msgid "RefurbishedCondition"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:359, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2308
+msgid "Select a condition"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:365, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2313
+msgid "Product URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:366, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2314
+msgid "A URL to the product web page (that includes the Offer). (Don't use offerURL for markup that appears on the product page itself.)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:380, ../app/Controllers/Admin/Meta/MetaOptions.php:402
+msgid "Parent class for adding custom css"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:387, ../app/Controllers/Admin/Meta/MetaOptions.php:409
+msgid "Width"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:388, ../app/Controllers/Admin/Meta/MetaOptions.php:410
+msgid "Layout width, Like: 400px or 50% etc"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:393
+msgid "Product title"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:398
+msgid "Product description"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:403
+msgid "Regular Price"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:408
+msgid "Offer Price"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:414
+msgid "Border Color"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:421
+msgid "Border Size"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:422
+msgid "Pass value like (2px)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:429
+msgid "Border Radius"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:430
+msgid "Pass value like (5px, 5%)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:437
+msgid "Circle Fill Color"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:444
+msgid "Circle Empty Color"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:452
+msgid "Circle Border Width"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:453
+msgid "Value will be generate as pixel, Give only integer like (5)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:459
+msgid "Button"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:465
+msgid "Button Background"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:471
+msgid "Button Border Color"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:476
+msgid "Button Hover"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:482
+msgid "Button Hover Background"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/AffiliateOptions.php:488
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:44, ../templates/reviews.php:63
+msgid "Top Rated"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:45
+msgid "Lowest Rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:46, ../templates/reviews.php:71
+msgid "Latest First"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:47, ../templates/reviews.php:73
+msgid "Oldest First"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:58
+msgid "Author Image"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:59, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:119, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:313, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1761, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3956
+msgid "Author Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:60
+msgid "Rating Star"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:61
+msgid "Time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:73
+msgid "Select post type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:83
+msgid "Choose pages"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:84
+msgid "You can choose individual pages otherwise it will applied for all pages"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:112
+msgid "Criteria?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:113
+msgid "If you want you can enable or disable single or criteria based rating from here"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:130
+msgid "Multi criteria"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:139
+msgid "Review summary layout"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:166
+msgid "Review layout"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:193
+msgid "Pagination type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:209
+msgid "Google rich snippet?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:210
+msgid "Google auto rich snippet not support in page, you need to set it manually from single page. <a href='#'> Help Documentation</a>"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:216
+msgid "Structured data (rich snippet)?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:217
+msgid "Auto generate Structured data schema (rich snippet). If you want, you can add custom structured data from single post/page"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:222
+msgid "Structured data type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:223
+msgid "By default only some type is possible to auto generate, but you can generate all type from single post"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:239
+msgid "Review title disable?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:246
+msgid "Disable human readable time format ?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:248
+msgid "By default review time is human readable format such as \"1 hour ago\", \"5 mins ago\", \"2 days ago \" Or "
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:248
+msgid "Go to General Settings for change date formate"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:254
+msgid "Review website url disable?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:261
+msgid "Allow image review?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:269
+msgid "Allow video review?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:276
+msgid "Allow pros cons?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:284
+msgid "Pros cons limit"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:285
+msgid "How many field field you want to allow"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:293
+msgid "Allow recommendation?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:302
+msgid "Highlight review?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:310
+msgid "Social share?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:318
+msgid "Allow review like?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:326
+msgid "Allow review dislike?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:334
+msgid "Allow anonymous review?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:342
+msgid "Email field disable?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:344, ../app/Controllers/Admin/Meta/MetaOptions.php:353
+msgid "Got To Discussion"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:344, ../app/Controllers/Admin/Meta/MetaOptions.php:353
+msgid ". You have to uncheck the settings."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:344, ../app/Controllers/Admin/Meta/MetaOptions.php:353
+msgid "Comment author must fill out name and email"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:351
+msgid "Author field disable?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:360
+msgid "Show purchase badge?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:362
+msgid "It will show WC, EDD purchased badge"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:368
+msgid "Allow google recaptcha?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:369
+msgid "When you enable google captcha, you must need to fill up Google captcha v3 credential from"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:374
+msgid "Filter?"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:382
+msgid "Filter Options"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:417
+msgid "Margin"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:418
+msgid "Layout margin, Like: 50px"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:425
+msgid "Padding"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:426
+msgid "Layout padding, Like: 50px"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:431
+msgid "Review title"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:436
+msgid "Review text"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:441
+msgid "Date text"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:446, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:501
+msgid "Author name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:451
+msgid "Author name hover"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:464
+msgid "Star color"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:471
+msgid "Meta icon color"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:482, ../app/Controllers/Admin/Meta/MetaOptions.php:494
+msgid "Layout 1"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:483, ../app/Controllers/Admin/Meta/MetaOptions.php:495
+msgid "Layout 2"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:484, ../app/Controllers/Admin/Meta/MetaOptions.php:496
+msgid "Layout 3"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:485, ../app/Controllers/Admin/Meta/MetaOptions.php:497
+msgid "Layout 4"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:511
+msgid "Number"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:512
+msgid "Number Ajax"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:513, ../templates/reviews.php:153
+msgid "Load More"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:514
+msgid "Auto Scroll"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:540
+msgid "Quality"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:34
+msgid "Total rating of this"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:39
+msgid "Average rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:40
+msgid "Average rating of this"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:45, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:862, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1359, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1445, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1513, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1703, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2111, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2475, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2599, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3536
+msgid "Best rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:46
+msgid "Best rating of this"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:51, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:868, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1365, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1451, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1519, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1709, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2117, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2480, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2605, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3542
+msgid "Worst rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:52
+msgid "Worst rating of this"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:66
+msgid "Custom rich snippet? (Manual)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:67
+msgid "If you enable this option. Schema JSON-LD data will generate from here."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:73
+msgid "Rich snippet type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:84
+msgid "Article schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:90, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:284, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:472, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:660, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:886, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1052, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1383, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1537, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1727, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1941, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2135, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2331, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2661, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2767, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2983, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3037, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3098, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3400, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3559, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3620, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3751, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3916, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4048, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4166, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4263, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4360, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4456
+msgid "Auto Fill"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:98, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:292, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:480, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:668, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:821, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:894, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1060, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1318, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1391, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1472, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1545, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1662, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1735, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1949, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2070, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2143, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2339, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2558, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2625, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2669, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2775, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2991, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3045, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3106, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3232, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3330, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3368, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3408, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3474, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3567, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3628, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3711, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3759, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3924, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4056, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4174, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4271, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4368, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4464
+msgid "Show"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:99, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:293, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:481, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:669, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:822, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:895, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1061, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1319, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1392, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1473, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1546, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1663, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1736, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1950, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2071, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2144, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2340, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2559, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2626, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2670, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2776, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2992, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3046, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3107, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3233, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3331, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3369, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3409, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3475, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3568, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3629, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3712, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3760, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3925, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4057, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4175, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4272, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4369, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4465
+msgid "Hide"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:105, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:299, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:487, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3931, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4063
+msgid "Headline"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:106, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:300, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3932
+msgid "Article title"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:112, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:306, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:494, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1754, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3773, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3938
+msgid "Page URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:113, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:307, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:495, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3939
+msgid "The canonical URL of the article page"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:120, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:314, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:502, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1762, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3957
+msgid "Author display name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:126, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:320, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:508, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1768, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3963
+msgid "Author URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:132, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:326
+msgid "Article Feature Image"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:134, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:328, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3978
+msgid "Images should be at least 696 pixels wide.<br>Images should be in .jpg, .png, or. gif format."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:139, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:333, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:521, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1558, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1780, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3780, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3983, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4088
+msgid "Published date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:142, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:150, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:221, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:336, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:344, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:409, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:523, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:531, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:597, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:851, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:931, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:938, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1348, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1561, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1692, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1783, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1877, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2100, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2358, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2534, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2588, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2924, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3155, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3261, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3284, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3435, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3504, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3692, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3986, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3994, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4091, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4099
+msgid "Like this: 2021-08-25 14:20:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:147, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:341, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:529, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3991, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4096
+msgid "Modified date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:155, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:349, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:537, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1615, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1788, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3509, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3999, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4104
+msgid "Publisher"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:156, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:350, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:538, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1789, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3510, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4000, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4105
+msgid "Publisher name or Organization name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:162, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:356, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:544, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1795, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3516, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4006, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4111
+msgid "Publisher Logo"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:163, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:357, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:545, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1796, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4007, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4112
+msgid "Logos should have a wide aspect ratio, not a square icon.<br>Logos should be no wider than 600px, and no taller than 60px.<br>Always retain the original aspect ratio of the logo when resizing. Ideally, logos are exactly 60px tall with width <= 600px. If maintaining a height of 60px would cause the width to exceed 600px, downscale the logo to exactly 600px wide and reduce the height accordingly below 60px to maintain the original aspect ratio.<br>"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:175, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:369, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:557, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4020
+msgid "Article body"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:176, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:370, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:558, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4021
+msgid "Article content"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:181
+msgid "Alternative headline"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:182
+msgid "A secondary headline for the article."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:188, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:376, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:564, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1844, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2497, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2887
+msgid "Video Info"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:208, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:258, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:396, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:446, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:584, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:634, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1864, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1914, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2520, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2910, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3596, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3670, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3718
+msgid "Content URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:213, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:401, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:589, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1869, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2526, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2916, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3677
+msgid "Embed URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:214, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:402, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:590, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1870, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3075, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3672
+msgid "A URL pointing to the actual video media file. This file should be in .mpg, .mpeg, .mp4, .m4v, .mov, .wmv, .asf, .avi, .ra, .ram, .rm, .flv, or other video file format."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:219, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:407, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:595, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1875, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2532, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2922, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3657
+msgid "Upload Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:226, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:252, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:414, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:440, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:602, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:628, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1882, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1908, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2540, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2930, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3427, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3589, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3664
+msgid "Duration"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:227, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:415, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:603, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1883, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2541, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2931, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3428
+msgid "Runtime of the movie in ISO 8601 format (for example, \"PT2H22M\" (142 minutes))."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:235, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:423, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:611, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1891
+msgid "Audio Info"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:241, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:429, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:617, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1897, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3576
+msgid "The title of the audio"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:247, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:435, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:623, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1903, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3583
+msgid "The short description of the audio"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:253, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:441, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:629, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1909, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3590
+msgid "The duration of the audio in ISO 8601 format.(PT1M33S)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:260, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:448, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:636, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1916, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3598
+msgid "A URL pointing to the actual audio media file. This file should be in .mp3, .wav, .mpc or other audio file format."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:265, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:453, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:641, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1921, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3603
+msgid "Encoding Format"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:266, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:454, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:642, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1922, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3604
+msgid "The encoding format of audio like: 'audio/mpeg'"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:278
+msgid "News article schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:466
+msgid "Blog posting schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:488
+msgid "Blog posting title"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:514, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1774, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3976
+msgid "Feature Image"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:515
+msgid "The representative image of the article. Only a marked-up image that directly belongs to the article should be specified.<br> Images should be at least 696 pixels wide. <br>Images should be in .jpg, .png, or. gif format."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:654
+msgid "Event schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:677
+msgid "The name of the event."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:682, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1993
+msgid "Location name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:684
+msgid "Event Location name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:689, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1999
+msgid "Location address"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:691
+msgid "The location of for example where the event is happening, an organization is located, or where an action takes place."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:696
+msgid "Start date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:699
+msgid "Event start date Like : 2020-10-16 4:00 AM"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:704
+msgid "End date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:707
+msgid "Event end date Like : 2020-10-16 4:00 AM"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:714
+msgid "Event description"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:719, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2056
+msgid "Performer Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:721
+msgid "The performer's name."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:728
+msgid "Image or logo for the event or tour"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:735
+msgid "This is highly recommended. The lowest available price, including service charges and fees, of this type of ticket. <span class='required'>Not required but (Recommended)</span>"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:741
+msgid "The 3-letter currency code. (USD)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:758
+msgid "Event status"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:762
+msgid "Cancelled"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:763
+msgid "Moved Online"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:764
+msgid "Postponed"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:765
+msgid "Rescheduled"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:766
+msgid "Scheduled"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:772
+msgid "Attendance mode"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:776
+msgid "Offline"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:777
+msgid "Online"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:778
+msgid "Mixed"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:784, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2043
+msgid "Valid From"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:795
+msgid "A link to the event's details page. <span class='required'>Not required but (Recommended)</span>"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:801
+msgid "Organization Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:807
+msgid "Organization URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:813, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1310, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1464, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1654, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2062, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2550, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3466
+msgid "To add review schema for this type, complete fields below and enable, others live blank."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:818, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1315, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1469, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2555
+msgid "Review Status"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:834, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1331, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1485, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1572, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1675, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1836, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2083, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2571, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3019, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3080, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3487
+msgid "Author Same As profile link"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:837, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1334, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1488, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1575, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1610, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1678, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1838, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2086, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2574, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3021, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3082, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3177, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3490, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3525
+msgid "A reference page that unambiguously indicates the item's identity; for example, the URL of the item's Wikipedia page, Freebase page, or official website.<br> Enter new line for every entry"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:842, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1339, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1493, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1683, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2091, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2579, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3495
+msgid "Review body"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:844, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1341, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1495, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1685, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2093, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2581, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3497
+msgid "The actual body of the review."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:849, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1346, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1500, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1690, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2098, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2586, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3502
+msgid "Date of Published"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:856, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1353, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1439, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1507, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1697, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2105, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2464, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2593, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3530
+msgid "Rating avg value"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:857, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1354, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1440, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1508, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1698, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2106, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2223, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2247, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2465, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2594, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3531
+msgid "Rating value. (1, 2.5, 3, 5 etc)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:863, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1360, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1514, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1704, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2112, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2600, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3537
+msgid "The highest value allowed in this rating."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:869, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1366, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1520, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1710, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2118, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2606, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3543
+msgid "The lowest value allowed in this rating. * Required if the rating is not on a 5-point scale. If worstRating is omitted, 1 is assumed."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:880
+msgid "Job posting schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:906
+msgid "Base Salary"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:907
+msgid "50.00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:912
+msgid "Currency"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:913, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1814, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2016
+msgid "USD"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:918
+msgid "Salary at"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:920
+msgid "MONTH"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:921
+msgid "HOUR"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:922
+msgid "WEEK"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:923
+msgid "YEAR"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:929
+msgid "Job posted date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:936
+msgid "Valid date through"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:948
+msgid "Employment Type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:950
+msgid "Full Time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:951
+msgid "Part Time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:952
+msgid "Contract"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:953
+msgid "Temporary"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:954
+msgid "Seasonal"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:955
+msgid "Internship"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:961
+msgid "working Hours"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:962
+msgid "40 hours per week"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:967
+msgid "Hiring Organization"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:972
+msgid "Job location address"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:973, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1117, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3194, ../views/settings/schema-settings.php:120
+msgid "City (i.e Melbourne)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:978
+msgid "Job location region"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:979, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1123, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3200, ../views/settings/schema-settings.php:126
+msgid "State (i.e. Victoria)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:984
+msgid "Location Postal code"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:989
+msgid "Location street Address"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:994
+msgid "Job Benefits"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:995
+msgid "Medical, Life, Dental"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1000
+msgid "Education Requirement. Like: Bachelor Degree"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1005
+msgid "Experience Requirements"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1006
+msgid "Value will be number of month, Like: 2 years = 24"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1011
+msgid "Incentive Compensation"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1016
+msgid "Industry"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1021
+msgid "Occupational Category"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1026
+msgid "Qualifications"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1031
+msgid "Responsibilities"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1036
+msgid "Skills"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1046
+msgid "Local business schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1066, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2702, ../views/settings/schema-settings.php:54
+msgid "Category"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1070, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1135, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3212, ../views/settings/schema-corporate_contacts-settings.php:29, ../views/settings/schema-corporate_contacts-settings.php:58, ../views/settings/schema-corporate_contacts-settings.php:65, ../views/settings/schema-corporate_contacts-settings.php:72, ../views/settings/schema-settings.php:59, ../views/settings/schema-settings.php:138, ../views/settings/schema-sitelink-settings.php:30
+msgid "Select One"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1071, ../views/settings/schema-settings.php:60
+msgid "Use the most appropriate schema category for local business"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1087, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1228
+msgid "Images"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1092, ../views/settings/schema-settings.php:79
+msgid "Business Logo"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1093
+msgid "This is only for Organization category and The image must be 112x112px, at minimum."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1098, ../views/settings/schema-settings.php:85
+msgid "Price Range"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1100, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3877, ../views/settings/schema-settings.php:87
+msgid "The price range of the business, for example $$$."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1106, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3183, ../views/settings/schema-settings.php:103, ../views/settings/schema-settings.php:109
+msgid "Address"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1111, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3188
+msgid "Street address"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1116, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3193
+msgid "Address locality"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1122, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3199
+msgid "Address region"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1128, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3205
+msgid "Postal code"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1132, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3209, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4221, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4318, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4415, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4511, ../views/settings/schema-settings.php:134
+msgid "Country"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1143
+msgid "GEO"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1148, ../views/settings/schema-settings.php:147
+msgid "Latitude"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1153, ../views/settings/schema-settings.php:152
+msgid "Longitude"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1160
+msgid "Opening Hours By Day"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1168
+msgid "Monday"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1169
+msgid "Tuesday"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1170
+msgid "Wednesday"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1171
+msgid "Thursday"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1172
+msgid "Friday"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1173
+msgid "Saturday"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1174
+msgid "Sunday"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1176
+msgid "Don't add same day multiple time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1181
+msgid "Opens Time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1182
+msgid "Times are specified using 24:00 time. For example, 3PM is specified as 15:00."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1187
+msgid "Closes Time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1194, ../views/settings/schema-corporate_contacts-settings.php:34
+msgid "Telephone"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1200, ../views/settings/schema-settings.php:50
+msgid "Web URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1206, ../views/settings/schema-settings.php:182
+msgid "Serves Cuisine"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1207, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1213, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1246
+msgid "This is only for Restaurant category"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1212
+msgid "Restaurant Menu Sections"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1233
+msgid "Availability Starts"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1234, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1240
+msgid "Like: 2021-03-02T08:22:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1239
+msgid "Availability Ends"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1245
+msgid "Menu Items"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1271, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1813, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2015
+msgid "Price Currency"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1272
+msgid "Like: USD"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1277
+msgid "Calories"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1278
+msgid "Like: 170 calories"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1283
+msgid "Fat Content"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1284
+msgid "Like: 3 grams"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1289
+msgid "Fiber Content"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1294
+msgid "Protein Content"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1299
+msgid "Suitable For Diet"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1300
+msgid "Example: https://schema.org/GlutenFreeDiet"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1377
+msgid "Software app schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1421
+msgid "Application Category"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1424
+msgid "The type of app (for example, BusinessApplication or GameApplication). The value must be a supported app type."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1429
+msgid "Operating System"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1430
+msgid "The operating(s) required to use the app (for example, Windows 7, OSX 10.6, Android 1.6)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1434
+msgid "Aggregate Rating"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1446, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1452, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1458
+msgid "A numerical quality rating for the item."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1457
+msgid "Rating Count"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1502, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3782, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3790
+msgid "Like this: 2020-12-25 14:20:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1531
+msgid "Book schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1580
+msgid "Book Format"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1589
+msgid "The ISBN of the tome. Use the ISBN of the print book instead if there is no ISBN for that edition, such as for a Kindle edition."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1594
+msgid "Work Example"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1602
+msgid "URL to the page on your site about the book. The page may list all available editions."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1607, ../views/settings/schema-settings.php:98
+msgid "Same As"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1620
+msgid "Number of Pages"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1625
+msgid "Copyright Holder"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1626
+msgid "Holt, Rinehart and Winston"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1631
+msgid "Copyright Year"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1641
+msgid "Genre"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1642
+msgid "Educational Materials"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1647
+msgid "Language"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1648
+msgid "en-US"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1659, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3471
+msgid "Review status"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1721
+msgid "Real state listing schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1755
+msgid "The canonical URL of the listing page"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1801, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2696
+msgid "Award"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1803
+msgid "An award won by or for this listing."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1935
+msgid "Course schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1967
+msgid "Provider"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1972
+msgid "Course Mode"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1973, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3452, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3459
+msgid "One item per line like bellow"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1974
+msgid "MOOC<br>online"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1979
+msgid "Start Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1981, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1988
+msgid "2020-10-16"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:1986
+msgid "End Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2005
+msgid "Course image"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2038
+msgid "Course Url"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2045
+msgid "The date when the item becomes valid. Like this: 2021-08-25 14:20:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2129
+msgid "Product schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2196
+msgid ""
+"<strong>MPN</strong><br>\n"
+"                                &#8594; MPN(Manufacturer Part Number) Used globally, Alphanumeric digits (various lengths)<br>\n"
+"                                <strong>GTIN</strong><br>\n"
+"                                &#8594; UPC(Universal Product Code) Used in primarily North America. 12 numeric digits. eg. 892685001003.<br>\n"
+"                                &#8594; EAN(European Article Number) Used primarily outside of North America. Typically 13 numeric digits (can occasionally be either eight or 14 numeric digits). eg. 4011200296908<br>\n"
+"                                &#8594; ISBN(International Standard Book Number) Used globally, ISBN-13 (recommended), 13 numeric digits 978-0747595823<br>\n"
+"                                &#8594; JAN(Japanese Article Number) Used only in Japan, 8 or 13 numeric digits."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2278
+msgid "The date (in ISO 8601 date format) after which the price will no longer be available. Like this: 2021-08-25 14:20:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2325
+msgid "Recipe schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2356
+msgid "Published Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2374
+msgid "Recipe keywords"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2376
+msgid "Pizza, Nice, Testy"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2381
+msgid "Recipe Category"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2383
+msgid "example, appetizer, entree, etc."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2388
+msgid "Recipe Cuisine"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2390
+msgid "example, French or Ethiopian"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2395
+msgid "Prepare Time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2396
+msgid "PT15M"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2401
+msgid "Cook Time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2402
+msgid "PT1H"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2407
+msgid "Recipe Ingredient"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2420
+msgid "Recipe Instructions"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2430, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2845, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3796
+msgid "Text"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2447
+msgid "Nutrition: calories"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2448
+msgid "240 calories"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2453
+msgid "Nutrition: Fat Content"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2454
+msgid "9 grams fat"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2459
+msgid "User Interaction Count"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2470
+msgid "Review Count"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2485
+msgid "Recipe Yield"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2490
+msgid "Suitable ForDiet"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2491
+msgid "http://schema.org/LowFatDiet"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2617
+msgid "Faq schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2633
+msgid "Faqs"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2638
+msgid "Question"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2643, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3277
+msgid "Answer"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2655
+msgid "Service schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2678
+msgid "The name of the Service."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2682
+msgid "Service type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2685
+msgid "The type of service being offered, e.g. veterans' benefits, emergency relief, etc."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2689
+msgid "Additional type(URL)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2692
+msgid "An additional type for the service, typically used for adding more specific types from external vocabularies in microdata syntax."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2698
+msgid "An award won by or for this service."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2704
+msgid "A category for the service."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2708
+msgid "Provider mobility"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2710
+msgid "Indicates the mobility of a provided service (e.g. 'static', 'dynamic')."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2717
+msgid "A short description of the service. New line is not supported."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2724
+msgid "An image of the service"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2728
+msgid "Main entity of page URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2731
+msgid "Indicates a page (or other CreativeWork) for which this thing is the main entity being described."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2735
+msgid "Same as URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2738
+msgid "URL of a reference Web page that unambiguously indicates the service's identity. E.g. the URL of the service's Wikipedia page, Freebase page, or official website."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2742
+msgid "Url of the service"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2745
+msgid "URL of the service."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2749
+msgid "Alternate name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2751
+msgid "An alias for the service."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2761
+msgid "How to schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2809
+msgid "Supply"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2822
+msgid "Tool"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2835
+msgid "Step"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2860
+msgid "Video Clip ID"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2861
+msgid "Video Clip ID, this need to match with Video Info Clip ID"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2866
+msgid "Direction"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2881
+msgid "Total time"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2937
+msgid "Clip"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2947
+msgid "Clip ID"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2948
+msgid "Like: Clip1, Clip2 etc"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2953
+msgid "Start Offset"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2958
+msgid "End Offset"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:2977
+msgid "About page schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3031
+msgid "Contact page schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3073
+msgid "Video URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3092
+msgid "Person page schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3124
+msgid "Phone"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3139
+msgid "Job Title"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3149
+msgid "Birth Place"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3154
+msgid "Birth Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3160
+msgid "Height"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3165
+msgid "Gender"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3170
+msgid "Nationality"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3175
+msgid "Same As profile link"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3224
+msgid "Q&A schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3239
+msgid "Question title"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3244
+msgid "Question description"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3249
+msgid "Question total answer"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3254
+msgid "Question total votes"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3259
+msgid "Question created Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3266
+msgid "Question author"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3272
+msgid "Answers"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3282, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3433
+msgid "Created Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3289
+msgid "Total votes"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3304
+msgid "Answer type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3305
+msgid "Only one accepted answer will be in this list."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3308, ../views/settings/schema-settings.php:22
+msgid "General"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3309
+msgid "Accepted"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3322
+msgid "Breadcrumb schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3338, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3376
+msgid "Items"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3360
+msgid "Itemlist schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3394
+msgid "Movie schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3446
+msgid "Director"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3453
+msgid "Ted Elliott<br>Terry Rossio"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3458
+msgid "Actor"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3460
+msgid "Johnny Depp<br>Penelope Cruz<br>Ian McShane"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3517
+msgid "Logos should have a wide aspect ratio, not a square icon.<br>Logos should be no wider than 600px, and no taller than 60px.<br>Always retain the original aspect ratio of the logo when resizing. Ideally, logos are exactly 60px tall with width <= 600px. If maintaining a height of 60px would cause the width to exceed 600px, downscale the logo to exactly 600px wide and reduce the height accordingly below 60px to maintain the original aspect ratio."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3522
+msgid "Review same as link"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3553, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3614
+msgid "Video schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3637
+msgid "The title of the video"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3644
+msgid "The description of the video"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3649
+msgid "Thumbnail URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3652
+msgid "A URL pointing to the video thumbnail image file. Images must be at least 160x90 pixels and at most 1920x1080 pixels."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3659
+msgid "2020-02-05T08:00:00+08:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3665
+msgid "The duration of the video in ISO 8601 format.(PT1M33S)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3679
+msgid "A URL pointing to a player for the specific video. Usually this is the information in the src element of an &lt;embed> tag.Example: Dailymotion: http://www.dailymotion.com/swf/x1o2g."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3684
+msgid "Interaction count"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3685
+msgid "The number of times the video has been viewed."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3690
+msgid "Expires"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3703
+msgid "Image License schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3721
+msgid "Image URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3726
+msgid "License URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3733
+msgid "Acquire license URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3745
+msgid "Special announcement schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3767
+msgid "SpecialAnnouncement.name: Name of the announcement. This text should be present on the underlying page."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3774
+msgid "SpecialAnnouncement.url: URL of the page containing the announcements. If present, this must match the URL of the page containing the information."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3788
+msgid "Expires date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3797
+msgid "SpecialAnnouncement.text: Text of the announcements."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3803
+msgid "Announcement Locations"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3808
+msgid "Type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3816
+msgid "SpecialAnnouncement.announcementLocation.name: "
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3824
+msgid "SpecialAnnouncement.announcementLocation.url: URL"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3829
+msgid "Address: Street"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3830
+msgid "SpecialAnnouncement.announcementLocation.address.streetAddress: The street address. For example, 1600 Amphitheatre Pkwy."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3836
+msgid "Address: Locality"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3837
+msgid "SpecialAnnouncement.announcementLocation.address.addressLocality: The locality in which the street address is, and which is in the region. For example, Mountain View."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3843
+msgid "Address: Post Code"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3844
+msgid "SpecialAnnouncement.announcementLocation.address.postalCode: The postal code. For example, 94043."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3850
+msgid "Address: Region"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3851
+msgid "SpecialAnnouncement.announcementLocation.address.addressRegion: The region in which the locality is, and which is in the country. For example, California."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3857
+msgid "Address: Country"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3858
+msgid "SpecialAnnouncement.announcementLocation.address.addressCountry: The country. For example, USA. You can also provide the two-letter ISO 3166-1 alpha-2 country code."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3864
+msgid "ID"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3865
+msgid "SpecialAnnouncement.announcementLocation.@id: An optional unique identifier so that you can reference pre-existing structured data for this location."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3882
+msgid "Telephone (Recommended)"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3910
+msgid "Tech Article schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3944
+msgid "Author Type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3968
+msgid "Author Description"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:3970, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4136
+msgid "Short description. New line is not supported."
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4026, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4140
+msgid "Keywords"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4069
+msgid "Webpage url"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4071
+msgid "Web Page Url"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4075
+msgid "Specialty url"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4077
+msgid "Specialty Url"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4117
+msgid "Last Reviewed"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4120
+msgid "Like this: 2021-12-25"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4124
+msgid "Main Content of Page"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4160
+msgid "Mosque schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4203, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4205, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4300, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4302, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4397, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4399, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4493, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4495
+msgid "Maximum Capacity"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4209, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4306, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4403, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4499
+msgid "Has Map"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4216, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4313, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4410, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4506
+msgid "Address Info"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4226, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4323, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4420, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4516
+msgid "Locality"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4231, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4328, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4425, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4521
+msgid "Region"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4236, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4333, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4430, ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4526, ../views/settings/schema-settings.php:131
+msgid "Postal Code"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4257
+msgid "Church schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4354
+msgid "Hindu temple schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/SingleMetaOptions.php:4450
+msgid "Buddhist temple schema"
+msgstr ""
+
+#: ../templates/reviews.php:45
+msgid "Reviewed by %s user"
+msgid_plural "Reviewed by %s users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/reviews.php:59
+msgid "Sort:"
+msgstr ""
+
+#: ../templates/reviews.php:61
+msgid "All Review"
+msgstr ""
+
+#: ../templates/reviews.php:65
+msgid "Low Rated"
+msgstr ""
+
+#: ../templates/reviews.php:69
+msgid "Highlighted"
+msgstr ""
+
+#: ../templates/reviews.php:84
+msgid "Filter:"
+msgstr ""
+
+#: ../templates/reviews.php:86
+msgid "All Star"
+msgstr ""
+
+#: ../templates/reviews.php:87
+msgid "5 Star"
+msgstr ""
+
+#: ../templates/reviews.php:88
+msgid "4 Star"
+msgstr ""
+
+#: ../templates/reviews.php:89
+msgid "3 Star"
+msgstr ""
+
+#: ../templates/reviews.php:90
+msgid "2 Star"
+msgstr ""
+
+#: ../templates/reviews.php:91
+msgid "1 Star"
+msgstr ""
+
+#: ../templates/affiliate/layout-four.php:35, ../templates/affiliate/layout-three.php:43, ../templates/affiliate/layout-two.php:31, ../templates/summary/layout-three.php:40, ../templates/summary/layout-two.php:29
+msgid "OVERALL"
+msgstr ""
+
+#: ../templates/affiliate/layout-one.php:32, ../templates/affiliate/layout-three.php:51, ../templates/summary/layout-one.php:28, ../templates/summary/layout-three.php:47
+msgid "Based on %s rating"
+msgid_plural "Based on %s ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/affiliate/layout-one.php:54, ../templates/summary/layout-one.php:50
+msgid "<span>%s</span>User"
+msgid_plural "<span>%s</span>Users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../templates/affiliate/layout-one.php:59, ../templates/summary/layout-one.php:55
+msgid "Recommended this item"
+msgstr ""
+
+#: ../templates/affiliate/layout-one.php:90, ../templates/affiliate/layout-three.php:64, ../templates/affiliate/layout-two.php:61
+msgid "Summery"
+msgstr ""
+
+#: ../templates/partials/author.php:10
+msgid "by:"
+msgstr ""
+
+#: ../templates/partials/author.php:13
+msgid "Anonymous"
+msgstr ""
+
+#: ../templates/review/layout-one.php:69, ../templates/review/layout-two.php:64
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../views/settings/media-settings.php:10
+msgid "jpg"
+msgstr ""
+
+#: ../views/settings/media-settings.php:11
+msgid "jpeg"
+msgstr ""
+
+#: ../views/settings/media-settings.php:12
+msgid "png"
+msgstr ""
+
+#: ../views/settings/media-settings.php:13
+msgid "gif"
+msgstr ""
+
+#: ../views/settings/media-settings.php:18
+msgid "Image Upload Settings"
+msgstr ""
+
+#: ../views/settings/media-settings.php:22
+msgid "Image Max Size"
+msgstr ""
+
+#: ../views/settings/media-settings.php:26
+msgid "Change the value as KB, Like 1M = 1024KB"
+msgstr ""
+
+#: ../views/settings/media-settings.php:29
+msgid "Supported Image Type"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:10
+msgid "Misc Settings"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:14
+msgid "Reply title"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:17, ../views/settings/misc-settings.php:23, ../views/settings/misc-settings.php:29, ../views/settings/misc-settings.php:35, ../views/settings/misc-settings.php:41, ../views/settings/misc-settings.php:47, ../views/settings/misc-settings.php:53, ../views/settings/misc-settings.php:59
+msgid "Leave Empty For default Text."
+msgstr ""
+
+#: ../views/settings/misc-settings.php:20
+msgid "Cancel Reply Link Text"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:26
+msgid "Submit Button Label"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:32
+msgid "Name field placeholder"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:38
+msgid "Title field placeholder"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:44
+msgid "Email field placeholder"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:50
+msgid "Website field placeholder"
+msgstr ""
+
+#: ../views/settings/misc-settings.php:56
+msgid "Comment field placeholder"
+msgstr ""
+
+#: ../views/settings/review-settings.php:15
+msgid "Google Captcha v3"
+msgstr ""
+
+#: ../views/settings/review-settings.php:21
+msgid "Recaptcha site key"
+msgstr ""
+
+#: ../views/settings/review-settings.php:22
+msgid "How to get <a target='_blank' href='https://www.radiustheme.com/docs/review-schema/faq/how-to-add-google-captcha-v3-api-key/'>Recaptcha site & secret key?</a>"
+msgstr ""
+
+#: ../views/settings/review-settings.php:27
+msgid "Recaptcha secret key"
+msgstr ""
+
+#: ../views/settings/review-settings.php:30
+msgid "Multiple Review Submission"
+msgstr ""
+
+#: ../views/settings/review-settings.php:34
+msgid "Multiple review"
+msgstr ""
+
+#: ../views/settings/review-settings.php:35, ../views/settings/review-settings.php:46
+msgid "Allow"
+msgstr ""
+
+#: ../views/settings/review-settings.php:40
+msgid "Edit Review Frontend"
+msgstr ""
+
+#: ../views/settings/review-settings.php:42
+msgid "Which field you want to allow to edit for user"
+msgstr ""
+
+#: ../views/settings/review-settings.php:51
+msgid "Review edit field"
+msgstr ""
+
+#: ../views/settings/review-settings.php:61
+msgid "Pros & Cons"
+msgstr ""
+
+#: ../views/settings/review-settings.php:66
+msgid "Anonymous Review"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:13
+msgid "Contact Type"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:17
+msgid "Customer Support"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:18
+msgid "Technical Support"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:19
+msgid "Billing Support"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:20
+msgid "Bill Payment"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:21
+msgid "Sales"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:22
+msgid "Reservations"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:23
+msgid "Credit Card Support"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:24
+msgid "Emergency"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:25
+msgid "Baggage Tracking"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:26
+msgid "Roadside Assistance"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:27
+msgid "Package Tracking"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:35
+msgid "An internationalized version of the phone number, starting with the \"+\" symbol and country code (+1 in the US and Canada)."
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:40
+msgid "The URL of contact page."
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:51
+msgid "Contact Option"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:55
+msgid "Toll Free"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:56
+msgid "Hearing Impaired Supported"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:61
+msgid "Area Served"
+msgstr ""
+
+#: ../views/settings/schema-corporate_contacts-settings.php:68
+msgid "Available Language"
+msgstr ""
+
+#: ../views/settings/schema-migration-settings.php:12
+msgid "Migration"
+msgstr ""
+
+#: ../views/settings/schema-migration-settings.php:13
+msgid "Import data from others schema plugin"
+msgstr ""
+
+#: ../views/settings/schema-migration-settings.php:17
+msgid "WP SEO Schema"
+msgstr ""
+
+#: ../views/settings/schema-migration-settings.php:21
+msgid "Schema Plugin"
+msgstr ""
+
+#: ../views/settings/schema-publisher-settings.php:12
+msgid "Publisher Information"
+msgstr ""
+
+#: ../views/settings/schema-publisher-settings.php:13
+msgid "Publisher info is need for some schema category. Like: Product, NewsArticle etc"
+msgstr ""
+
+#: ../views/settings/schema-publisher-settings.php:17
+msgid "Publisher name"
+msgstr ""
+
+#: ../views/settings/schema-publisher-settings.php:22
+msgid "Publisher logo"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:15
+msgid "<strong>Note:</strong> You can override all post type from <a href=\"%s\">Review Schema Generator</a>"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:26
+msgid "Schema Support"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:32
+msgid "Site Info"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:36
+msgid "Enable site schema"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:41
+msgid "Home page only"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:42
+msgid "Sitewide (Apply General Settings schema sitewide)"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:43
+msgid "Turn off (Turn off global schema)"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:71
+msgid "Alternate Name"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:80
+msgid "The image must be 112x112px, at minimum."
+msgstr ""
+
+#: ../views/settings/schema-settings.php:92
+msgid "Site Telephone"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:99
+msgid "http://example1.com&#10;http://example1.com"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:100
+msgid "Add additional url per line which are same as this site"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:114
+msgid "Street Address"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:119
+msgid "Address Locality"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:125
+msgid "Address Region"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:143
+msgid "Geo Coordinates"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:157
+msgid "Radius"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:162
+msgid "Site Others Info"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:173
+msgid "Opening Hours"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:174
+msgid "Monday 11:00-14:30&#10;Tuesday 17:00-21:30"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:175
+msgid ""
+"- Days are specified with the day name. Like: Monday, Tuesday</br>\n"
+"        - Times are specified using 24:00 time. For example, 3PM is specified as 15:00. <br>\n"
+"        - Add Opening Hours by separate line. Like: Monday 10:00-18:00"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:187
+msgid "Restaurant Menu URL"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:190
+msgid "Accepts Reservations"
+msgstr ""
+
+#: ../views/settings/schema-settings.php:192
+msgid "Accept"
+msgstr ""
+
+#: ../views/settings/schema-sitelink-settings.php:21
+msgid "Enable sitelink search box"
+msgstr ""
+
+#: ../views/settings/schema-sitelink-settings.php:23
+msgid "Your website search box will show in google search result."
+msgstr ""
+
+#: ../views/settings/schema-sitelink-settings.php:26
+msgid "Site Navigation"
+msgstr ""
+
+#: ../views/settings/schema-social_profiles-settings.php:13
+msgid "Provide your social profile information to a Google Knowledge panel"
+msgstr ""
+
+#: ../views/settings/schema-social_profiles-settings.php:19, ../views/settings/schema-social_profiles-settings.php:25
+msgid "Social URL"
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:12
+msgid "Third party plugin settings"
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:16
+msgid "WooCommerce default schema"
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:19
+msgid "This will disable WooCommerce plugin default schema."
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:22
+msgid "Easy Digital Download default schema"
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:25
+msgid "This will disable Easy Digital Download plugin default schema."
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:28
+msgid "Yoast SEO sitelinks searchbox"
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:31
+msgid "This will disable sitelinks searchbox default by Yoast SEO plugin."
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:34
+msgid "Yoast SEO Default Schema JSON-LD"
+msgstr ""
+
+#: ../views/settings/schema-tpp-settings.php:37
+msgid "This will disable all default schema default by Yoast SEO plugin."
+msgstr ""
+
+#: ../views/settings/tools-settings.php:13
+msgid "Licensing"
+msgstr ""
+
+#: ../views/settings/tools-settings.php:17
+msgid "Main plugin license key"
+msgstr ""
+
+#: ../views/settings/woocommerce-settings.php:12
+msgid "<strong>Note: </strong> This information is need for WooCommerce/EDD/Classified Listing product to Google schema (Structured Data)"
+msgstr ""
+
+#: ../views/settings/woocommerce-settings.php:16
+msgid "Brand name"
+msgstr ""
+
+#: ../views/settings/woocommerce-settings.php:42
+msgid "Identifier value"
+msgstr ""
+
+#: ../views/widgets/review-schema.php:7
+msgid "Select Affiliate:"
+msgstr ""

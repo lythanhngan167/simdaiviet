@@ -1,0 +1,53 @@
+.paragraph {
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: inherit;
+  color: #9194a1;
+}
+.main .tab {
+  width: 100%;
+  height: auto;
+  padding: 0 0 2rem;
+}
+.main .tab-menu-link {
+  position: relative;
+  overflow: hidden;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: inherit;
+  cursor: pointer;
+  width: 200px;
+  height: auto;
+  padding: 1rem 0;
+  color: #fff;
+  background: #00669b;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  display: inline-block;
+  border: none;
+}
+.main .tab-menu-link:focus {
+  border: none;
+  outline: none;
+}
+.main .tab-menu-link.active {
+  color: #23282d;
+  background: #ffffff;
+}
+.main .tab-bar {
+  padding: 2.5rem 0;
+  overflow: hidden;
+  background: #ffffff;
+}
+.main .tab-bar-content {
+  display: none;
+  width: 100%;
+  min-height: 10rem;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.main .tab-bar-content.active {
+  display: block;
+}

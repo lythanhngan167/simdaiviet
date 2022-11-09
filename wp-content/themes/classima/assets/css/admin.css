@@ -1,0 +1,81 @@
+.redux-dev-mode-notice-container,
+.redux-timer {
+	display: none;
+}
+.redux-container-image_select .redux-image-select {
+	margin: 0 0 10px !important;
+}
+.redux-custom-inline .redux-container-checkbox li {
+	display: inline;
+	padding-right: 15px;
+	width: inherit !important;
+}
+.redux-custom-inline .redux-container-checkbox li label {
+	width: inherit;
+}
+.rt-postmeta-container .h200 {
+	height: 200px !important;
+}
+.appearance_page_pt-one-click-demo-import .ocdi__gl-item {
+    max-width: 446px;
+}
+.appearance_page_pt-one-click-demo-import .ui-dialog-buttonset .button-primary {
+	background: #008ec2;
+	border-color: #006799;
+	color: #fff;
+}
+.appearance_page_pt-one-click-demo-import .ui-widget-header .ui-dialog-titlebar-close::before {
+	content: none;
+}
+
+/* Listing */
+.rtcl_general_settings-load_bootstrap,
+#rtcl_style_settings-gs_section,
+#rtcl_style_settings-gs_section + table,
+#rtcl_style_settings-single_page_section,
+.rtcl_moderation_settings-detail_page_sidebar_position {
+	display: none;
+}
+
+.elementor-editor-active .select2-container {
+	min-width: 100px !important;
+}
+
+#rtcl-price-unit-wrap .control-label {
+	font-weight: 700;
+}
+.rtcl-cf-wrap {
+	width: 100%;
+}
+.rtcl-cf-wrap .control-label {
+	font-weight: 700;
+}
+.post-type-rtcl_cfg .ui-dialog-titlebar-close .ui-icon-closethick {
+	display: none;
+}
+.rtcl-post-social-profile .control-label,
+#rtcl-pricing-wrap .rtcl-form-group > label,
+.rtcl-price-item .price-wrap .price-label,
+.rtcl-post-contact-details label {
+	font-weight: 700;
+}
+#rtcl_listing_details .col-form-label,
+#rtcl_listing_details .rtcl-from-label {
+	font-weight: 700;
+}
+#rtcl-pricing-wrap .rtcl-pricing-item label {
+	font-weight: 700;
+}
+.rtcl-is-admin .classified-listing-form-title {
+	display: none;
+}
+.redux-main .redux-group-tab .ui-button {
+	padding: 10px 15px 10px;
+}
+.redux-main .redux-group-tab .ui-button .ui-icon {
+	display: none;
+}
+.rtcl-cf-label > span,
+span.require-star {
+	color: red;
+}

@@ -1,0 +1,1464 @@
+# Copyright (C) 2022 Classified Listing Store
+# This file is distributed under the same license as the Classified Listing Store package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Classified Listing Store\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-09-14 10:49+0000\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2022-11-08 02:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3"
+
+#: ../app/RtclStore.php:56, ../app/RtclStore.php:65
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: ../app/Api/RestApi.php:81, ../app/Controllers/Ajax/FrontEnd.php:53,
+#: ../templates/myaccount/membership-statistic.php:76
+msgid "You have no membership."
+msgstr ""
+
+#: ../app/Api/RestApi.php:78
+msgid "Client error while promotion being processed."
+msgstr ""
+
+#: ../app/Controllers/Script.php:53, ../app/Controllers/Script.php:70,
+#: ../app/Controllers/Script.php:102
+msgid "Are You sure to delete?"
+msgstr ""
+
+#: ../app/Controllers/Script.php:62, ../app/Controllers/Script.php:111
+msgid "Error while upload image"
+msgstr ""
+
+#: ../app/Controllers/Script.php:63, ../app/Controllers/Script.php:112
+msgid "Image size is more then %s."
+msgstr ""
+
+#: ../app/Controllers/Script.php:64, ../app/Controllers/Script.php:113
+msgid "File extension not supported."
+msgstr ""
+
+#: ../app/Controllers/Script.php:65, ../app/Controllers/Script.php:114
+msgid "Server Error."
+msgstr ""
+
+#: ../app/Controllers/Script.php:71, ../app/Controllers/Ajax/ApiRequest.php:71
+msgid "Please select a row to delete"
+msgstr ""
+
+#: ../app/Emails/StoreContactEmailToOwner.php:29
+msgid "[{site_title}] Contact via : Store"
+msgstr ""
+
+#: ../app/Emails/StoreContactEmailToOwner.php:38
+msgid "Store contact mail"
+msgstr ""
+
+#: ../app/Emails/StoreManagerInvitation.php:28
+msgid "[{site_title}] Store Manager Invitation : Store"
+msgstr ""
+
+#: ../app/Emails/StoreManagerInvitation.php:37
+msgid "Store Manager Invitation Request"
+msgstr ""
+
+#: ../app/Emails/StoreUpdateEmailToAdmin.php:27
+msgid "[{site_title}] store information is updated"
+msgstr ""
+
+#: ../app/Emails/StoreUpdateEmailToAdmin.php:35
+msgid "Store information is updated"
+msgstr ""
+
+#. translators: %s: search query
+#: ../app/Helpers/Functions.php:477
+msgid "Search results: &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: %s: page number
+#: ../app/Helpers/Functions.php:481
+msgid "&nbsp;&ndash; Page %s"
+msgstr ""
+
+#: ../app/Helpers/Install.php:26
+msgid ""
+"<strong>Classified Listing Store</strong> plugin requires <strong>Classified "
+"Listing Pro</strong> to be installed and activated."
+msgstr ""
+
+#: ../app/Helpers/Install.php:26
+msgid "Error"
+msgstr ""
+
+#: ../app/Helpers/Install.php:73, ../app/Controllers/Hooks/Init.php:142,
+#: ../app/Controllers/Hooks/Init.php:143,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:300,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:555,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:579,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:807,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:883
+msgid "Store"
+msgstr "Cửa hàng"
+
+#: ../app/Models/Dependencies.php:86
+msgid "and"
+msgstr ""
+
+#: ../app/Models/Dependencies.php:99
+msgid ""
+"<strong>Classified Listing Store</strong> is enabled but not effective. It "
+"requires %s in order to work."
+msgstr ""
+
+#: ../app/Models/Membership.php:288
+msgid "Please select a membership promotion. membership_promotions is missing"
+msgstr ""
+
+#: ../app/Models/Membership.php:292
+msgid "Please select an ad. listing_id missing"
+msgstr ""
+
+#: ../app/Models/Membership.php:296
+msgid "You have not membership or any promotions to promote this ad."
+msgstr ""
+
+#: ../app/Models/Membership.php:302
+msgid "You have no %s promotion left."
+msgstr ""
+
+#: ../app/Models/Store.php:390
+msgid "No ad"
+msgstr ""
+
+#: ../app/Models/Store.php:390
+msgid "%s ad"
+msgid_plural "%s ads"
+msgstr[0] ""
+
+#: ../app/Resources/Options.php:9
+msgid "Z to A ( title )"
+msgstr "Z đến A (tiêu đề)"
+
+#: ../app/Resources/Options.php:10
+msgid "A to Z ( title )"
+msgstr "A đến Z (tiêu đề)"
+
+#: ../app/Resources/Options.php:11
+msgid "Recently added ( latest )"
+msgstr "Đã thêm gần đây (mới nhất)"
+
+#: ../app/Resources/Options.php:12
+msgid "Date added ( oldest )"
+msgstr "Ngày thêm (cũ nhất)"
+
+#: ../app/Resources/Options.php:20
+msgid "Facebook"
+msgstr ""
+
+#: ../app/Resources/Options.php:21
+msgid "Twitter"
+msgstr ""
+
+#: ../app/Resources/Options.php:22
+msgid "Youtube"
+msgstr ""
+
+#: ../app/Resources/Options.php:23
+msgid "LinkedIn"
+msgstr ""
+
+#: ../app/Widgets/Search.php:21
+msgid "Classified Listing Store Search"
+msgstr ""
+
+#: ../app/Widgets/Search.php:24
+msgid "A Search feature for store"
+msgstr ""
+
+#: ../app/Widgets/Search.php:65, ../app/Controllers/Hooks/Init.php:151,
+#: ../templates/widgets/search/inline.php:50,
+#: ../templates/widgets/search/vertical.php:51
+msgid "Search Store"
+msgstr ""
+
+#: ../app/Api/V1/V1_StoreApi.php:33
+msgid "Category ids as array of integer or only single integer."
+msgstr ""
+
+#: ../app/Api/V1/V1_StoreApi.php:36
+msgid "Maximum number of items to be returned in result set."
+msgstr ""
+
+#: ../app/Api/V1/V1_StoreApi.php:45
+msgid "Current page of the collection."
+msgstr ""
+
+#: ../app/Api/V1/V1_StoreApi.php:53
+msgid "Order by."
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:31,
+#: ../app/Controllers/Ajax/FrontEnd.php:223
+msgid "No store found to remove logo"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:28, ../app/Controllers/Ajax/Admin.php:51,
+#: ../app/Controllers/Ajax/FrontEnd.php:220,
+#: ../app/Controllers/Ajax/FrontEnd.php:242
+msgid "File could not be deleted."
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:26, ../app/Controllers/Ajax/Admin.php:49,
+#: ../app/Controllers/Ajax/FrontEnd.php:218,
+#: ../app/Controllers/Ajax/FrontEnd.php:240
+msgid "Successfully deleted"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:54,
+#: ../app/Controllers/Ajax/FrontEnd.php:245
+msgid "No store found to remove banner"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:122
+msgid "No store found to upload banner"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:119,
+#: ../app/Controllers/Ajax/FrontEnd.php:331,
+#: ../app/Controllers/Ajax/FrontEnd.php:451
+msgid "Banner image should be selected"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:113,
+#: ../app/Controllers/Ajax/Admin.php:181,
+#: ../app/Controllers/Ajax/FrontEnd.php:324,
+#: ../app/Controllers/Ajax/FrontEnd.php:444
+msgid "Successfully updated."
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:190
+msgid "No store found to upload logo"
+msgstr ""
+
+#: ../app/Controllers/Ajax/Admin.php:187
+msgid "Logo image should be selected"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ApiRequest.php:46,
+#: ../app/Controllers/Ajax/ApiRequest.php:74,
+#: ../app/Controllers/Ajax/ApiRequest.php:92,
+#: ../app/Controllers/Ajax/FrontEnd.php:123,
+#: ../app/Controllers/Ajax/FrontEnd.php:145,
+#: ../app/Controllers/Ajax/FrontEnd.php:163
+msgid "Session not valid"
+msgstr ""
+
+#: ../app/Controllers/Ajax/ApiRequest.php:43
+msgid "Please select a column to update"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:38
+msgid "Authentication error!!"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:61
+msgid "Your promotion Successful applied."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:95
+msgid "Your session have been expired."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:98
+msgid "Invalid Captcha: Please try again."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:102
+msgid "Store is not selected."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:114
+msgid "An error to send mail!"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:117
+msgid "Your e-mail has been sent!"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:126,
+#: ../app/Controllers/Ajax/FrontEnd.php:149,
+#: ../app/Controllers/Ajax/FrontEnd.php:166
+msgid "No store found."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:129
+msgid "Manager id not found."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:132
+msgid "Manager not found to remove."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:135,
+#: ../app/Controllers/Ajax/FrontEnd.php:153
+msgid "Manager not exist."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:139,
+#: ../app/Controllers/Ajax/FrontEnd.php:157
+msgid "Successfully removed."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:169
+msgid "Email is not a valid email"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:173
+msgid "User not found using this (%s) email"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:176
+msgid "You are the owner of this store!!"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:179
+msgid "This (%s) user already is a manager of a store."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:182
+msgid "Invitation already send to this (%s) user."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:185
+msgid "Internal server error"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:203,
+#: ../templates/myaccount/store.php:358
+msgid "Pending"
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:206
+msgid "Manager Invitation is sent to this (%s) user."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:358
+msgid "Category not selected."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:538
+msgid "Please Select required field."
+msgstr ""
+
+#: ../app/Controllers/Ajax/FrontEnd.php:529,
+#: ../app/Controllers/Ajax/FrontEnd.php:517
+msgid "Your store is successfully updated."
+msgstr ""
+
+#: ../app/Controllers/Ajax/Membership.php:56
+msgid ""
+"You are not allow to post at %s category as free. <a href=\"%s\">Buy a "
+"membership</a>."
+msgstr ""
+
+#: ../app/Controllers/Ajax/Membership.php:45,
+#: ../app/Controllers/Ajax/Membership.php:34
+msgid ""
+"You are not allow to post at %s category. <a href=\"%s\">Update your "
+"membership</a>."
+msgstr ""
+
+#: ../app/Controllers/Hooks/ActionHooks.php:41
+msgid "Need to fill all the required field."
+msgstr ""
+
+#: ../app/Controllers/Hooks/CustomHooks.php:26,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:338,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:439,
+#: ../app/Controllers/Hooks/StoreEmailHooks.php:55
+msgid "Ads"
+msgstr "Bài"
+
+#: ../app/Controllers/Hooks/CustomHooks.php:27,
+#: ../app/Controllers/Hooks/StoreEmailHooks.php:56,
+#: ../templates/store/membership-pricing-table.php:46
+msgid "Days"
+msgstr "Ngày"
+
+#: ../app/Controllers/Hooks/CustomHooks.php:30,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:262,
+#: ../app/Controllers/Hooks/StoreEmailHooks.php:59
+msgid "Regular"
+msgstr "Thường xuyên"
+
+#: ../app/Controllers/Hooks/FilterHooks.php:24
+msgid "Store plugin license key"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:25
+msgid "You need to logged in first to approved the request!!"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:31
+msgid "Invitation link is expired!!"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:35
+msgid "Invitation accept successfully."
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:63,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:774
+msgctxt "slug"
+msgid "store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:64,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:780
+msgctxt "slug"
+msgid "store-category"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:88
+msgctxt "Taxonomy General Name"
+msgid "Store Categories"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:89
+msgctxt "Taxonomy Singular Name"
+msgid "Category"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:90,
+#: ../app/Controllers/Hooks/MenuHooks.php:19
+msgid "Store Categories"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:91
+msgid "All Categories"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:92
+msgid "Parent Category"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:93
+msgid "Parent Category:"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:94
+msgid "New Category Name"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:95
+msgid "Add New Category"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:96
+msgid "Edit Category"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:97
+msgid "Update Category"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:98
+msgid "View Category"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:99
+msgid "Separate Categories with commas"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:100
+msgid "Add or remove Categories"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:101
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:103
+msgid "Search Categories"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:104
+msgid "Not Found"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:140
+msgctxt "Post Type General Name"
+msgid "Store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:141
+msgctxt "Post Type Singular Name"
+msgid "Store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:144, ../app/Controllers/Hooks/Init.php:171
+msgid "Stores"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:145
+msgid "Add New Store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:146
+msgid "Add New"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:147
+msgid "New Store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:148
+msgid "Edit Store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:149, ../templates/myaccount/store.php:320
+msgid "Update Store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:150
+msgid "View Store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:152
+msgid "No stores found"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:153
+msgid "No stores found in Trash"
+msgstr ""
+
+#: ../app/Controllers/Hooks/Init.php:172
+msgid "Store Description"
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:143
+msgid ""
+"You can buy a membership to post ad. <a href=\"%s\">Buy a Membership</a>"
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:137
+msgid ""
+"You have no free ads remaining. You can buy a membership to post ad. <a "
+"href=\"%s\">Buy a Membership.</a>"
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:133,
+#: ../app/Controllers/Hooks/MembershipHook.php:130,
+#: ../app/Controllers/Hooks/MembershipHook.php:110
+msgid "You have %s free ads."
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:107
+msgid "unlimited"
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:122
+msgid ""
+"You have no remaining ads at your current membership. <a href=\"%s\">Update "
+"your membership</a>."
+msgstr ""
+"Bạn không còn quảng cáo nào ở tư cách thành viên hiện tại của mình. Cập nhật "
+"tư cách thành viên của bạn."
+
+#: ../app/Controllers/Hooks/MembershipHook.php:117
+msgid "You have %s regular ads."
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:183
+msgid ""
+"You are not allow to post at %s category as free. <a href=\"%s\">Buy a "
+"membership.</a>"
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:173,
+#: ../app/Controllers/Hooks/MembershipHook.php:165
+msgid ""
+"You are not allow to post at %s category. <a href=\"%s\">Update your "
+"membership.</a>"
+msgstr ""
+
+#: ../app/Controllers/Hooks/MembershipHook.php:197
+msgid "Only members can add new listing"
+msgstr ""
+
+#: ../app/Controllers/Hooks/MenuHooks.php:34,
+#: ../app/Controllers/Hooks/MenuHooks.php:35,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:412,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:563,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:573,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:818,
+#: ../templates/checkout/membership.php:19
+msgid "Membership"
+msgstr "Gói thành viên"
+
+#: ../app/Controllers/Hooks/MenuHooks.php:46
+msgid "Manage membership"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:71
+msgid "Store contact information"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:101
+msgid "My Listing"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:104
+msgid "Listing for store"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:172
+msgid "Managed by"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:264
+msgid "--"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:440
+msgid "Validate<small>(Days)</small>"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:470,
+#: ../app/Controllers/Hooks/StoreMetaHook.php:28
+msgid "Pricing Type"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:484
+msgid "Total Number of ads"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:492,
+#: ../templates/checkout/membership-promotions.php:20,
+#: ../templates/myaccount/membership-statistic.php:57
+msgid "Promotions"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:493
+msgid "Total number of promotions ads must be less then total number of ads"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:501,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:151
+msgid "Categories"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:519
+msgid "If you leave it unchecked, membership will validate for all categories."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:574,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:580,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:586,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:601,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:615,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:629,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:642,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:692
+msgid "Enable"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:576
+msgid "Enable Membership option"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:582
+msgid "All Store functionality will be active"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:585
+msgid "Store rating"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:589
+msgid "Enable Store rating. "
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:600
+msgid "Store only for membership"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:603
+msgid ""
+"Store menu at My Account page will visible only for the valid membership "
+"users. "
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:614
+msgid "Single store only for membership"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:617
+msgid ""
+"Single store page will display only for valid membership owner. If enable, "
+"store single page will be only visible until membership is active."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:628
+msgid "Store Manager"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:641
+msgid "Free ads"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:644
+msgid "Enable free ad posting"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:655
+msgid "Number of free ads"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:658
+msgid ""
+"Number of ads to post as free with out membership, if membership is enabled."
+"<br>If this field is blank dy default it will be 3"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:673
+msgid "Renewal days for Free ads number"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:676
+msgid ""
+"Free ads number will be renew after this days.<br>If this field is blank it "
+"will be 30"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:691
+msgid "Unlimited free ads for membership"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:706
+msgid "Enable unlimited free ad posting for membership user."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:709
+msgid "Allowed category for free ads"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:712
+msgid ""
+"Select the specific category for free ads, Leave it un select to allow any "
+"category."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:739,
+#: ../app/Controllers/Hooks/StoreMetaHook.php:121,
+#: ../templates/myaccount/store.php:41
+msgid "Store Banner"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:743,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:754
+msgid "Width"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:744,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:755
+msgid "Height"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:745,
+#: ../app/Controllers/Hooks/RtclApplyHook.php:756
+msgid "Hard Crop"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:747
+msgid "This image size is being used in banner at the store detail page."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:750,
+#: ../app/Controllers/Hooks/StoreMetaHook.php:149,
+#: ../templates/myaccount/store.php:69
+msgid "Store Logo"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:758
+msgid ""
+"This image size is being used at the store detail page and where store link "
+"is given."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:772
+msgid "Store base"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:775
+msgid "Store base permalink."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:778
+msgid "Store category base"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:781
+msgid "Store category base permalink."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:791
+msgid "Store page"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:794
+msgid "Select a page"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:796
+msgid "This is the page where all the active store lists are displayed."
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:903
+msgid "Store Update"
+msgstr ""
+
+#: ../app/Controllers/Hooks/RtclApplyHook.php:910
+msgid "Store contact form"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreEmailHooks.php:45
+msgid "Membership Order"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:50
+msgid "Owner"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:78
+msgid "Store Information"
+msgstr ""
+
+#. translators: 1: user display name 2: user ID 3: user email
+#: ../app/Controllers/Hooks/StoreMetaHook.php:96
+msgid "%1$s (#%2$s &ndash; %3$s)"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:125,
+#: ../templates/myaccount/store.php:46
+msgid "Add Banner"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:126,
+#: ../templates/myaccount/store.php:47
+msgid "Delete Banner"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:139,
+#: ../templates/myaccount/store.php:59
+msgid ""
+"Recommended image size to (%dx%d)px, Maximum file size %s, Allowed image "
+"type (%s)"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:153,
+#: ../templates/myaccount/store.php:74
+msgid "Add Logo"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:154,
+#: ../templates/myaccount/store.php:75
+msgid "Delete Logo"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:166,
+#: ../templates/myaccount/store.php:87
+msgid ""
+"Recommended image size to (%dx%d)px, Maximum file size %s, Allowed image "
+"types %s"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:179,
+#: ../templates/myaccount/store.php:101
+msgid "Opening hours"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:188,
+#: ../templates/myaccount/store.php:110
+msgid "Open on selected hours"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:194,
+#: ../templates/myaccount/store.php:117
+msgid "Always open"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:202
+msgid "Sunday"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:203
+msgid "Monday"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:204
+msgid "Tuesday"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:205
+msgid "Wednesday"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:206
+msgid "Thursday"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:207
+msgid "Friday"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:208
+msgid "Saturday"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:245,
+#: ../app/Controllers/Hooks/StoreMetaHook.php:249
+msgid "Store Owner"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:258,
+#: ../templates/myaccount/store.php:185
+msgid "Slogan"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:267,
+#: ../templates/myaccount/store.php:256
+msgid "Store E-mail Address"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:276,
+#: ../templates/myaccount/store.php:265
+msgid "Store Phone"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:284,
+#: ../templates/myaccount/store.php:274
+msgid "Store Website"
+msgstr ""
+
+#: ../app/Controllers/Hooks/StoreMetaHook.php:292,
+#: ../templates/myaccount/store.php:283
+msgid "Store Address"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:179
+msgid "Relevance"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:205,
+#: ../templates/store/expired-content.php:14
+msgid ""
+"This store is unavailable due to membership is expired for this store owner."
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:221
+msgid "Message Store Owner"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:253
+msgid "Click to reveal phone number"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:282
+msgid "Close now"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:301
+msgid "Open now"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:326,
+#: ../templates/store/details-modal.php:66
+msgid "Always Open"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:322
+msgid "Close Today"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:315
+msgid "Open Today:"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:434
+msgid ""
+"You have no membership to access this page. You can buy a membership from <a "
+"href='%s'>here</a>."
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:483
+msgid "Membership Promotions"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:492
+msgid "Regular Promotions"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:510
+msgid "Go to My Account"
+msgstr ""
+
+#: ../app/Controllers/Hooks/TemplateHooks.php:513
+msgid "Proceed to promotion"
+msgstr ""
+
+#. translators: %d: Page number.
+#: ../app/Controllers/Hooks/TemplateLoader.php:280
+msgid "Page %d"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:55
+msgid "Content Visiblity"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:60
+msgid "Show Image"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:61,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:71,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:80,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:89
+msgid "On"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:62,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:72,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:81,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:90
+msgid "Off"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:64
+msgid "Show or Hide Store Icon/Image. Default: On"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:70
+msgid "Show Title"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:74
+msgid "Show or Hide Store Title. Default: On"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:79
+msgid "Show Time"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:83
+msgid "Show or Hide Store Time. Default: On"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:88
+msgid "Show Count"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:92
+msgid "Show or Hide Store Count. Default: On"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:115
+msgid "General"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:131
+msgid "List View"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:135
+msgid "Grid View"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:144
+msgid "Number of Items"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:146
+msgid "Write -1 to show all"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:159
+msgid "Order By"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:161
+msgid "Date"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:162,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:313,
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:326
+msgid "Title"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:169
+msgid "Sort By"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:171
+msgid "Ascending"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:172
+msgid "Descending"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:320
+msgid "Title Typography"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:337
+msgid "Time"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:344
+msgid "Date Typography"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:350
+msgid "Date Color"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:360
+msgid "Counter"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:367
+msgid "Counter Typography"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Settings/ListingStoreSettings.php:373
+msgid "Counter Color"
+msgstr ""
+
+#: ../app/Controllers/Elementor/Widgets/ListingStore.php:26
+msgid "Listing Store"
+msgstr ""
+
+#: ../templates/content-single-store.php:78
+msgid "More details about this shop"
+msgstr ""
+
+#: ../templates/checkout/membership-pricing-info.php:20
+msgid "Details"
+msgstr "Thông tin chi tiết"
+
+#: ../templates/checkout/membership-pricing-info.php:23
+msgid "Membership Title"
+msgstr "Gói mua"
+
+#: ../templates/checkout/membership-pricing-info.php:27,
+#: ../templates/checkout/membership.php:20
+msgid "Features"
+msgstr "Đặc trưng"
+
+#: ../templates/checkout/membership-pricing-info.php:34
+msgid "Amount "
+msgstr "Tổng"
+
+#: ../templates/checkout/membership-promotions.php:21,
+#: ../templates/myaccount/membership-statistic.php:58
+msgid "Remaining ads"
+msgstr ""
+
+#: ../templates/checkout/membership-promotions.php:22,
+#: ../templates/myaccount/membership-statistic.php:59
+msgid "Validation Duration<small>(# Days)</small>"
+msgstr ""
+
+#: ../templates/checkout/membership-promotions.php:30,
+#: ../templates/myaccount/membership-statistic.php:64
+msgid "Promotions:"
+msgstr ""
+
+#: ../templates/checkout/membership-promotions.php:40,
+#: ../templates/myaccount/membership-statistic.php:66
+msgid "Remaining ads:"
+msgstr ""
+
+#: ../templates/checkout/membership-promotions.php:44,
+#: ../templates/myaccount/membership-statistic.php:68
+msgid "Validation Duration:"
+msgstr ""
+
+#: ../templates/checkout/membership-promotions.php:45
+msgid "%d Days"
+msgstr ""
+
+#: ../templates/checkout/membership.php:21
+msgid "Price [%s %s]"
+msgstr "Giá bán [%s %s]"
+
+#: ../templates/checkout/membership.php:49
+msgid "No plan found."
+msgstr ""
+
+#: ../templates/checkout/membership.php:31
+msgid "Membership:"
+msgstr ""
+
+#: ../templates/checkout/membership.php:38
+msgid "Features:"
+msgstr "Đặc trưng:"
+
+#: ../templates/checkout/membership.php:42
+msgid "Price [%s %s]:"
+msgstr "Giá bán [%s %s]:"
+
+#: ../templates/elementor/grid-store.php:15
+msgctxt "Number of Ads"
+msgid "%s ad"
+msgid_plural "%s ads"
+msgstr[0] ""
+
+#: ../templates/elementor/grid-store.php:25,
+#: ../templates/elementor/list-store.php:25
+msgid "Since %s"
+msgstr ""
+
+#: ../templates/elementor/list-store.php:14
+msgid "%s Ads"
+msgstr "%s Lượt đăng bán sim"
+
+#: ../templates/elementor/list-store.php:14
+msgid "%s Ad"
+msgstr "%s Lượt đăng bán sim"
+
+#: ../templates/emails/store-contact-email-to-owner.php:24,
+#: ../templates/emails/store-manager-invitation.php:29
+msgid "Hi %s"
+msgstr ""
+
+#: ../templates/emails/store-contact-email-to-owner.php:25
+msgid "You have received a reply from your store at <strong>%s</strong>."
+msgstr ""
+
+#: ../templates/emails/store-contact-email-to-owner.php:26
+msgid "<strong>Name</strong> : %s"
+msgstr ""
+
+#: ../templates/emails/store-contact-email-to-owner.php:27
+msgid "<strong>Email</strong> : %s"
+msgstr ""
+
+#: ../templates/emails/store-contact-email-to-owner.php:28
+msgid "<strong>Phone</strong> : %s"
+msgstr ""
+
+#: ../templates/emails/store-contact-email-to-owner.php:29
+msgid "<strong>Message</strong> : %s"
+msgstr ""
+
+#: ../templates/emails/store-manager-invitation.php:30
+msgid ""
+"You have received a store manager request from the store owner of <strong><a "
+"href=\"%s\">%s</a></strong>."
+msgstr ""
+
+#: ../templates/emails/store-manager-invitation.php:31
+msgid "You can approve this request from here: %s"
+msgstr ""
+
+#: ../templates/emails/store-update-email-to-admin.php:20
+msgid "Hi Admin"
+msgstr ""
+
+#: ../templates/emails/store-update-email-to-admin.php:26
+msgid ""
+"Please do not respond to this message. It is automatically generated and is "
+"for information purposes only."
+msgstr ""
+
+#: ../templates/emails/store-update-email-to-admin.php:27
+msgid "Thanks for reading."
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:19
+msgid "Membership Report"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:25
+msgid "Status"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:30
+msgid "Active"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:28
+msgid "Expired"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:35
+msgid "Validity"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:39
+msgid "Expired at"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:39
+msgid "Until"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:46
+msgid "Remaining Ads"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:50
+msgid "Posted Ads"
+msgstr ""
+
+#: ../templates/myaccount/membership-statistic.php:78
+msgid "You can buy a membership from <a href='%s'>here</a>."
+msgstr ""
+
+#: ../templates/myaccount/store-manager-action.php:19
+msgid "You are a manager of the store : %s"
+msgstr ""
+
+#: ../templates/myaccount/store-manager-action.php:21
+msgid "Remove from store manager"
+msgstr ""
+
+#: ../templates/myaccount/store.php:30
+msgid "Settings"
+msgstr ""
+
+#: ../templates/myaccount/store.php:32
+msgid "Managers"
+msgstr ""
+
+#: ../templates/myaccount/store.php:161
+msgid "Store Name"
+msgstr ""
+
+#: ../templates/myaccount/store.php:171
+msgid "Store Slug / URL"
+msgstr ""
+
+#: ../templates/myaccount/store.php:179
+msgid ""
+"This should be unique and you can't able to change in future. This will be "
+"your store url."
+msgstr ""
+
+#: ../templates/myaccount/store.php:204
+msgid "Store Category"
+msgstr ""
+
+#: ../templates/myaccount/store.php:228
+msgid "Store Sub Category"
+msgstr ""
+
+#: ../templates/myaccount/store.php:291
+msgid "Store Details"
+msgstr ""
+
+#: ../templates/myaccount/store.php:300
+msgid "Store Media"
+msgstr ""
+
+#: ../templates/myaccount/store.php:332
+msgid "Invite Manager"
+msgstr ""
+
+#: ../templates/myaccount/store.php:362
+msgid "Listings (%s)"
+msgstr ""
+
+#: ../templates/store/ad-listing.php:35
+msgid "All ads from %s"
+msgstr ""
+
+#: ../templates/store/contact-form.php:15
+msgid "Your name"
+msgstr ""
+
+#: ../templates/store/contact-form.php:22
+msgid "Your email"
+msgstr ""
+
+#: ../templates/store/contact-form.php:28
+msgid "Phone number"
+msgstr ""
+
+#: ../templates/store/contact-form.php:35
+msgid "Message"
+msgstr ""
+
+#: ../templates/store/contact-form.php:44
+msgid "Send Message"
+msgstr ""
+
+#: ../templates/store/details-modal.php:41
+msgid "Open Hours"
+msgstr ""
+
+#: ../templates/store/details-modal.php:63
+msgid "Permanently Close"
+msgstr ""
+
+#: ../templates/store/details-modal.php:57
+msgid "Closed"
+msgstr ""
+
+#: ../templates/store/details-modal.php:72
+msgid "Address"
+msgstr ""
+
+#: ../templates/store/details-modal.php:78
+msgid "Description"
+msgstr ""
+
+#: ../templates/store/details-modal.php:84
+msgid "Visit our website"
+msgstr ""
+
+#: ../templates/store/membership-pricing-table.php:65
+msgid "Sign Up"
+msgstr ""
+
+#: ../templates/store/store-link-to-user-information.php:18
+msgid "Visit member's page"
+msgstr ""
+
+#: ../templates/store/loop/no-stores-found.php:10
+msgid "No Stores were found matching your selection."
+msgstr ""
+
+#: ../templates/widgets/search/inline.php:19,
+#: ../templates/widgets/search/vertical.php:19
+msgid "Enter your keyword here ..."
+msgstr ""
+
+#: ../templates/widgets/search/inline.php:38,
+#: ../templates/widgets/search/vertical.php:29,
+#: ../templates/widgets/search/vertical.php:39
+msgid "Select a category"
+msgstr ""
+
+#: ../templates/widgets/search/inline.php:52,
+#: ../templates/widgets/search/vertical.php:53
+msgid "Reset"
+msgstr ""

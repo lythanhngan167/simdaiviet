@@ -1,0 +1,176 @@
+# Copyright (C) 2019 rt-framework
+# This file is distributed under the same license as the rt-framework package.
+msgid ""
+msgstr ""
+"Project-Id-Version: rt-framework\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: RadiusTheme <info@radiustheme.com>\n"
+"Report-Msgid-Bugs-To: support@radiustheme.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: inc/rt-postmeta-fields.php:76
+msgid "Add More"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:205, inc/rt-widget-fields.php:114
+msgid "Click here to select options"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:273, inc/rt-widget-fields.php:101
+msgid "Choose Image"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:274, inc/rt-widget-fields.php:102
+msgid "Remove Image"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:299
+msgid "Add/Edit Gallery Images"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:300
+msgid "Remove All Images"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:322
+msgid "Choose File"
+msgstr ""
+
+#: inc/rt-postmeta-fields.php:323
+msgid "Remove File"
+msgstr ""
+
+#: inc/rt-posts.php:43
+msgid "Add New"
+msgstr ""
+
+#: inc/rt-posts.php:44, inc/rt-posts.php:111
+msgid "Add New %s"
+msgstr ""
+
+#: inc/rt-posts.php:45, inc/rt-posts.php:108
+msgid "Edit %s"
+msgstr ""
+
+#: inc/rt-posts.php:46
+msgid "New %s"
+msgstr ""
+
+#: inc/rt-posts.php:47, inc/rt-posts.php:48, inc/rt-posts.php:109
+msgid "View %s"
+msgstr ""
+
+#: inc/rt-posts.php:49, inc/rt-posts.php:103
+msgid "Search %s"
+msgstr ""
+
+#: inc/rt-posts.php:50
+msgid "%s not found"
+msgstr ""
+
+#: inc/rt-posts.php:51
+msgid "%s found in Trash"
+msgstr ""
+
+#: inc/rt-posts.php:53, inc/rt-posts.php:105
+msgid "All %s"
+msgstr ""
+
+#: inc/rt-posts.php:54
+msgid "%s Archives"
+msgstr ""
+
+#: inc/rt-posts.php:55
+msgid "%s Attributes"
+msgstr ""
+
+#: inc/rt-posts.php:56
+msgid "Insert into %s"
+msgstr ""
+
+#: inc/rt-posts.php:57
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: inc/rt-posts.php:58
+msgid "Filter %s list"
+msgstr ""
+
+#: inc/rt-posts.php:59, inc/rt-posts.php:118
+msgid "%s list navigation"
+msgstr ""
+
+#: inc/rt-posts.php:60, inc/rt-posts.php:119
+msgid "%s list"
+msgstr ""
+
+#: inc/rt-posts.php:61
+msgid "%s published."
+msgstr ""
+
+#: inc/rt-posts.php:62
+msgid "%s published privately."
+msgstr ""
+
+#: inc/rt-posts.php:63
+msgid "%s reverted to draft."
+msgstr ""
+
+#: inc/rt-posts.php:64
+msgid "%s scheduled."
+msgstr ""
+
+#: inc/rt-posts.php:65
+msgid "%s  updated."
+msgstr ""
+
+#: inc/rt-posts.php:104
+msgid "Popular %s"
+msgstr ""
+
+#: inc/rt-posts.php:106
+msgid "Parent %s"
+msgstr ""
+
+#: inc/rt-posts.php:107
+msgid "Parent %s:"
+msgstr ""
+
+#: inc/rt-posts.php:110
+msgid "Update %s"
+msgstr ""
+
+#: inc/rt-posts.php:112
+msgid "New %s Name"
+msgstr ""
+
+#: inc/rt-posts.php:113
+msgid "Separate %s with commas"
+msgstr ""
+
+#: inc/rt-posts.php:114
+msgid "Add or remove %s"
+msgstr ""
+
+#: inc/rt-posts.php:115
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: inc/rt-posts.php:116
+msgid "No %s found."
+msgstr ""
+
+#: inc/rt-posts.php:117
+msgid "No %s"
+msgstr ""
+
+#: inc/rt-posts.php:120
+msgid "&larr; Back to %s"
+msgstr ""

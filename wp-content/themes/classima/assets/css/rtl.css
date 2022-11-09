@@ -1,0 +1,180 @@
+/*-------------------------------------
+#. General
+---------------------------------------*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+
+.main-header .main-navigation-area .main-navigation ul li ul.sub-menu li.menu-item-has-children::after {
+	content: "\f104";
+}
+
+.main-header .main-navigation-area .main-navigation ul li.mega-menu>ul.sub-menu li::after {
+	content: '';
+}
+
+.mean-container a.meanmenu-reveal {
+	left: 0 !important;
+	right: auto !important;
+}
+
+.main-breadcrumb ul li::after {
+	content: "\f104";
+}
+
+.pagination-area .fa-angle-double-right::before {
+	content: "\f100";
+}
+
+.pagination-area .fa-angle-double-left::before {
+	content: "\f101";
+}
+
+.sidebar-widget-area .widget ul li::before {
+	content: "\f104";
+}
+
+.owl-wrap .fa-angle-left:before {
+	content: "\f105";
+}
+
+.owl-wrap .fa-angle-right:before {
+	content: "\f104";
+}
+
+.rt-el-testimonial-nav .swiper-button-prev {
+	right: auto;
+	left: 0;
+}
+
+.rt-el-listing-cat-slider .swiper-button-prev {
+	right: auto;
+}
+
+.rt-el-listing-cat-slider:hover .swiper-button-prev {
+	right: auto !important;
+	left: -16px;
+}
+
+.rt-el-listing-cat-slider:hover .swiper-button-next {
+	left: auto;
+	right: -16px;
+}
+
+/*-------------------------------------
+#. Listing
+---------------------------------------*/
+.classima-listing-search-form.rtcl-search-inline-form .rtcl-search-input-button {
+	text-align: right;
+}
+
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block .rtcl-filter-form .ui-accordion-item .ui-accordion-icon {
+	float: left;
+}
+
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block .ui-accordion-item .ui-accordion-content .filter-list img {
+	margin-right: 0;
+}
+
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block ul.filter-list li.has-sub .arrow {
+	right: inherit;
+	left: 0;
+}
+
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block .ui-accordion-item .ui-accordion-content .filter-list li .sub-list li a:before {
+	content: '\f104';
+}
+
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block .ui-accordion-item .ui-accordion-content .filter-list .rtcl-icon {
+	margin-right: 0;
+}
+
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block .rtcl-filter-form .ui-link-tree-item .ui-checkbox {
+	margin-right: 0;
+	margin-left: 6.4px;
+}
+
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block ul.ui-link-tree li.is-opener span i {
+	margin-right: 0;
+}
+
+#content .listing-grid-each.featured-listing .rtin-thumb::after {
+	-webkit-clip-path: polygon(100% 0, 0 0, 100% 100%);
+	clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+#content .listing-grid-each-3 .rtin-item .rtin-thumb .rtcl-price-amount {
+	-webkit-clip-path: polygon(0 0, 100% 0, calc(100% - 20px) 50%, 100% 100%, 0 100%);
+	clip-path: polygon(0 0, 100% 0, calc(100% - 20px) 50%, 100% 100%, 0 100%);
+}
+
+#content .rtcl-list-view .listing-list-each.featured-listing .rtin-thumb::after {
+	-webkit-clip-path: polygon(100% 0, 0 0, 100% 100%);
+	clip-path: polygon(100% 0, 0 0, 100% 100%);
+}
+
+#content .rtcl-list-view .listing-list-each-3 .rtin-item .rtin-content .rtcl-price-amount {
+	-webkit-clip-path: polygon(0 0, 100% 0, calc(100% - 20px) 50%, 100% 100%, 0 100%);
+	clip-path: polygon(0 0, 100% 0, calc(100% - 20px) 50%, 100% 100%, 0 100%);
+}
+
+.classima-listing-single .classima-single-details .rtin-specs .rtin-spec-items li::before {
+	content: "\f104";
+}
+
+.classima-listing-single .classima-single-details-2 .rtin-price {
+	-webkit-clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 25px 50%);
+	clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 25px 50%);
+}
+
+.classima-form .rtcl-icon-angle-right::before {
+	content: "\E892";
+}
+
+#content .listing-grid-each-7 .rtin-item .rtin-thumb .rtin-price {
+	padding-left: 22px;
+	padding-right: 15px;
+}
+
+#rtcl-compare-wrap .rtcl-compare-item img {
+	margin-right: 0;
+	margin-left: 15px;
+}
+
+/*-------------------------------------
+#. Single Listing
+---------------------------------------*/
+
+.classima-listing-single .classima-single-details .single-listing-meta-wrap .single-listing-meta li {
+	display: inline-block;
+}
+
+.classima-store-single .classima-store-info .rtin-phone .numbers,
+.classified-seller-info .rtin-box .rtin-phone .rtcl-contact-reveal-wrapper .numbers,
+.classified-seller-info .rtin-box .rtin-phone .numbers {
+	position: relative;
+	padding-right: 25px;
+}
+
+.classima-store-single .classima-store-info .rtin-phone .numbers:before,
+.classified-seller-info .rtin-box .rtin-phone .rtcl-contact-reveal-wrapper .numbers a:first-child::before,
+.classified-seller-info .rtin-box .rtin-phone .numbers:before {
+	position: absolute;
+	right: 0;
+}
+
+.classima-store-single .rtin-banner-wrap .rtin-banner-content .rtin-store-title-area .rtin-title-meta li {
+	display: inline-block;
+}
+
+/*-------------------------------------
+#. Elementor
+---------------------------------------*/
+.rt-el-listing-cat-box .rtin-item .rtin-sub-cats a::before {
+	content: "\f104";
+}
+
+.classima-list-1 li::before {
+	content: '\f177';
+}

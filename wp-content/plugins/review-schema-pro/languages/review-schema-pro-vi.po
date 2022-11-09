@@ -1,0 +1,215 @@
+# Copyright (C) 2022 Review Schema Pro
+# This file is distributed under the same license as the Review Schema Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Review Schema Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-09-27 08:24+0000\n"
+"PO-Revision-Date: 2022-09-27 08:24+0000\n"
+"Last-Translator: \n"
+"Language-Team: Tiếng Việt\n"
+"Language: vi\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.2"
+
+#: ../app/Models/RtrsLicense.php:184, ../app/Models/RtrsLicense.php:178
+msgid "Please enter valid license key for automatic updates."
+msgstr ""
+
+#: ../app/Models/RtrsLicense.php:184, ../app/Models/RtrsLicense.php:178
+msgid "Click here"
+msgstr ""
+
+#: ../app/Models/RtrsLicense.php:277
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s "
+"or %5$supdate now%6$s."
+msgstr ""
+
+#: ../app/Models/RtrsLicense.php:269
+msgid ""
+"There is a new version of %1$s available. %2$sView version %3$s details%4$s."
+msgstr ""
+
+#: ../app/Models/RtrsLicense.php:470
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ../app/Models/RtrsLicense.php:470
+msgid "Error"
+msgstr ""
+
+#: ../app/Controllers/Admin/HookFilter.php:23
+msgid "TV Series"
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:64,
+#: ../app/Controllers/Admin/RtrsLicensing.php:130
+msgid "Your license key expired on %s."
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:70,
+#: ../app/Controllers/Admin/RtrsLicensing.php:136
+msgid "Your license key has been disabled."
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:73,
+#: ../app/Controllers/Admin/RtrsLicensing.php:139
+msgid "Invalid license."
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:77,
+#: ../app/Controllers/Admin/RtrsLicensing.php:143
+msgid "Your license is not active for this URL."
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:80,
+#: ../app/Controllers/Admin/RtrsLicensing.php:146
+msgid "This appears to be an invalid license key for Review Schema Pro."
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:83,
+#: ../app/Controllers/Admin/RtrsLicensing.php:149
+msgid "Your license key has reached its activation limit."
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:86,
+#: ../app/Controllers/Admin/RtrsLicensing.php:57,
+#: ../app/Controllers/Admin/RtrsLicensing.php:152,
+#: ../app/Controllers/Admin/RtrsLicensing.php:123,
+#: ../app/Controllers/Admin/RtrsLicensing.php:179
+msgid "An error occurred, please try again."
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:96
+msgid "Error to activation review schema license"
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:94
+msgid "Review Schema licence successfully activated"
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:162
+msgid "License successfully activated"
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:163,
+#: ../app/Controllers/Admin/RtrsLicensing.php:205
+msgid "Deactivate License"
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:185
+msgid "License successfully deactivated"
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:186,
+#: ../app/Controllers/Admin/RtrsLicensing.php:206
+msgid "Activate License"
+msgstr ""
+
+#: ../app/Controllers/Admin/RtrsLicensing.php:210
+msgid "License key"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:55
+msgid "TV Series schema"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:61
+msgid "Auto Fill"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:66
+msgid "Status"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:69
+msgid "Show"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:70
+msgid "Hide"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:76
+msgid "Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:87
+msgid "Author Type"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:88
+msgid "Select one"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:90
+msgid "Person"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:91
+msgid "Organization"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:97
+msgid "Author"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:98
+msgid "Author Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:103
+msgid "Actor's"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:108
+msgid "Actor Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:115
+msgid "Description"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:121
+msgid "Season"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:126
+msgid "Season Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:131
+msgid "Published Date"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:133
+msgid "Like this: 2021-08-25 14:20:00"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:138
+msgid "Number Of Episodes"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:143
+msgid "Episode Name"
+msgstr ""
+
+#: ../app/Controllers/Admin/Meta/MetaOptions.php:148
+msgid "Episode Number"
+msgstr ""
+
+#: ../review-schema-pro.php:32
+msgid "Review Schema"
+msgstr ""
