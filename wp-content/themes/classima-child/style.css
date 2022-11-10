@@ -484,6 +484,23 @@ padding:0px !important;
 h1.entry-title {
     
     padding-top: 10px;
+    margin-bottom: 0px;
+}
+.trail-items{
+    margin-top: 10px !important;
+}
+.page-id-1793 .banner-content{
+    height: 0px;
+}
+.page-id-1793 .banner-content span{
+   color: white !important;
+}
+.page-id-1793 .content-area{
+    padding-top: 0px !important;
+}
+.main-header .main-navigation-area .main-navigation ul.menu > li.menu-item-has-children:after {
+   
+    bottom: 30px;
 }
 .hotline-bar > a {
   color: #fff;

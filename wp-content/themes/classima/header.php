@@ -29,7 +29,7 @@ namespace radiustheme\Classima;
 		<div class="banner-main">
 	<div class="container">
         <a href="#">
-        <img src="http://192.168.1.7/khosim/wp-content/uploads/2022/10/banenrphongthuy-1.png" alt="" style="
+        <img src="http://192.168.1.7/simdaiviet/wp-content/uploads/2022/10/banenrphongthuy-1.png" alt="" style="
     padding-top: 10px;
 ">
 		</a>
@@ -40,10 +40,11 @@ namespace radiustheme\Classima;
 	
 <div class="container">
 	<div class="banner-content">
-		<h1 class="entry-title"><?php Helper::the_title();?></h1>
+		
 		<?php if ( RDTheme::$has_breadcrumb ): ?>
 		<div class="main-breadcrumb"><?php Helper::the_breadcrumb(); ?></div>
 		<?php endif; ?>
+		<h1 class="entry-title"><?php Helper::the_title();?></h1>
 	</div>
 </div>
 

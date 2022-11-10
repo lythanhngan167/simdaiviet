@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-25 03:11+0000\n"
-"PO-Revision-Date: 2022-11-09 03:15+0000\n"
+"PO-Revision-Date: 2022-11-10 02:36+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -581,7 +581,7 @@ msgstr ""
 #: ../../templates/widgets/search/vertical.php:94,
 #: ../../templates/widgets/search/vertical.php:104
 msgid "Select a category"
-msgstr ""
+msgstr "Chọn loại sim"
 
 #: ../../app/Helpers/Functions.php:1739
 msgid "Select an Option"
@@ -842,7 +842,7 @@ msgstr ""
 
 #: ../../app/Helpers/Text.php:45
 msgid "Add to Favourites"
-msgstr ""
+msgstr "Thêm vào yêu thích"
 
 #: ../../app/Helpers/Text.php:49
 msgid "Remove from Favourites"
@@ -1079,7 +1079,7 @@ msgstr ""
 
 #: ../../app/Models/Countries.php:1484
 msgid "ZIP Code"
-msgstr ""
+msgstr "Mã bưu điện"
 
 #: ../../app/Models/Countries.php:1606, ../../app/Resources/Options.php:645,
 #: ../../app/Resources/Options.php:1890,
@@ -2234,7 +2234,7 @@ msgstr ""
 #: ../../app/Controllers/Hooks/TemplateHooks.php:556,
 #: ../../templates/listing-form/contact.php:117
 msgid "Zip Code"
-msgstr ""
+msgstr "Mã bưu điện"
 
 #: ../../app/Resources/Options.php:639, ../../app/Resources/Options.php:1854,
 #: ../../app/Resources/Options.php:1889,
