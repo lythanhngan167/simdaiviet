@@ -4,11 +4,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /khosim/
+RewriteBase /simdaiviet/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /khosim/index.php [L]
+RewriteRule . /simdaiviet/index.php [L]
 </IfModule>
 
 # END WordPress
