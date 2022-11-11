@@ -16,7 +16,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-27 06:09+0000\n"
-"PO-Revision-Date: 2022-11-08 02:49+0000\n"
+"PO-Revision-Date: 2022-11-11 01:27+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -929,12 +929,12 @@ msgstr ""
 #: ../app/Controllers/Ajax/RtclProAjax.php:48,
 #: ../app/Controllers/Hooks/TemplateHooks.php:95
 msgid "Mark as unsold"
-msgstr ""
+msgstr "Đánh dấu chưa bán"
 
 #: ../app/Controllers/Ajax/RtclProAjax.php:42,
 #: ../app/Controllers/Hooks/TemplateHooks.php:95
 msgid "Mark as sold"
-msgstr ""
+msgstr "Đánh dấu đã bán"
 
 #: ../app/Controllers/Blocks/PricingTable.php:506,
 #: ../app/Controllers/Elementor/Widgets/PricingTable.php:329

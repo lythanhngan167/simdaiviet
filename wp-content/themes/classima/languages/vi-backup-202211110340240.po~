@@ -1,0 +1,2355 @@
+# Copyright (C) 2022 classima
+# This file is distributed under the same license as the classima package.
+msgid ""
+msgstr ""
+"Project-Id-Version: classima\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Tiếng Việt\n"
+"Report-Msgid-Bugs-To: techlabpro15@gmail.com\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:"
+"1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"POT-Creation-Date: 2022-09-27 03:43+0000\n"
+"PO-Revision-Date: 2022-11-11 03:38+0000\n"
+"Last-Translator: \n"
+"Language: vi\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.2; wp-6.0.3"
+
+#: template-parts/comments-callback.php:29
+msgid " %1$s ago / %2$s @ %3$s"
+msgstr " %1$s trước / %2$s @ %3$s"
+
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: classified-listing/custom/list-items/archive-grid-1.php:71,
+#: classified-listing/custom/list-items/archive-grid-2.php:74,
+#: classified-listing/custom/list-items/archive-grid-3.php:73,
+#: classified-listing/custom/list-items/archive-grid-4.php:76,
+#: classified-listing/custom/list-items/archive-grid-6.php:48,
+#: classified-listing/custom/list-items/archive-grid-7.php:64,
+#: classified-listing/custom/list-items/archive-grid-8.php:77,
+#: classified-listing/custom/list-items/archive-grid-9.php:65,
+#: classified-listing/custom/list-items/archive-list-1.php:69,
+#: classified-listing/custom/list-items/archive-list-2.php:79,
+#: classified-listing/custom/list-items/archive-list-5.php:51,
+#: classified-listing/custom/list-items/archive-list-map.php:68
+msgid "%1$s Views"
+msgstr "%1$s lượt xem"
+
+#: classified-listing/custom/content-single-3.php:55,
+#: classified-listing/custom/content-single-4.php:72,
+#: classified-listing/custom/content-single.php:72,
+#: classified-listing/listing/actions.php:26
+msgid "%s views"
+msgstr "% s lượt xem"
+
+#: inc/options/general.php:44, inc/options/listing.php:47,
+#: inc/options/listing.php:59, inc/options/listing.php:71
+msgid "1 Column"
+msgstr ""
+
+#: inc/options/general.php:63
+msgid "12 Hour"
+msgstr ""
+
+#: inc/options/general.php:45, inc/options/listing.php:48,
+#: inc/options/listing.php:60, inc/options/listing.php:72
+msgid "2 Column"
+msgstr ""
+
+#: inc/options/general.php:64
+msgid "24 Hour"
+msgstr ""
+
+#: inc/options/general.php:46, inc/options/listing.php:49,
+#: inc/options/listing.php:61, inc/options/listing.php:73
+msgid "3 Column"
+msgstr ""
+
+#: inc/options/general.php:47, inc/options/listing.php:50,
+#: inc/options/listing.php:62, inc/options/listing.php:74
+msgid "4 Column"
+msgstr ""
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: inc/breadcrumbs.php:253
+msgid "404 Not Found"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:107
+msgid "<a href=\"%s\">You can change your profile picture on Gravatar</a>."
+msgstr ""
+"<a href=\"%s\"> Bạn có thể thay đổi ảnh hồ sơ của mình trên Gravatar </a>."
+
+#: inc/helper/lc-utility.php:42
+msgid ""
+"<b>Please activate your theme using Envato <a href=\"%s\" target=\"_blank\">"
+"purchase code</a>, to get full theme functionality and customer support. <a "
+"href=\"%s\">Activate License</a></b>"
+msgstr ""
+
+#: inc/helper/lc-utility.php:30
+msgid ""
+"<b>Your license key doesn't match your current domain. Please activate the "
+"license again for your current domain. <a href=\"%s\">Activate License</a>"
+"</b>"
+msgstr ""
+
+#: template-parts/content-single.php:88
+msgid "About Author"
+msgstr " Tác giả"
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/options/advertisement.php:112
+msgid "Activate Ad"
+msgstr ""
+
+#: inc/helper/lc-helper.php:185
+msgid "Activate License"
+msgstr ""
+
+#: inc/helper/lc-helper.php:163, inc/helper/lc-utility.php:130
+msgid "Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/options/color.php:139
+msgid "Active Breadcrumb Color"
+msgstr ""
+
+#: classified-listing/listing-form/category.php:24,
+#: inc/options/advertisement.php:120
+msgid "Ad Type"
+msgstr "Mạng di động"
+
+#: classified-listing/myaccount/store.php:55
+msgid "Add Banner"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:116,
+#: classified-listing/myaccount/store.php:91
+msgid "Add Logo"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:143,
+#: classified-listing/myaccount/form-edit-account.php:306,
+#: classified-listing/myaccount/store.php:339, inc/options/social.php:37
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: inc/options/advertisement.php:28, inc/options/advertisement.php:29
+msgid "Advertisement Options"
+msgstr ""
+
+#: inc/options/advertisement.php:175
+msgid "Advertisements"
+msgstr ""
+
+#: inc/options/advertisement.php:187
+msgid "After All Listing Items"
+msgstr ""
+
+#: inc/options/advertisement.php:208
+msgid "After Location Block"
+msgstr ""
+
+#: inc/options/advertisement.php:264
+msgid "After Page Contents"
+msgstr ""
+
+#: inc/options/advertisement.php:245
+msgid "After Post Contents"
+msgstr ""
+
+#: inc/options/advertisement.php:207
+msgid "After Product Block"
+msgstr ""
+
+#: inc/options/advertisement.php:206
+msgid "After Product Contents"
+msgstr ""
+
+#: inc/options/advertisement.php:209
+msgid "After Related Products Block"
+msgstr ""
+
+#: inc/options/advertisement.php:184, inc/options/advertisement.php:203,
+#: inc/options/advertisement.php:225, inc/options/advertisement.php:242,
+#: inc/options/advertisement.php:261
+msgid "After Sidebar"
+msgstr ""
+
+#: classified-listing/listing/author-content.php:87
+msgid "All ads from %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/helper.php:40
+msgid "All Posts"
+msgstr ""
+
+#: inc/helper.php:43
+msgid "All Stores"
+msgstr "Tất cả các cửa hàng"
+
+#: classified-listing/store/custom/sidebar-store.php:81
+msgid "Always Open"
+msgstr "Luôn luôn mở"
+
+#: classified-listing/myaccount/store.php:143
+msgid "Always open"
+msgstr "Luôn luôn mở"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/breadcrumbs.php:254
+msgid "Archives"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/options/listing.php:161
+msgid "Auto Suggestion"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:104
+msgid "Average"
+msgstr ""
+
+#: inc/options/general.php:97
+msgid "Back to Top Arrow"
+msgstr ""
+
+#: inc/options/header.php:174, inc/options/layout.php:122
+msgid "Background Color"
+msgstr ""
+
+#: inc/options/header.php:173, inc/options/layout.php:121
+msgid "Background Image"
+msgstr ""
+
+#: inc/options/header.php:145, inc/options/layout.php:83
+msgid "Banner"
+msgstr ""
+
+#: inc/options/header.php:191, inc/options/layout.php:137
+msgid "Banner Background Color"
+msgstr ""
+
+#: inc/options/header.php:182, inc/options/layout.php:130
+msgid "Banner Background Image"
+msgstr ""
+
+#: inc/options/header.php:200
+msgid "Banner Background Opacity (in %)"
+msgstr ""
+
+#: inc/options/header.php:171, inc/options/layout.php:118
+msgid "Banner Background Type"
+msgstr ""
+
+#: inc/options/header.php:162, inc/options/layout.php:106
+msgid "Banner Search"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:48
+msgid "Basic Information"
+msgstr "Thông tin cơ bản"
+
+#: inc/options/advertisement.php:186
+msgid "Before All Listing Items"
+msgstr ""
+
+#: inc/options/advertisement.php:263
+msgid "Before Page Contents"
+msgstr ""
+
+#: inc/options/advertisement.php:244
+msgid "Before Post Contents"
+msgstr ""
+
+#: inc/options/advertisement.php:205
+msgid "Before Product Contents"
+msgstr ""
+
+#: inc/options/advertisement.php:183, inc/options/advertisement.php:202,
+#: inc/options/advertisement.php:224, inc/options/advertisement.php:241,
+#: inc/options/advertisement.php:260
+msgid "Before Sidebar"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+
+#: templates/blank.php:3
+msgid "Blank Template"
+msgstr ""
+
+#: inc/options/layout.php:171
+msgid "Blog / Archive"
+msgstr ""
+
+#: inc/options/blog.php:16
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/options/advertisement.php:231
+msgid "Blog/Archive"
+msgstr ""
+
+#: inc/options/blog.php:24
+msgid "Blog/Archive Layout"
+msgstr ""
+
+#: inc/options/typography.php:23
+msgid "Body"
+msgstr ""
+
+#: inc/options/color.php:117, inc/options/general.php:54,
+#: inc/options/header.php:153, inc/options/layout.php:94
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/options/color.php:124
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/options/color.php:131
+msgid "Breadcrumb Link Hover Color"
+msgstr ""
+
+#: inc/options/color.php:146
+msgid "Breadcrumb Seperator Color"
+msgstr ""
+
+#: inc/breadcrumbs.php:251
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:250
+msgid "Browse:"
+msgstr "Duyệt qua:"
+
+#: classified-listing/single-rtcl_listing.php:61
+msgid "Business Hours"
+msgstr ""
+
+#: inc/options/error.php:38
+msgid "Button Text"
+msgstr ""
+
+#: classified-listing/listing-form/category.php:55,
+#: classified-listing/listing/custom-fields.php:23
+msgid "Category"
+msgstr "Loại sim"
+
+#: classified-listing/myaccount/form-edit-account.php:130
+msgid "Change Password"
+msgstr "Đổi mật khẩu"
+
+#: classified-listing/listing-form/information.php:51,
+#: classified-listing/listing-form/information.php:196
+msgid "Character limit %s"
+msgstr ""
+
+#: classified-listing/custom/seller-info.php:86,
+#: template-parts/header/part-1.php:54, template-parts/header/part-2.php:45,
+#: template-parts/header/part-3.php:190, template-parts/header/part-4.php:53
+msgid "Chat"
+msgstr "Trò chuyện"
+
+#: classified-listing/custom/functions.php:665
+msgid "Click to reveal phone number"
+msgstr "Bấm để hiện số"
+
+#: classified-listing/listing/actions.php:128
+msgid "Close"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:72
+msgid "Closed"
+msgstr ""
+
+#: inc/options/color.php:16
+msgid "Colors"
+msgstr ""
+
+#: comments.php:24
+msgid "Comment"
+msgstr ""
+
+#: comments.php:79
+msgid "Comment *"
+msgstr "Lời nhắn*"
+
+#. translators: %s is the page number.
+#: inc/breadcrumbs.php:260
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:24
+msgid "Comments"
+msgstr ""
+
+#: comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: classified-listing/custom/list-items/archive-grid-7.php:105,
+#: classified-listing/custom/list-items/archive-list-7.php:110
+msgid "Compare"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:152
+msgid "Confirm Password"
+msgstr "Xác nhận mật khẩu"
+
+#: inc/options/social.php:16
+msgid "Contact & Socials"
+msgstr "Liên hệ & Xã hội"
+
+#: classified-listing/listing-form/contact.php:36
+msgid "Contact Details"
+msgstr "Chi tiết liên hệ"
+
+#: inc/options/general.php:88
+msgid "Container Width"
+msgstr ""
+
+#: inc/options/color.php:194, inc/options/footer.php:40
+msgid "Copyright Area"
+msgstr ""
+
+#: inc/options/color.php:201
+msgid "Copyright Background Color"
+msgstr ""
+
+#: inc/options/footer.php:54
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/options/color.php:208
+msgid "Copyright Text Color"
+msgstr ""
+
+#: classified-listing/multi-currency/price-currency.php:23
+msgid "Currency"
+msgstr ""
+
+#: inc/options/color.php:47
+msgid "Custom"
+msgstr ""
+
+#: inc/options/advertisement.php:123, inc/options/advertisement.php:164
+msgid "Custom Code"
+msgstr ""
+
+#: inc/options/layout.php:31
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/breadcrumbs.php:776, inc/breadcrumbs.php:1206
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/options/layout.php:41, inc/options/layout.php:52,
+#: inc/options/layout.php:63, inc/options/layout.php:74,
+#: inc/options/layout.php:85, inc/options/layout.php:96,
+#: inc/options/layout.php:108, inc/options/layout.php:120
+msgid "Default"
+msgstr ""
+
+#: classified-listing/custom/list-box-myaccount.php:84,
+#: classified-listing/custom/myaccount-contents.php:47
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: classified-listing/myaccount/store.php:56
+msgid "Delete Banner"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:117,
+#: classified-listing/myaccount/store.php:92
+msgid "Delete Logo"
+msgstr ""
+
+#: inc/options/listing.php:162
+msgid "Dependency Selection"
+msgstr ""
+
+#: classified-listing/custom/content-single-3.php:94,
+#: classified-listing/custom/content-single-4.php:106,
+#: classified-listing/listing-form/information.php:168,
+#: classified-listing/myaccount/store.php:350
+msgid "Description"
+msgstr "Mô tả"
+
+#: inc/options/listing.php:45
+msgid "Desktop"
+msgstr ""
+
+#: classified-listing/custom/content-single.php:89,
+#: classified-listing/custom/list-items/archive-list-1.php:91,
+#: classified-listing/custom/list-items/archive-list-2.php:92,
+#: classified-listing/store/custom/sidebar-store.php:33
+msgid "Details"
+msgstr "Thông tin chi tiết"
+
+#: inc/options/advertisement.php:114, inc/options/advertisement.php:147,
+#: inc/options/advertisement.php:156, inc/options/footer.php:48,
+#: inc/options/footer.php:63, inc/options/general.php:56,
+#: inc/options/general.php:72, inc/options/general.php:99,
+#: inc/options/general.php:108, inc/options/header.php:36,
+#: inc/options/header.php:44, inc/options/header.php:53,
+#: inc/options/header.php:62, inc/options/header.php:103,
+#: inc/options/header.php:111, inc/options/header.php:120,
+#: inc/options/header.php:147, inc/options/header.php:155,
+#: inc/options/header.php:164, inc/options/layout.php:43,
+#: inc/options/layout.php:54, inc/options/layout.php:87,
+#: inc/options/layout.php:98, inc/options/layout.php:110
+msgid "Disabled"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/options/post.php:98
+msgid "Display About Author"
+msgstr "Hiển thị Giới thiệu  Tác giả"
+
+#: inc/options/blog.php:48, inc/options/post.php:32
+msgid "Display Author Name"
+msgstr ""
+
+#: inc/options/blog.php:72
+msgid "Display Button"
+msgstr ""
+
+#: inc/options/blog.php:64, inc/options/post.php:40
+msgid "Display Categories"
+msgstr ""
+
+#: inc/options/blog.php:56, inc/options/post.php:48
+msgid "Display Comment Number"
+msgstr ""
+
+#: inc/options/footer.php:46
+msgid "Display Copyright Area"
+msgstr ""
+
+#: inc/options/listing.php:111
+msgid "Display Custom Fields in Listings"
+msgstr ""
+
+#: inc/options/blog.php:40
+msgid "Display Date"
+msgstr ""
+
+#: inc/options/footer.php:61
+msgid "Display Payment Icons"
+msgstr ""
+
+#: inc/options/post.php:24
+msgid "Display Post Date"
+msgstr ""
+
+#: inc/options/listing.php:119
+msgid "Display Related Listing"
+msgstr ""
+
+#: inc/options/post.php:106
+msgid "Display Related Post"
+msgstr ""
+
+#: inc/options/post.php:64
+msgid "Display Social Sharing"
+msgstr ""
+
+#: inc/options/post.php:56
+msgid "Display Tags"
+msgstr ""
+
+#: inc/helper/lc-helper.php:165
+msgid "Domain Mismtach"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:246
+msgid "Don't show the Map"
+msgstr "Không hiển thị Bản đồ"
+
+#: classified-listing/listing-form/contact.php:224
+msgid "e.g. https://example.com"
+msgstr ""
+
+#: classified-listing/custom/list-box-myaccount.php:80,
+#: classified-listing/custom/myaccount-contents.php:43
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+#: classified-listing/listing-form/contact.php:202,
+#: classified-listing/myaccount/form-edit-account.php:86,
+#: classified-listing/myaccount/store.php:306, comments.php:70,
+#: inc/options/social.php:30
+msgid "Email"
+msgstr ""
+
+#: classified-listing/custom/seller-info.php:92
+msgid "Email to Seller"
+msgstr "Gửi email cho người bán"
+
+#: inc/options/advertisement.php:113, inc/options/advertisement.php:146,
+#: inc/options/advertisement.php:155, inc/options/footer.php:47,
+#: inc/options/footer.php:62, inc/options/general.php:55,
+#: inc/options/general.php:71, inc/options/general.php:98,
+#: inc/options/general.php:107, inc/options/header.php:35,
+#: inc/options/header.php:43, inc/options/header.php:52,
+#: inc/options/header.php:61, inc/options/header.php:102,
+#: inc/options/header.php:110, inc/options/header.php:119,
+#: inc/options/header.php:146, inc/options/header.php:154,
+#: inc/options/header.php:163, inc/options/layout.php:42,
+#: inc/options/layout.php:53, inc/options/layout.php:86,
+#: inc/options/layout.php:97, inc/options/layout.php:109
+msgid "Enabled"
+msgstr ""
+
+#: classified-listing/custom/listing-search.php:215,
+#: template-parts/header/header-offscreen.php:170,
+#: template-parts/header/part-3.php:163
+msgid "Enter Keyword here ..."
+msgstr "Nhập số cần tìm..."
+
+#: inc/options/layout.php:206
+msgid "Error 404 Layout"
+msgstr ""
+
+#: inc/options/error.php:16
+msgid "Error Page Settings"
+msgstr ""
+
+#: inc/options/error.php:32
+msgid "Error Text"
+msgstr ""
+
+#: classified-listing/custom/list-box-myaccount.php:71,
+#: classified-listing/custom/myaccount-contents.php:32
+msgid "Expires on"
+msgstr "Hết hạn"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/options/social.php:43
+msgid "Facebook"
+msgstr ""
+
+#: inc/options/error.php:24
+msgid "Featured Image"
+msgstr ""
+
+#: classified-listing/custom/content-single.php:92,
+#: classified-listing/custom/functions.php:421,
+#: classified-listing/listing-form/information.php:220
+msgid "Features"
+msgstr "Đặc trưng"
+
+#: classified-listing/listing-form/information.php:224
+msgid "Features List"
+msgstr "Danh sách tính năng"
+
+#: classified-listing/custom/content-single-2.php:98,
+#: classified-listing/custom/content-single-3.php:102,
+#: classified-listing/custom/content-single-4.php:94
+msgid "Features:"
+msgstr "Đặc trưng:"
+
+#: classified-listing/myaccount/form-edit-account.php:64
+msgid "First Name"
+msgstr "Tên"
+
+#: inc/options/advertisement.php:185, inc/options/advertisement.php:204,
+#: inc/options/advertisement.php:226, inc/options/advertisement.php:243,
+#: inc/options/advertisement.php:262, inc/options/footer.php:16
+msgid "Footer"
+msgstr ""
+
+#: inc/general.php:85
+msgid "Footer 1"
+msgstr ""
+
+#: inc/general.php:86
+msgid "Footer 2"
+msgstr ""
+
+#: inc/general.php:87
+msgid "Footer 3"
+msgstr ""
+
+#: inc/general.php:88
+msgid "Footer 4"
+msgstr ""
+
+#: inc/options/color.php:152
+msgid "Footer Area"
+msgstr ""
+
+#: inc/options/color.php:159
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/options/color.php:180
+msgid "Footer Body Link Color"
+msgstr ""
+
+#: inc/options/color.php:187
+msgid "Footer Body Link Hover Color"
+msgstr ""
+
+#: inc/options/color.php:173
+msgid "Footer Body Text Color"
+msgstr ""
+
+#: inc/options/footer.php:24, inc/options/layout.php:72
+msgid "Footer Style"
+msgstr ""
+
+#: inc/options/color.php:166
+msgid "Footer Title Text Color"
+msgstr ""
+
+#: classified-listing/custom/list-items/archive-grid-1.php:25,
+#: classified-listing/custom/list-items/archive-grid-2.php:22,
+#: classified-listing/custom/list-items/archive-grid-4.php:24,
+#: classified-listing/custom/list-items/archive-grid-6.php:22,
+#: classified-listing/custom/list-items/archive-grid-8.php:27,
+#: classified-listing/custom/list-items/archive-grid-9.php:27
+msgid "For %s"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:27
+msgid "Friday"
+msgstr ""
+
+#: inc/options/layout.php:23
+msgid "Full Width"
+msgstr ""
+
+#: inc/options/general.php:16
+msgid "General"
+msgstr ""
+
+#: inc/options/error.php:39
+msgid "Go To Home Page"
+msgstr "Đi tới Trang chủ"
+
+#: classified-listing/single-rtcl_listing-reviews.php:103
+msgid "Good"
+msgstr ""
+
+#: inc/options/listing.php:24
+msgid "Grid View"
+msgstr ""
+
+#: inc/options/listing.php:30
+msgid "Grid View Style"
+msgstr ""
+
+#: inc/options/advertisement.php:182, inc/options/advertisement.php:201,
+#: inc/options/advertisement.php:223, inc/options/advertisement.php:240,
+#: inc/options/advertisement.php:259, inc/options/header.php:16
+msgid "Header"
+msgstr ""
+
+#: inc/options/header.php:126
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/options/header.php:132
+msgid "Header Button Text(Mobile)"
+msgstr ""
+
+#: inc/options/header.php:139
+msgid "Header Button URL"
+msgstr ""
+
+#: inc/options/header.php:109
+msgid "Header Chat Icon"
+msgstr ""
+
+#: inc/options/typography.php:39
+msgid "Header h1"
+msgstr ""
+
+#: inc/options/typography.php:55
+msgid "Header h2"
+msgstr ""
+
+#: inc/options/typography.php:71
+msgid "Header h3"
+msgstr ""
+
+#: inc/options/typography.php:87
+msgid "Header h4"
+msgstr ""
+
+#: inc/options/typography.php:103
+msgid "Header h5"
+msgstr ""
+
+#: inc/options/typography.php:119
+msgid "Header h6"
+msgstr ""
+
+#: inc/options/header.php:69, inc/options/layout.php:61
+msgid "Header Layout"
+msgstr ""
+
+#: inc/options/header.php:101
+msgid "Header Login Icon"
+msgstr ""
+
+#: inc/options/header.php:117
+msgid "Header Menu"
+msgstr ""
+
+#: inc/options/general.php:105
+msgid "Hide Admin Bar"
+msgstr ""
+
+#: inc/options/general.php:106
+msgid "Hide Admin Bar for subscribers"
+msgstr ""
+
+#: inc/breadcrumbs.php:252
+msgid "Home"
+msgstr "Trang chủ"
+
+#: inc/breadcrumbs.php:758
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/options/advertisement.php:122, inc/options/advertisement.php:131
+msgid "Image"
+msgstr ""
+
+#: classified-listing/listing-form/gallery.php:17
+msgid "Images"
+msgstr "Hình ảnh"
+
+#: inc/options/social.php:73
+msgid "Instagram"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:399
+msgid "Invite Manager"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help."
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:75
+msgid "Last Name"
+msgstr "Họ"
+
+#: inc/options/layout.php:20
+msgid "Layout"
+msgstr ""
+
+#: inc/options/blog.php:28, inc/options/header.php:73,
+#: inc/options/layout.php:64
+msgid "Layout 1"
+msgstr ""
+
+#: inc/options/blog.php:32, inc/options/header.php:77,
+#: inc/options/layout.php:65
+msgid "Layout 2"
+msgstr ""
+
+#: inc/options/header.php:81
+msgid "Layout 3"
+msgstr ""
+
+#: inc/options/header.php:85
+msgid "Layout 4"
+msgstr ""
+
+#: inc/options/header.php:89
+msgid "Layout 5"
+msgstr ""
+
+#: inc/options/header.php:93
+msgid "Layout 6"
+msgstr ""
+
+#: inc/options/layout.php:148
+msgid "Layout Defaults"
+msgstr ""
+
+#: comments.php:87
+msgid "Leave a Reply"
+msgstr "Để lại một câu trả lời"
+
+#: classified-listing/single-rtcl_listing-reviews.php:115
+msgid "Leave a Review"
+msgstr ""
+
+#: inc/options/layout.php:22, inc/options/layout.php:216,
+#: inc/options/layout.php:233, inc/options/layout.php:249
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/helper/lc-helper.php:97
+msgid "License Status"
+msgstr ""
+
+#: inc/options/general.php:32
+msgid "Light Logo"
+msgstr ""
+
+#: inc/options/advertisement.php:138
+msgid "Link"
+msgstr ""
+
+#: inc/options/social.php:55
+msgid "Linkedin"
+msgstr ""
+
+#: inc/options/listing.php:86
+msgid "List View Style"
+msgstr ""
+
+#: inc/options/layout.php:256
+msgid "Listing Account Page"
+msgstr ""
+
+#: inc/options/layout.php:223
+msgid "Listing Archive"
+msgstr ""
+
+#: inc/options/advertisement.php:192
+msgid "Listing Page"
+msgstr ""
+
+#: inc/options/listing.php:138
+msgid "Listing Search Items"
+msgstr ""
+
+#: inc/options/listing.php:157
+msgid "Listing Search Style"
+msgstr ""
+
+#: inc/options/listing.php:16
+msgid "Listing Settings"
+msgstr ""
+
+#: inc/options/layout.php:239
+msgid "Listing Single"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:426
+msgid "Listings (%s)"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:156,
+#: classified-listing/listing/map.php:12,
+#: classified-listing/myaccount/form-edit-account.php:201,
+#: classified-listing/myaccount/form-edit-account.php:317
+msgid "Location"
+msgstr "Địa điểm"
+
+#: template-parts/header/part-1.php:21, template-parts/header/part-2.php:18,
+#: template-parts/header/part-3.php:33, template-parts/header/part-4.php:21
+msgid "Login/Register"
+msgstr "Đăng nhập / Đăng ký"
+
+#: inc/options/general.php:41
+msgid "Logo Area Width"
+msgstr ""
+
+#: inc/options/general.php:24
+msgid "Main Logo"
+msgstr ""
+
+#: inc/options/color.php:68
+msgid "Main Menu"
+msgstr ""
+
+#: inc/options/typography.php:135
+msgid "Main Menu Items"
+msgstr ""
+
+#: inc/options/advertisement.php:158
+msgid "Make Link Nofollow"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:27
+msgid "Managers"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:235,
+#: classified-listing/myaccount/form-edit-account.php:334
+msgid "Map"
+msgstr ""
+
+#: classified-listing/custom/list-box-myaccount.php:88,
+#: classified-listing/custom/myaccount-contents.php:52
+msgid "Mark as sold"
+msgstr "Đánh dấu đã bán"
+
+#: classified-listing/custom/list-box-myaccount.php:88,
+#: classified-listing/custom/myaccount-contents.php:52
+msgid "Mark as unsold"
+msgstr "Đánh dấu chưa bán"
+
+#: classified-listing/listing-form/information.php:138
+msgid "Max Price"
+msgstr "Giá tối đa"
+
+#: classified-listing/content-single-store.php:34
+msgid "Member since - "
+msgstr ""
+
+#: inc/options/color.php:75
+msgid "Menu Color"
+msgstr ""
+
+#: inc/options/typography.php:141
+msgid "Menu Font"
+msgstr ""
+
+#: inc/options/color.php:82
+msgid "Menu Hover Color"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:91
+msgid "Message Store Owner"
+msgstr ""
+
+#: classified-listing/listing/actions.php:122
+msgid "Message... "
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#. translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:262
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:724
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:741
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/options/listing.php:69
+msgid "Mobile"
+msgstr ""
+
+#: inc/options/typography.php:181
+msgid "Mobile Menu"
+msgstr ""
+
+#: inc/options/typography.php:187
+msgid "Mobile Menu Font"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:23
+msgid "Monday"
+msgstr ""
+
+#: inc/breadcrumbs.php:775, inc/breadcrumbs.php:831, inc/breadcrumbs.php:1202
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: classified-listing/custom/sidebar-account.php:18,
+#: template-parts/header/part-1.php:21, template-parts/header/part-2.php:18,
+#: template-parts/header/part-3.php:33, template-parts/header/part-4.php:21
+msgid "My Account"
+msgstr "Tài khoản của tôi"
+
+#: comments.php:67
+msgid "Name"
+msgstr "Tên"
+
+#: classified-listing/custom/list-box-myaccount.php:23,
+#: classified-listing/custom/myaccount-contents.php:17
+msgid "Never Expires"
+msgstr "Không bao giờ hết hạn"
+
+#: classified-listing/myaccount/form-edit-account.php:141
+msgid "New Password"
+msgstr "Mật khẩu mới"
+
+#: classified-listing/single-rtcl_listing-reviews.php:38
+msgid "Newer Reviews"
+msgstr ""
+
+#: template-parts/pagination.php:46
+msgid "Next"
+msgstr "Tiếp"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: classified-listing/content-single-store.php:102,
+#: classified-listing/content-single-store.php:92
+msgid "No Ratings"
+msgstr "Không có xếp hạng"
+
+#: classified-listing/custom/noresults.php:10
+msgid "No results found"
+msgstr "không có kết quả nào được tìm thấy"
+
+#: classified-listing/listing-form/price-unit.php:29
+msgid "No unit"
+msgstr ""
+
+#: inc/options/advertisement.php:154
+msgid "Nofollow"
+msgstr ""
+
+#: inc/helper/lc-helper.php:159
+msgid "Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:105
+msgid "Not that bad"
+msgstr ""
+
+#: inc/helper/lc-helper.php:105
+msgid "Note:"
+msgstr ""
+
+#: inc/options/blog.php:42, inc/options/blog.php:50, inc/options/blog.php:58,
+#: inc/options/blog.php:66, inc/options/blog.php:74,
+#: inc/options/listing.php:113, inc/options/listing.php:121,
+#: inc/options/post.php:26, inc/options/post.php:34, inc/options/post.php:42,
+#: inc/options/post.php:50, inc/options/post.php:58, inc/options/post.php:66,
+#: inc/options/post.php:100, inc/options/post.php:108
+msgid "Off"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:37
+msgid "Older Reviews"
+msgstr ""
+
+#: inc/options/blog.php:41, inc/options/blog.php:49, inc/options/blog.php:57,
+#: inc/options/blog.php:65, inc/options/blog.php:73,
+#: inc/options/listing.php:112, inc/options/listing.php:120,
+#: inc/options/post.php:25, inc/options/post.php:33, inc/options/post.php:41,
+#: inc/options/post.php:49, inc/options/post.php:57, inc/options/post.php:65,
+#: inc/options/post.php:99, inc/options/post.php:107
+msgid "On"
+msgstr ""
+
+#: inc/options/advertisement.php:145
+msgid "Open Link in New Tab"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:133,
+#: classified-listing/store/custom/sidebar-store.php:55
+msgid "Opening Hours"
+msgstr "Giờ mở cửa"
+
+#: inc/options/color.php:44
+msgid "Other Colors"
+msgstr ""
+
+#: classified-listing/listing/custom-fields.php:50
+msgid "Overview"
+msgstr "THÔNG TIN SỐ SIM"
+
+#: inc/options/advertisement.php:269, inc/options/layout.php:159
+msgid "Page"
+msgstr ""
+
+#. translators: %s is the page number.
+#: inc/breadcrumbs.php:258
+msgid "Page %s"
+msgstr ""
+
+#: inc/helper.php:33
+msgid "Page not Found"
+msgstr ""
+
+#: template-parts/content-footer.php:71, template-parts/content-footer.php:72,
+#: template-parts/content-footer.php:73, template-parts/content-footer.php:74
+msgid "payment"
+msgstr "Thanh toán"
+
+#: inc/options/footer.php:70
+msgid "Payment Icons Gallery"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:422
+msgid "Pending"
+msgstr "Chờ xử lý"
+
+#: classified-listing/single-rtcl_listing-reviews.php:102
+msgid "Perfect"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:78
+msgid "Permanently Closed"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:174,
+#: classified-listing/myaccount/form-edit-account.php:163,
+#: classified-listing/myaccount/store.php:317, inc/options/social.php:24
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: inc/options/social.php:67
+msgid "Pinterest"
+msgstr ""
+
+#: classified-listing/custom/seller-info.php:49
+msgid "Please <a href='%s'>login</a> to view the seller information."
+msgstr "Vui lòng <a href='%s'> đăng nhập </a> để xem thông tin người bán."
+
+#: classified-listing/store/custom/sidebar-store.php:48
+msgid "Please <a href='%s'>login</a> to view the store contact."
+msgstr ""
+"Vui lòng <a href='%s'> đăng nhập </a> để xem địa chỉ liên hệ của cửa hàng."
+
+#: inc/helper/lc-utility.php:152
+msgid ""
+"Please activate your theme using Envato purchase code, to install demo data."
+msgstr ""
+
+#: inc/helper/lc-utility.php:164, inc/helper/lc-utility.php:182
+msgid ""
+"Please activate your theme using Envato purchase code, to use this plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937,
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/helper/lc-helper.php:176
+msgid ""
+"Please keep in mind, you can activate one license in one domain, if you face "
+"any problem in activation, please contact our"
+msgstr ""
+
+#: functions.php:59
+msgid ""
+"Please update plugin <b><i>%s</b></i> to the latest version otherwise some "
+"functionalities will not work properly. You can update it from <a href='%s'>"
+"here</a>"
+msgstr ""
+
+#: inc/options/general.php:79
+msgid ""
+"Please upload your choice of preloader image. Transparent GIF format is "
+"recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1121,
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387,
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: inc/options/listing.php:159
+msgid "Popup"
+msgstr ""
+
+#: inc/options/post.php:16
+msgid "Post Settings"
+msgstr ""
+
+#: inc/options/layout.php:183
+msgid "Post Single"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/options/general.php:70
+msgid "Preloader"
+msgstr ""
+
+#: inc/options/general.php:78
+msgid "Preloader Image"
+msgstr ""
+
+#: template-parts/pagination.php:45
+msgid "Previous"
+msgstr "Trước"
+
+#: classified-listing/listing-form/information.php:117
+msgid "Price"
+msgstr "Giá"
+
+#: classified-listing/listing-form/information.php:91
+msgid "Price Type"
+msgstr "Loại giá"
+
+#: classified-listing/listing-form/price-unit.php:24
+msgid "Price Unit"
+msgstr ""
+
+#: classified-listing/listing-form/information.php:66
+msgid "Pricing"
+msgstr "Định giá"
+
+#: inc/general.php:69
+msgid "Primary"
+msgstr ""
+
+#: inc/options/color.php:31, inc/options/color.php:46
+msgid "Primary Color"
+msgstr ""
+
+#: classified-listing/listing-form/information.php:33
+msgid "Product Information"
+msgstr "Thông tin sim"
+
+#: classified-listing/myaccount/form-edit-account.php:98
+msgid "Profile Picture"
+msgstr "Ảnh đại diện"
+
+#: classified-listing/custom/list-box-myaccount.php:77,
+#: classified-listing/custom/myaccount-contents.php:39
+msgid "Promote"
+msgstr "Chương trình khuyến mãi"
+
+#: inc/helper/lc-helper.php:89
+msgid "Purchase Code"
+msgstr ""
+
+#: inc/helper/lc-utility.php:127
+msgid "Purchase code already activated for one domain!!!"
+msgstr ""
+
+#: inc/helper/lc-utility.php:140
+msgid "Purchase code is required!!!"
+msgstr ""
+
+#: classified-listing/custom/list-items/archive-grid-7.php:94,
+#: classified-listing/custom/list-items/archive-list-7.php:96
+msgid "Quick View"
+msgstr ""
+
+#: classified-listing/custom/listing-search.php:123,
+#: template-parts/header/header-offscreen.php:156,
+#: template-parts/header/part-3.php:149
+msgid "Radius"
+msgstr ""
+
+#: classified-listing/custom/functions.php:388
+msgid "Random"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:101
+msgid "Rate&hellip;"
+msgstr "Xếp hạng & hellip;"
+
+#: template-parts/content-alt.php:52, template-parts/content.php:53
+msgid "Read More"
+msgstr ""
+
+#: inc/general.php:254
+msgid "read more ..."
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:68
+msgid ""
+"Recommended image size to (%dx%d)px, Maximum file size %s, Allowed image "
+"type (%s)"
+msgstr ""
+"Kích thước hình ảnh được đề xuất thành (% dx% d) px, Kích thước tệp tối đa% "
+"s, Loại hình ảnh được phép (% s)"
+
+#: classified-listing/myaccount/store.php:110
+msgid ""
+"Recommended image size to (%dx%d)px, Maximum file size %s, Allowed image "
+"types %s"
+msgstr ""
+"Kích thước hình ảnh được đề xuất thành (% dx% d) px, Kích thước tệp tối đa% "
+"s, Loại hình ảnh được phép% s"
+
+#: classified-listing/listing/related-listings.php:61
+msgid "Related Ads"
+msgstr ""
+
+#: inc/options/listing.php:127
+msgid "Related Listing Style"
+msgstr ""
+
+#: template-parts/related-posts.php:38
+msgid "Related Post"
+msgstr ""
+
+#: classified-listing/custom/functions.php:468
+msgid "Remove from Favourites"
+msgstr ""
+
+#: comments.php:30
+msgid "Reply"
+msgstr ""
+
+#: classified-listing/listing/actions.php:98,
+#: classified-listing/listing/actions.php:96,
+#: classified-listing/listing/actions.php:83,
+#: classified-listing/listing/actions.php:77,
+#: classified-listing/listing/actions.php:36,
+#: classified-listing/listing/actions.php:34,
+#: classified-listing/listing/actions.php:116
+msgid "Report Abuse"
+msgstr "Báo cáo lạm dụng"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/options/header.php:24
+msgid "Responsive Header Screen Width"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386,
+#: inc/class-tgm-plugin-activation.php:827,
+#: inc/class-tgm-plugin-activation.php:2533,
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Quay lại trang Tổng quan"
+
+#: classified-listing/single-rtcl_listing-reviews.php:34
+msgid "Review"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:99
+msgid "Review Title"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:61
+msgid "Reviews are closed."
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:39
+msgid "Reviews navigation"
+msgstr ""
+
+#: inc/options/layout.php:24, inc/options/layout.php:217,
+#: inc/options/layout.php:234, inc/options/layout.php:250
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/options/social.php:79
+msgid "RSS"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:28
+msgid "Saturday"
+msgstr ""
+
+#: inc/options/header.php:25
+msgid "Screen width in which mobile menu activated. Recommended value is: 992"
+msgstr ""
+
+#: classified-listing/custom/listing-search.php:222
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#: inc/general.php:222
+msgid "Search here ..."
+msgstr "Tìm kiếm ở đây ..."
+
+#: inc/options/layout.php:194
+msgid "Search Layout"
+msgstr ""
+
+#: inc/helper.php:35
+msgid "Search Results for : "
+msgstr "Tìm kiếm kết quả cho :"
+
+#. translators: %s is the search query.
+#: inc/breadcrumbs.php:256
+msgid "Search results for: %s"
+msgstr "Kết quả tìm kiếm cho:% s"
+
+#: inc/options/color.php:38
+msgid "Secondary Color"
+msgstr ""
+
+#: classified-listing/custom/listing-search.php:106,
+#: classified-listing/listing-form/contact.php:163,
+#: classified-listing/myaccount/form-edit-account.php:324,
+#: template-parts/header/header-offscreen.php:139,
+#: template-parts/header/part-3.php:132
+msgid "Select a location"
+msgstr "Chọn một địa điểm"
+
+#: classified-listing/custom/listing-search.php:22,
+#: classified-listing/listing-form/category.php:49
+msgid "Select Category"
+msgstr "Chọn loại sim"
+
+#: classified-listing/custom/listing-search.php:21,
+#: classified-listing/listing-form/contact.php:48,
+#: classified-listing/listing-form/contact.php:79,
+#: classified-listing/listing-form/contact.php:109,
+#: classified-listing/myaccount/form-edit-account.php:211,
+#: classified-listing/myaccount/form-edit-account.php:244,
+#: classified-listing/myaccount/form-edit-account.php:276,
+#: template-parts/header/header-offscreen.php:23,
+#: template-parts/header/header-offscreen.php:26,
+#: template-parts/header/part-3.php:15
+msgid "Select Location"
+msgstr "Chọn một địa điểm"
+
+#: classified-listing/myaccount/store.php:148
+msgid "Select Opening Hours"
+msgstr "Chọn Giờ mở cửa"
+
+#: classified-listing/custom/listing-search.php:23,
+#: classified-listing/custom/listing-search.php:197,
+#: classified-listing/listing-form/category.php:20,
+#: classified-listing/listing-form/category.php:29
+msgid "Select Type"
+msgstr "Chọn mạng di động"
+
+#: inc/options/color.php:50
+msgid ""
+"Selecting Primary Color will hide some color options from the below settings "
+"and replace them with Primary/Secondery Color"
+msgstr ""
+
+#: classified-listing/custom/seller-info.php:33
+msgid "Seller Information"
+msgstr "Thông tin người bán"
+
+#: classified-listing/myaccount/store.php:25
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: classified-listing/listing/actions.php:104
+msgid "Share"
+msgstr "Chia sẻ"
+
+#: classified-listing/listing/actions.php:42
+msgid "Share this Ad:"
+msgstr "Chia sẻ"
+
+#: inc/options/header.php:55
+msgid "Show header at the top when scrolling down"
+msgstr ""
+
+#: classified-listing/custom/list-items/archive-grid-3.php:80,
+#: classified-listing/custom/list-items/archive-grid-4.php:83,
+#: classified-listing/custom/list-items/archive-list-4.php:91
+msgid "Show Phone No"
+msgstr "Hiển thị số điện thoại"
+
+#: classified-listing/custom/functions.php:502
+msgid "Showing %1$d–%2$d of %3$d results"
+msgstr "Hiển thị %1$d–%2$d trong %3$d kết quả"
+
+#: classified-listing/custom/functions.php:505
+msgid "Showing 0 result"
+msgstr "Đang hiển thị 0 kết quả"
+
+#: classified-listing/custom/functions.php:500
+msgid "Showing 1 result"
+msgstr "Đang hiển thị 1 kết quả"
+
+#: inc/general.php:76, inc/helper.php:184
+msgid "Sidebar"
+msgstr ""
+
+#: inc/general.php:111
+msgid "Sidebar - Archive Listing"
+msgstr ""
+
+#: inc/general.php:119
+msgid "Sidebar - My Account"
+msgstr ""
+
+#: inc/general.php:103
+msgid "Sidebar - Single Listing"
+msgstr ""
+
+#: inc/options/advertisement.php:214
+msgid "Single Listing Page"
+msgstr ""
+
+#: inc/options/listing.php:99
+msgid "Single Listing Style"
+msgstr ""
+
+#: inc/options/advertisement.php:250
+msgid "Single Post"
+msgstr ""
+
+#: inc/options/color.php:24
+msgid "Sitewide Colors"
+msgstr ""
+
+#: header.php:21
+msgid "Skip to content"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:226
+msgid "Slogan"
+msgstr ""
+
+#: classified-listing/listing-form/social-profiles.php:29
+msgid "Social Profiles"
+msgstr "Hồ sơ xã hội"
+
+#: classified-listing/listing/social-profiles.php:22
+msgid "Social Profiles:"
+msgstr "Hồ sơ xã hội:"
+
+#: inc/options/post.php:73
+msgid "Social Sharing Icons"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:361
+msgid "Socials"
+msgstr "Mạng xã hội"
+
+#: inc/scripts.php:109
+msgid "Sold Out"
+msgstr "Đã bán"
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/helper/lc-utility.php:133
+msgid "Sorry!!! Purchase code does not match"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/options/listing.php:160
+msgid "Standard"
+msgstr ""
+
+#: classified-listing/custom/list-box-myaccount.php:66,
+#: classified-listing/custom/myaccount-contents.php:27,
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Tình trạng"
+
+#: inc/options/header.php:51
+msgid "Sticky Header"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:47
+msgid "Store Banner"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:248
+msgid "Store Category"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:40
+msgid "Store Images"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:195,
+#: classified-listing/store/custom/sidebar-store.php:43
+msgid "Store Information"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:83
+msgid "Store Logo"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:215
+msgid "Store Name"
+msgstr ""
+
+#: classified-listing/content-single-store.php:142
+msgid "Store Review"
+msgstr "Đánh giá cửa hàng"
+
+#: classified-listing/myaccount/store.php:128
+msgid "Store Schedule"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:200
+msgid "Store Slug / URL"
+msgstr ""
+
+#: classified-listing/custom/functions.php:154
+msgid "Style"
+msgstr ""
+
+#: inc/options/footer.php:28, inc/options/layout.php:75,
+#: inc/options/listing.php:32, inc/options/listing.php:88,
+#: inc/options/listing.php:101, inc/options/listing.php:129
+msgid "Style 1"
+msgstr ""
+
+#: inc/options/footer.php:32, inc/options/layout.php:76,
+#: inc/options/listing.php:33, inc/options/listing.php:89,
+#: inc/options/listing.php:102, inc/options/listing.php:130
+msgid "Style 2"
+msgstr ""
+
+#: inc/options/listing.php:34, inc/options/listing.php:90,
+#: inc/options/listing.php:103
+msgid "Style 3"
+msgstr ""
+
+#: inc/options/listing.php:35, inc/options/listing.php:91,
+#: inc/options/listing.php:104
+msgid "Style 4"
+msgstr ""
+
+#: inc/options/listing.php:36, inc/options/listing.php:92
+msgid "Style 5"
+msgstr ""
+
+#: inc/options/listing.php:37
+msgid "Style 6"
+msgstr ""
+
+#: inc/options/listing.php:38
+msgid "Style 7"
+msgstr ""
+
+#: classified-listing/listing-form/category.php:80
+msgid "Sub Category"
+msgstr "Kiểu sim"
+
+#: inc/options/color.php:89
+msgid "Sub Menu"
+msgstr ""
+
+#: inc/options/typography.php:158
+msgid "Sub Menu Items"
+msgstr ""
+
+#: inc/options/color.php:96
+msgid "Submenu Color"
+msgstr ""
+
+#: inc/options/typography.php:164
+msgid "Submenu Font"
+msgstr ""
+
+#: inc/options/color.php:110
+msgid "Submenu Hover Background Color"
+msgstr ""
+
+#: inc/options/color.php:103
+msgid "Submenu Hover Color"
+msgstr ""
+
+#: classified-listing/listing/actions.php:129,
+#: classified-listing/single-rtcl_listing-reviews.php:88
+msgid "Submit"
+msgstr "Gửi"
+
+#: classified-listing/listing-form/form.php:15
+msgid "Submit Listing"
+msgstr "Gửi danh sách"
+
+#: classified-listing/store/custom/sidebar-store.php:22
+msgid "Sunday"
+msgstr ""
+
+#: inc/helper/lc-helper.php:176
+msgid "Support Center"
+msgstr ""
+
+#: inc/options/advertisement.php:166
+msgid "Supports: Shortcode, Adsense, Text, HTML, Scripts"
+msgstr ""
+
+#: inc/options/listing.php:57
+msgid "Tablet"
+msgstr ""
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:388,
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/helper/lc-helper.php:45, inc/helper/lc-helper.php:45,
+#: inc/helper/lc-helper.php:58
+msgid "Theme License"
+msgstr ""
+
+#: inc/options/init.php:34, inc/options/init.php:35
+msgid "Theme Options"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+
+#: classified-listing/listing-form/terms-conditions.php:36
+msgid "This field is required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: classified-listing/myaccount/store.php:208
+msgid ""
+"This should be unique and you can't able to change in future. This will be "
+"your store url."
+msgstr ""
+"Điều này phải là duy nhất và bạn không thể thay đổi trong tương lai. Đây sẽ "
+"là url cửa hàng của bạn."
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+
+#: classified-listing/listing-form/contact.php:208
+msgid "This will be your username"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:26
+msgid "Thursday"
+msgstr ""
+
+#: inc/options/general.php:62
+msgid "Time Format"
+msgstr ""
+
+#: classified-listing/listing-form/information.php:37
+msgid "Title"
+msgstr "Số sim"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: classified-listing/custom/sidebar-archive.php:10
+msgid "Toggle Filter"
+msgstr "Tổng kết quả"
+
+#: inc/options/color.php:55, inc/options/header.php:34,
+#: inc/options/layout.php:50
+msgid "Top Bar"
+msgstr ""
+
+#: inc/options/color.php:62
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: inc/options/header.php:60, inc/options/layout.php:39
+msgid "Transparent Header"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: inc/options/social.php:49
+msgid "Twitter"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/options/typography.php:16
+msgid "Typography"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:358
+msgid "Update Account"
+msgstr "Cập nhật tài khoản"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+
+#: classified-listing/listing-form/form.php:15
+msgid "Update Listing"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: classified-listing/myaccount/store.php:386
+msgid "Update Store"
+msgstr "Cập nhật cửa hàng"
+
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/options/header.php:133
+msgid "Used on mobile menu"
+msgstr ""
+
+#: inc/options/header.php:118
+msgid "Used on only header layout 5"
+msgstr ""
+
+#: inc/options/general.php:36
+msgid "Used when Transparent Header is enabled"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:53
+msgid "Username"
+msgstr "Tên tài khoản"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:106
+msgid "Very poor"
+msgstr ""
+
+#: classified-listing/custom/seller-info.php:66
+msgid "View Store"
+msgstr "Xem cửa hàng"
+
+#: classified-listing/custom/seller-info.php:60,
+#: classified-listing/store/custom/sidebar-store.php:52
+msgid "Visit Website"
+msgstr ""
+
+#: classified-listing/custom/list-items/archive-list-3.php:61,
+#: classified-listing/custom/list-items/archive-list-4.php:61,
+#: classified-listing/custom/list-items/archive-list-7.php:62
+msgid "Visit: %1$s"
+msgstr ""
+
+#: inc/options/error.php:33
+msgid "We can't find the page you're looking for"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:218,
+#: classified-listing/myaccount/form-edit-account.php:189,
+#: classified-listing/myaccount/store.php:328, comments.php:73
+msgid "Website"
+msgstr ""
+
+#: classified-listing/store/custom/sidebar-store.php:25
+msgid "Wednesday"
+msgstr ""
+
+#. translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:264
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:804
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:188
+msgid "Whatsapp Number"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:193
+msgid "Whatsapp number with your country code. e.g.+1xxxxxxxxxx"
+msgstr ""
+
+#: classified-listing/myaccount/form-edit-account.php:178
+msgid "WhatsApp Phone"
+msgstr ""
+
+#: inc/options/general.php:42
+msgid ""
+"Width is defined by the number of bootstrap columns. Please note, navigation "
+"menu width will be decreased with the increase of logo width"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/options/header.php:42
+msgid "WPML Language Switchers"
+msgstr ""
+
+#: classified-listing/listing-form/information.php:231
+msgid "Write a feature in each line eg. %1$sFeature 1%1$sFeature 2%1$s..."
+msgstr ""
+"Viết một tính năng trong mỗi dòng, ví dụ. %1$sTính năng 1%1$sTính năng 2%1$s."
+".."
+
+#: inc/breadcrumbs.php:774, inc/breadcrumbs.php:803, inc/breadcrumbs.php:830,
+#: inc/breadcrumbs.php:857, inc/breadcrumbs.php:1198
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/options/header.php:64
+msgid "You have to enable Banner or Slider in page to make it work properly"
+msgstr ""
+
+#: inc/general.php:281
+msgid ""
+"You have to must update <strong>Classified Listing Pro</strong> plugin, "
+"otherwise functionality will not work properly."
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:95
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: template-parts/comments-callback.php:45
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: classified-listing/listing/actions.php:121
+msgid "Your Complain"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:85
+msgid "Your Email"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:83
+msgid "Your Name"
+msgstr ""
+
+#: classified-listing/single-rtcl_listing-reviews.php:100
+msgid "Your Rating"
+msgstr "Xếp hạng của bạn"
+
+#: classified-listing/single-rtcl_listing-reviews.php:110
+msgid "Your Review"
+msgstr ""
+
+#: classified-listing/listing/review.php:48
+msgid "Your review is awaiting moderation."
+msgstr ""
+
+#: inc/options/social.php:61
+msgid "Youtube"
+msgstr ""
+
+#: classified-listing/listing-form/contact.php:130,
+#: classified-listing/myaccount/form-edit-account.php:295
+msgid "Zip Code"
+msgstr "Mã bưu điện"

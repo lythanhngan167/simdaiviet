@@ -283,7 +283,7 @@ a:link, a:visited {
     padding: 10px 10px !important;
 } */
 .classima-single-details-2 .rtin-content {
-    float: right;
+ 
     max-height: 2000px !important;
 }
 .rtrs-submit-btn{
@@ -334,6 +334,34 @@ padding:0px !important;
 }
 .woocommerce-loop-product__title{
     font-size: 13px !important;
+}
+#rtcl-account-social-twitter{
+    display: none;
+}
+#rtcl-account-social-instagram{
+    display: none;
+}
+#rtcl-account-social-linkedin{
+    display: none;
+}
+#rtcl-account-social-reddit{
+    display: none;
+}
+#rtcl-account-social-pinterest{
+    display: none;
+}
+#rtcl-store-social-linkedin{
+    display: none;
+}
+#rtcl-store-social-twitter{
+    display: none;
+}
+.main-header .main-navigation-area .main-navigation ul li ul li{
+    padding: 0px !important;
+   
+}
+.main-header .main-navigation-area .main-navigation ul li ul li a {
+    font-size: 13px;
 }
 
 /* css icon liên hệ */
@@ -603,10 +631,10 @@ h1.entry-title {
         
         padding-right: 100px;
     }
-    .classima-single-details-2 .rtin-content {
+    /* .classima-single-details-2 .rtin-content {
         
         max-height: 1000px !important;
-    }
+    } */
     #content .listing-grid-each-1 .rtin-item .rtin-content {
         padding: 5px 0px !important;
         padding-right: 35px !important;
@@ -614,10 +642,7 @@ h1.entry-title {
     #content .listing-grid-each .rtin-item{
         padding-right: 0px !important;
     }
-    .classima-single-details-2 .rtin-content {
-        float: right;
-        max-height: 2000px !important;
-    }
+   
     .rtcl-carousel-slider, .rtcl-slider, .rtcl-slider-nav{
         padding-left: 55px !important;
     }

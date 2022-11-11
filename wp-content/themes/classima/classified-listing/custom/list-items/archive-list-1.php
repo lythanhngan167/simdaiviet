@@ -13,10 +13,10 @@ use Rtcl\Helpers\Link;
 ?>
 <div class="listing-list-each listing-item listing-list-each-1<?php echo esc_attr( $class ); ?>">
 	<div class="rtin-item">
-        <div class="rtin-thumb">
+        <!-- <div class="rtin-thumb">
             <a class="rtin-thumb-inner rtcl-media" href="<?php the_permalink(); ?>"><?php $listing->the_thumbnail(); ?></a>
             <?php TemplateHooks::sold_out_banner(); ?>
-        </div>
+        </div> -->
 		<div class="rtin-content-area">
 			<div class="rtin-content">
 				

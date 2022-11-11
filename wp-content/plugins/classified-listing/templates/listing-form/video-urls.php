@@ -10,7 +10,7 @@
  * @var array $video_urls
  */
 ?>
-<!-- <div class="rtcl-post-video-urls rtcl-post-section<?php echo esc_attr( is_admin() ? " rtcl-is-admin" : '' ) ?>">
+<div class="rtcl-post-video-urls rtcl-post-section<?php echo esc_attr( is_admin() ? " rtcl-is-admin" : '' ) ?>">
     <div class="rtcl-post-section-title">
         <h3><i class="rtcl-icon rtcl-icon-link"></i><?php esc_html_e( "Video URL", "classified-listing" ); ?></h3>
     </div>
@@ -25,4 +25,4 @@
                name="_rtcl_video_urls[]">
         <small class="form-text">E.g. https://www.youtube.com/watch?v=RiXdDGk_XCU, https://vimeo.com/620922414</small>
     </div>
-</div> -->
+</div>

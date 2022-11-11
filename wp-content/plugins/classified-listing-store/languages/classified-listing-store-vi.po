@@ -16,7 +16,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2022-11-08 02:50+0000\n"
+"PO-Revision-Date: 2022-11-11 01:17+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -351,7 +351,7 @@ msgstr ""
 #: ../app/Controllers/Ajax/FrontEnd.php:203,
 #: ../templates/myaccount/store.php:358
 msgid "Pending"
-msgstr ""
+msgstr "Chưa giải quyết"
 
 #: ../app/Controllers/Ajax/FrontEnd.php:206
 msgid "Manager Invitation is sent to this (%s) user."
@@ -566,7 +566,7 @@ msgstr ""
 #: ../app/Controllers/Hooks/MembershipHook.php:130,
 #: ../app/Controllers/Hooks/MembershipHook.php:110
 msgid "You have %s free ads."
-msgstr ""
+msgstr "Bạn có %s bài đăng sim miễn phí."
 
 #: ../app/Controllers/Hooks/MembershipHook.php:107
 msgid "unlimited"
@@ -576,9 +576,7 @@ msgstr ""
 msgid ""
 "You have no remaining ads at your current membership. <a href=\"%s\">Update "
 "your membership</a>."
-msgstr ""
-"Bạn không còn quảng cáo nào ở tư cách thành viên hiện tại của mình. Cập nhật "
-"tư cách thành viên của bạn."
+msgstr "Bạn không còn gói đăng sim nào. Cập nhật gói đăng sim của bạn."
 
 #: ../app/Controllers/Hooks/MembershipHook.php:117
 msgid "You have %s regular ads."

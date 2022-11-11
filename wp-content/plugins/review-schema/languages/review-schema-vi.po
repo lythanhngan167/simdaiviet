@@ -16,12 +16,12 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-09-27 07:20+0000\n"
-"PO-Revision-Date: 2022-10-15 02:13+0000\n"
+"PO-Revision-Date: 2022-11-11 01:41+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.2; wp-6.0.2"
+"X-Loco-Version: 2.6.2; wp-6.0.3"
 
 #. translators: %s template
 #: ../app/Helpers/Functions.php:100
@@ -603,7 +603,7 @@ msgstr ""
 #: ../app/Controllers/Admin/AdminSettings.php:115,
 #: ../views/settings/schema-social_profiles-settings.php:12
 msgid "Social Profiles"
-msgstr ""
+msgstr "Mạng xã hội"
 
 #: ../app/Controllers/Admin/AdminSettings.php:116
 msgid "Corporate Contacts"
@@ -962,7 +962,7 @@ msgstr ""
 
 #: ../app/Controllers/Admin/ReviewSettings.php:263
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 #: ../app/Controllers/Admin/ReviewSettings.php:277
 msgid "Review Options"

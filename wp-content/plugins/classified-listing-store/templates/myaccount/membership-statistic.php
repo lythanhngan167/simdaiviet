@@ -73,8 +73,8 @@ $member = rtclStore()->factory->get_membership();
                 <?php endif; ?>
             </div>
         <?php else: ?>
-            <p><?php esc_html_e("Bạn không có thành viên.", "classified-listing-store") ?></p>
+            <p><?php esc_html_e("Bạn không có gói đăng sim nào.", "classified-listing-store") ?></p>
         <?php endif ?>
-        <p><?php printf(__("Bạn có thể mua một thành viên từ <a href='%s'>đây</a>.", "classified-listing-store"), Link::get_checkout_endpoint_url('membership')) ?></p>
+        <p><?php printf(__("Bạn có thể mua gói đăng sim từ <a href='%s'>đây</a>.", "classified-listing-store"), Link::get_checkout_endpoint_url('membership')) ?></p>
     </div>
 </div>

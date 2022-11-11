@@ -17,7 +17,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "POT-Creation-Date: 2022-09-27 03:43+0000\n"
-"PO-Revision-Date: 2022-11-10 02:35+0000\n"
+"PO-Revision-Date: 2022-11-11 03:57+0000\n"
 "Last-Translator: \n"
 "Language: vi\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -424,7 +424,7 @@ msgstr "Trò chuyện"
 
 #: classified-listing/custom/functions.php:665
 msgid "Click to reveal phone number"
-msgstr "Nhấp để tiết lộ số điện thoại"
+msgstr "Bấm để hiện số"
 
 #: classified-listing/listing/actions.php:128
 msgid "Close"
@@ -527,7 +527,7 @@ msgstr ""
 #: classified-listing/custom/list-box-myaccount.php:84,
 #: classified-listing/custom/myaccount-contents.php:47
 msgid "Delete"
-msgstr "Xóa bỏ"
+msgstr "Xóa "
 
 #: classified-listing/myaccount/store.php:56
 msgid "Delete Banner"
@@ -699,7 +699,7 @@ msgstr ""
 #: classified-listing/custom/list-box-myaccount.php:71,
 #: classified-listing/custom/myaccount-contents.php:32
 msgid "Expires on"
-msgstr "Hết hạn vào"
+msgstr "Hết hạn"
 
 #: inc/class-tgm-plugin-activation.php:2295
 msgid "External Source"
@@ -953,7 +953,7 @@ msgstr ""
 
 #: classified-listing/myaccount/store.php:399
 msgid "Invite Manager"
-msgstr ""
+msgstr "Mời người quản lý"
 
 #: template-parts/content-none.php:17
 msgid ""
@@ -1107,12 +1107,12 @@ msgstr ""
 #: classified-listing/custom/list-box-myaccount.php:88,
 #: classified-listing/custom/myaccount-contents.php:52
 msgid "Mark as sold"
-msgstr "Đánh dấu là đã bán"
+msgstr "Đánh dấu đã bán"
 
 #: classified-listing/custom/list-box-myaccount.php:88,
 #: classified-listing/custom/myaccount-contents.php:52
 msgid "Mark as unsold"
-msgstr "Đánh dấu là chưa bán"
+msgstr "Đánh dấu chưa bán"
 
 #: classified-listing/listing-form/information.php:138
 msgid "Max Price"
@@ -1249,7 +1249,7 @@ msgstr "Không có xếp hạng"
 
 #: classified-listing/custom/noresults.php:10
 msgid "No results found"
-msgstr "không có kết quả nào được tìm thấy"
+msgstr "Không có kết quả nào được tìm thấy"
 
 #: classified-listing/listing-form/price-unit.php:29
 msgid "No unit"
@@ -1338,7 +1338,7 @@ msgstr ""
 
 #: classified-listing/myaccount/store.php:422
 msgid "Pending"
-msgstr "Chưa giải quyết"
+msgstr "Chờ xử lý"
 
 #: classified-listing/single-rtcl_listing-reviews.php:102
 msgid "Perfect"
@@ -1503,7 +1503,7 @@ msgstr "Ảnh đại diện"
 #: classified-listing/custom/list-box-myaccount.php:77,
 #: classified-listing/custom/myaccount-contents.php:39
 msgid "Promote"
-msgstr "Khuyến khích"
+msgstr "Chương trình khuyến mãi"
 
 #: inc/helper/lc-helper.php:89
 msgid "Purchase Code"
@@ -1822,7 +1822,7 @@ msgstr ""
 
 #: classified-listing/myaccount/store.php:361
 msgid "Socials"
-msgstr "Liên kết xã hội"
+msgstr "Mạng xã hội"
 
 #: inc/scripts.php:109
 msgid "Sold Out"
@@ -1854,7 +1854,7 @@ msgstr ""
 #: classified-listing/custom/myaccount-contents.php:27,
 #: inc/class-tgm-plugin-activation.php:2554
 msgid "Status"
-msgstr "Tình trạng"
+msgstr "Trạng thái"
 
 #: inc/options/header.php:51
 msgid "Sticky Header"
@@ -1862,7 +1862,7 @@ msgstr ""
 
 #: classified-listing/myaccount/store.php:47
 msgid "Store Banner"
-msgstr "Biểu ngữ cửa hàng"
+msgstr "Banner cửa hàng"
 
 #: classified-listing/myaccount/store.php:248
 msgid "Store Category"
@@ -1870,12 +1870,12 @@ msgstr "Danh mục cửa hàng"
 
 #: classified-listing/myaccount/store.php:40
 msgid "Store Images"
-msgstr "Lưu trữ hình ảnh"
+msgstr "Hình ảnh cửa hàng"
 
 #: classified-listing/myaccount/store.php:195,
 #: classified-listing/store/custom/sidebar-store.php:43
 msgid "Store Information"
-msgstr "Lưu trữ thông tin"
+msgstr "Thông tin cửa hàng"
 
 #: classified-listing/myaccount/store.php:83
 msgid "Store Logo"
@@ -1895,7 +1895,7 @@ msgstr "Lịch trình cửa hàng"
 
 #: classified-listing/myaccount/store.php:200
 msgid "Store Slug / URL"
-msgstr "Lưu trữ Slug / URL"
+msgstr "Đường dẫn/ URL cửa hàng"
 
 #: classified-listing/custom/functions.php:154
 msgid "Style"

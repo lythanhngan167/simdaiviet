@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-10-25 03:11+0000\n"
-"PO-Revision-Date: 2022-11-10 02:36+0000\n"
+"PO-Revision-Date: 2022-11-11 04:26+0000\n"
 "Last-Translator: \n"
 "Language-Team: Tiếng Việt\n"
 "Language: vi\n"
@@ -171,7 +171,7 @@ msgstr ""
 #: ../../app/Controllers/BusinessHoursController.php:247,
 #: ../../app/Controllers/Admin/ScriptLoader.php:372
 msgid "Are you sure to delete?"
-msgstr ""
+msgstr "Bạn có chắc muốn xóa không?"
 
 #: ../../app/Controllers/BusinessHoursController.php:254,
 #: ../../app/Controllers/BusinessHoursController.php:263
@@ -275,11 +275,14 @@ msgid ""
 "You have successfully registered on our website, Please check your email and "
 "click on the link, we sent a verification mail to verify your email address."
 msgstr ""
+"Bạn đã đăng ký thành công trên trang web của chúng tôi, Vui lòng kiểm tra "
+"email của bạn và nhấp vào liên kết, chúng tôi đã gửi thư xác minh để xác "
+"minh địa chỉ email của bạn."
 
 #: ../../app/Controllers/FormHandler.php:302,
 #: ../../app/Controllers/Ajax/PublicUser.php:174
 msgid "You have successfully registered."
-msgstr ""
+msgstr "Bạn đã đăng ký thành công."
 
 #: ../../app/Controllers/FormHandler.php:360
 msgid "Please enter your password."
@@ -1452,7 +1455,7 @@ msgstr ""
 #: ../../templates/checkout/promotions.php:22,
 #: ../../templates/listing-form/information.php:140
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 #: ../../app/Resources/Gallery.php:295
 msgid "Update Options"
@@ -1967,11 +1970,11 @@ msgstr ""
 
 #: ../../app/Resources/Options.php:312
 msgid "Published"
-msgstr "Được phát hành"
+msgstr "Đã xử lý"
 
 #: ../../app/Resources/Options.php:313
 msgid "Pending"
-msgstr ""
+msgstr "Chờ xử lý"
 
 #: ../../app/Resources/Options.php:314
 msgid "Draft"
@@ -1979,11 +1982,11 @@ msgstr ""
 
 #: ../../app/Resources/Options.php:315
 msgid "Reviewed"
-msgstr ""
+msgstr "Xem xét"
 
 #: ../../app/Resources/Options.php:316
 msgid "Expired"
-msgstr ""
+msgstr "Hết hạn"
 
 #: ../../app/Resources/Options.php:319
 msgid "Temporary"
@@ -1996,7 +1999,7 @@ msgstr ""
 #: ../../app/Resources/Options.php:341
 msgctxt "Payment status"
 msgid "Pending"
-msgstr "Chưa giải quyết"
+msgstr "Chờ xử lý"
 
 #: ../../app/Resources/Options.php:342,
 #: ../../app/Controllers/Admin/RegisterPostType.php:432
@@ -3221,7 +3224,7 @@ msgstr ""
 #: ../../app/Controllers/Admin/Meta/ListingSubmitBoxMice.php:114,
 #: ../../views/settings/listing-type.php:57
 msgid "Update"
-msgstr ""
+msgstr "Cập nhật"
 
 #. translators: 1: order type 2: order number
 #: ../../app/Resources/OrderOptions.php:52
@@ -4560,7 +4563,7 @@ msgstr ""
 
 #: ../../app/Controllers/Hooks/AppliedBothEndHooks.php:121
 msgid "No pricing selected to make payment."
-msgstr ""
+msgstr "Không có gói nào được chọn để thực hiện thanh toán."
 
 #: ../../app/Controllers/Hooks/AppliedBothEndHooks.php:124
 msgid "No payment Gateway selected."
@@ -4653,7 +4656,7 @@ msgstr ""
 
 #: ../../app/Controllers/Hooks/TemplateHooks.php:455
 msgid "Social Profile"
-msgstr ""
+msgstr "Mạng xã hội"
 
 #: ../../app/Controllers/Hooks/TemplateHooks.php:491
 msgid "Select state"
@@ -15315,19 +15318,19 @@ msgstr ""
 
 #: ../../templates/checkout/promotions.php:21
 msgid "Pricing Option"
-msgstr ""
+msgstr "Gói khuyến mãi"
 
 #: ../../templates/checkout/promotions.php:23
 msgid "Visibility"
-msgstr ""
+msgstr "Hiển thị"
 
 #: ../../templates/checkout/promotions.php:24
 msgid "Price [%s %s]"
-msgstr ""
+msgstr "Giá [%s %s]"
 
 #: ../../templates/checkout/promotions.php:70
 msgid "No promotion plan found."
-msgstr ""
+msgstr "Không có chương trình khuyến mãi."
 
 #: ../../templates/checkout/promotions.php:40
 msgid "Pricing Option:"

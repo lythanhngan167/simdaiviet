@@ -173,7 +173,7 @@ $geo_address = get_user_meta($user_id, '_rtcl_geo_address', true);
             </div>
         </div>
 
-        <div class="row classima-acc-form-whatsapp-row">
+        <!-- <div class="row classima-acc-form-whatsapp-row">
             <div class="col-sm-3 col-12">
                 <label class="control-label"><?php esc_html_e( 'WhatsApp Phone', 'classima' ); ?></label>
             </div>
@@ -182,9 +182,9 @@ $geo_address = get_user_meta($user_id, '_rtcl_geo_address', true);
                     <input type="text" name="whatsapp_number" id="rtcl-whatsapp-phone" value="<?php echo esc_attr( $whatsapp_number ); ?>" class="form-control" />
                 </div>
             </div>
-        </div>
+        </div> -->
 
-        <div class="row classima-acc-form-website-row">
+        <!-- <div class="row classima-acc-form-website-row">
             <div class="col-sm-3 col-12">
                 <label class="control-label"><?php esc_html_e( 'Website', 'classima' ); ?></label>
             </div>
@@ -193,7 +193,7 @@ $geo_address = get_user_meta($user_id, '_rtcl_geo_address', true);
                     <input type="url" name="website" id="rtcl-website" value="<?php echo esc_attr( $website ); ?>" class="form-control" />
                 </div>
             </div>
-        </div>
+        </div> -->
     </div>
 
     <div class="classima-form-section">
@@ -290,7 +290,7 @@ $geo_address = get_user_meta($user_id, '_rtcl_geo_address', true);
                 </div>
             </div>
 
-            <div class="row classima-acc-form-zip-row">
+            <!-- <div class="row classima-acc-form-zip-row">
                 <div class="col-sm-3 col-12">
                     <label class="control-label"><?php esc_html_e( 'Zip Code', 'classima' ); ?></label>
                 </div>
@@ -299,7 +299,7 @@ $geo_address = get_user_meta($user_id, '_rtcl_geo_address', true);
                         <input type="text" name="zipcode" value="<?php echo esc_attr( $zipcode ); ?>" class="rtcl-map-field form-control" id="rtcl-zipcode"/>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="row classima-acc-form-address-row">
                 <div class="col-sm-3 col-12">

@@ -8854,3 +8854,4150 @@ Mailer Error: WP_Error Object
 
 )
 
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Listing "0908639007" received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Your listing is received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi admin,</p>
+    <p style="margin: 0 0 16px;">Your listing <strong>0908639007</strong> has been received and it's pending review. This review process could take up to 48 hours.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] New Listing received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Listing received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Administrator,</p>
+    <p style="margin: 0 0 16px;">You have received a new listing on the website Sim Đại Việt.</p>
+    <p style="margin: 0 0 16px;"><strong>Listing :</strong> <a href="http://192.168.1.7/simdaiviet/?post_type=rtcl_listing&amp;p=5851" style="color: #0071bd; font-weight: normal; text-decoration: underline;">0908639007</a></p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong7220011@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Listing "0908639007" received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Your listing is received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi ltc72vn,</p>
+    <p style="margin: 0 0 16px;">Your listing <strong>0908639007</strong> has been received and it's pending review. This review process could take up to 48 hours.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] New Listing received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Listing received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Administrator,</p>
+    <p style="margin: 0 0 16px;">You have received a new listing on the website Sim Đại Việt.</p>
+    <p style="margin: 0 0 16px;"><strong>Listing :</strong> <a href="http://192.168.1.7/simdaiviet/?post_type=rtcl_listing&amp;p=5852" style="color: #0071bd; font-weight: normal; text-decoration: underline;">0908639007</a></p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] New User is registered
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New user is registered</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Admin</p>
+    <p style="margin: 0 0 16px;">1 ( nguyenmanhcuong722001111@gmail.com ) has registered to your site Sim Đại Việt.</p>
+    <p style="margin: 0 0 16px;">Thanks for reading.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => Registration successful at [Sim Đại Việt] 
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Registration successful</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+	<p style="margin: 0 0 16px;">Hi 1</p>
+	<p style="margin: 0 0 16px;">You are successfully registered to this site Sim Đại Việt</p>
+	<p style="margin: 0 0 16px;">Username: 1</p>
+	<br>
+	<p style="margin: 0 0 16px;">Thanks for reading.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Listing "0908639008" received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Your listing is received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi 1,</p>
+    <p style="margin: 0 0 16px;">Your listing <strong>0908639008</strong> has been received and it's pending review. This review process could take up to 48 hours.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] New Listing received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Listing received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Administrator,</p>
+    <p style="margin: 0 0 16px;">You have received a new listing on the website Sim Đại Việt.</p>
+    <p style="margin: 0 0 16px;"><strong>Listing :</strong> <a href="http://192.168.1.7/simdaiviet/?post_type=rtcl_listing&amp;p=5853" style="color: #0071bd; font-weight: normal; text-decoration: underline;">0908639008</a></p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Listing "0908639008" published
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Your listing is published</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi 1,</p>
+    <p style="margin: 0 0 16px;">Your listing <strong>0908639008</strong> is now available at <a href="http://192.168.1.7/simdaiviet/sim/0908639008/" style="color: #0071bd; font-weight: normal; text-decoration: underline;">0908639008</a> and can be viewed by the public.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Order completed
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Payment is completed: #5879</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+    <p style="margin: 0 0 16px;">Hi  ,</p>
+    <p style="margin: 0 0 16px;">We have finished processing your order.</p>
+    <p style="margin: 0 0 16px;">Order <strong>#5879</strong> is completed.</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    [Order #5879] (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5879</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:50 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Hoàn thành            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">n47yJFBT4Bx9</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] : #5879 Order is completed.
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Payment is completed: #5879</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Administrator,</p>
+    <p style="margin: 0 0 16px;">Order <strong>#5879</strong> is completed.</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    <a class="link" href="http://192.168.1.7/simdaiviet/wp-admin/post.php?post=5879&amp;action=edit" style="font-weight: normal; text-decoration: underline; color: #0071bd;">[Order #5879]</a> (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5879</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:50 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Hoàn thành            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">n47yJFBT4Bx9</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt]: New order #5879
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Order: #5879</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">You’ve received the following order from  :</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    <a class="link" href="http://192.168.1.7/simdaiviet/wp-admin/post.php?post=5879&amp;action=edit" style="font-weight: normal; text-decoration: underline; color: #0071bd;">[Order #5879]</a> (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5879</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:50 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Created            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">n47yJFBT4Bx9</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Thank you for your order
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Order: #5879</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi  ,</p>
+    <p style="margin: 0 0 16px;">This notification was for the order <strong>#5879</strong> on the website <strong><a href="http://192.168.1.7/simdaiviet" style="color: #0071bd; font-weight: normal; text-decoration: underline;">Sim Đại Việt</a></strong></p>
+    <p style="margin: 0 0 16px;">You can access the order details directly by clicking on the link below after logging in your account: http://192.168.1.7/simdaiviet/thu-tuc-thanh-toan/payment-receipt/5879/</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    [Order #5879] (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5879</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:50 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Created            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">n47yJFBT4Bx9</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Order completed
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Payment is completed: #5880</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+    <p style="margin: 0 0 16px;">Hi  ,</p>
+    <p style="margin: 0 0 16px;">We have finished processing your order.</p>
+    <p style="margin: 0 0 16px;">Order <strong>#5880</strong> is completed.</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    [Order #5880] (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5880</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:51 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Hoàn thành            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">9Fk!hy$1da9V</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] : #5880 Order is completed.
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Payment is completed: #5880</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Administrator,</p>
+    <p style="margin: 0 0 16px;">Order <strong>#5880</strong> is completed.</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    <a class="link" href="http://192.168.1.7/simdaiviet/wp-admin/post.php?post=5880&amp;action=edit" style="font-weight: normal; text-decoration: underline; color: #0071bd;">[Order #5880]</a> (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5880</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:51 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Hoàn thành            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">9Fk!hy$1da9V</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt]: New order #5880
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Order: #5880</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">You’ve received the following order from  :</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    <a class="link" href="http://192.168.1.7/simdaiviet/wp-admin/post.php?post=5880&amp;action=edit" style="font-weight: normal; text-decoration: underline; color: #0071bd;">[Order #5880]</a> (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5880</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:51 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Created            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">9Fk!hy$1da9V</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Thank you for your order
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Order: #5880</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi  ,</p>
+    <p style="margin: 0 0 16px;">This notification was for the order <strong>#5880</strong> on the website <strong><a href="http://192.168.1.7/simdaiviet" style="color: #0071bd; font-weight: normal; text-decoration: underline;">Sim Đại Việt</a></strong></p>
+    <p style="margin: 0 0 16px;">You can access the order details directly by clicking on the link below after logging in your account: http://192.168.1.7/simdaiviet/thu-tuc-thanh-toan/payment-receipt/5880/</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    [Order #5880] (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5880</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:51 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Created            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">9Fk!hy$1da9V</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Order completed
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Payment is completed: #5881</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+
+    <p style="margin: 0 0 16px;">Hi  ,</p>
+    <p style="margin: 0 0 16px;">We have finished processing your order.</p>
+    <p style="margin: 0 0 16px;">Order <strong>#5881</strong> is completed.</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    [Order #5881] (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5881</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:54 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Hoàn thành            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">rX22$sWS$HK&amp;</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] : #5881 Order is completed.
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Payment is completed: #5881</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Administrator,</p>
+    <p style="margin: 0 0 16px;">Order <strong>#5881</strong> is completed.</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    <a class="link" href="http://192.168.1.7/simdaiviet/wp-admin/post.php?post=5881&amp;action=edit" style="font-weight: normal; text-decoration: underline; color: #0071bd;">[Order #5881]</a> (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5881</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:54 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Hoàn thành            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">rX22$sWS$HK&amp;</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt]: New order #5881
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Order: #5881</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">You’ve received the following order from  :</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    <a class="link" href="http://192.168.1.7/simdaiviet/wp-admin/post.php?post=5881&amp;action=edit" style="font-weight: normal; text-decoration: underline; color: #0071bd;">[Order #5881]</a> (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5881</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:54 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Created            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">rX22$sWS$HK&amp;</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Thank you for your order
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Order: #5881</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi  ,</p>
+    <p style="margin: 0 0 16px;">This notification was for the order <strong>#5881</strong> on the website <strong><a href="http://192.168.1.7/simdaiviet" style="color: #0071bd; font-weight: normal; text-decoration: underline;">Sim Đại Việt</a></strong></p>
+    <p style="margin: 0 0 16px;">You can access the order details directly by clicking on the link below after logging in your account: http://192.168.1.7/simdaiviet/thu-tuc-thanh-toan/payment-receipt/5881/</p>
+
+<h2 style='color: #0071bd; display: block; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 18px; font-weight: bold; line-height: 130%; margin: 0 0 18px; text-align: left;'>
+    [Order #5881] (Thứ Sáu Tháng Mười Một 11, 2022)</h2>
+
+<div style="margin-bottom: 40px;">
+    <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+        <tr>
+            <td style="padding: 12px;">Thanh toán #</td>
+            <td style="padding: 12px;">5881</td>
+        </tr>
+                <tr>
+            <td style="padding: 12px;">Tổng</td>
+            <td style="padding: 12px;">
+                            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Ngày</td>
+            <td style="padding: 12px;">
+                11 Tháng Mười Một, 2022 @ 9:54 sáng            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Phương thức thanh toán</td>
+            <td style="padding: 12px;">
+                Offline            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Tình trạng thanh toán</td>
+            <td style="padding: 12px;">
+                Created            </td>
+        </tr>
+        <tr>
+            <td style="padding: 12px;">Khóa giao dịch</td>
+            <td style="padding: 12px;">rX22$sWS$HK&amp;</td>
+        </tr>
+    </table>
+</div>
+    <div style="margin-bottom: 40px;">
+        <table class="td" cellspacing="0" cellpadding="6" border="1" style="color: #636363; border: 1px solid #e5e5e5; vertical-align: middle; width: 100%; font-family: 'Helvetica Neue', Helvetica, Roboto, Arial, sans-serif;">
+            <tr style="background-color: #F0F0F0;"><th colspan="2" style="padding: 12px;">Membership Order</th></tr>
+<tr>
+<th style="padding: 12px;">Payment Option </th>
+<td style="padding: 12px;">Gói đăng sim</td>
+</tr>
+<tr>
+<th style="padding: 12px;">Features </th>
+<td style="padding: 12px;">
+            <div style="display: flex; font-weight: bold;">
+                <div style="flex: 0 0 90px;"></div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Bài</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">Ngày</div>
+            </div>
+            <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                <div style="flex: 0 0 90px;">Thường xuyên</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+            </div>
+			                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Đặc sắc</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Trên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                    <div style="display: flex; border-top: 1px solid #eee; margin-top: 5px; padding-top: 5px;">
+                        <div style="flex: 0 0 90px;">Bơm lên</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">500</div>
+                        <div style="flex: 0 0 50px; display: flex; justify-content: center; align-items: center;">2000</div>
+                    </div>
+					                <p style="margin: 0 0 16px;">Số bài đăng 500</p>
+			</td>
+</tr>        </table>
+    </div>
+
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] New User is registered
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New user is registered</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Admin</p>
+    <p style="margin: 0 0 16px;">2 ( nguyenmanhcuong7220011111@gmail.com ) has registered to your site Sim Đại Việt.</p>
+    <p style="margin: 0 0 16px;">Thanks for reading.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong7220011111@gmail.com
+                        )
+
+                    [subject] => Registration successful at [Sim Đại Việt] 
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Registration successful</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+	<p style="margin: 0 0 16px;">Hi 2</p>
+	<p style="margin: 0 0 16px;">You are successfully registered to this site Sim Đại Việt</p>
+	<p style="margin: 0 0 16px;">Username: 2</p>
+	<br>
+	<p style="margin: 0 0 16px;">Thanks for reading.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong7220011111@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] Listing "0908639004" received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Your listing is received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi 2,</p>
+    <p style="margin: 0 0 16px;">Your listing <strong>0908639004</strong> has been received and it's pending review. This review process could take up to 48 hours.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] New Listing received
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New Listing received</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Administrator,</p>
+    <p style="margin: 0 0 16px;">You have received a new listing on the website Sim Đại Việt.</p>
+    <p style="margin: 0 0 16px;"><strong>Listing :</strong> <a href="http://192.168.1.7/simdaiviet/?post_type=rtcl_listing&amp;p=5882" style="color: #0071bd; font-weight: normal; text-decoration: underline;">0908639004</a></p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => [Sim Đại Việt] New User is registered
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>New user is registered</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+    <p style="margin: 0 0 16px;">Hi Admin</p>
+    <p style="margin: 0 0 16px;">3 ( nguyenmanhcuong722001111111@gmail.com ) has registered to your site Sim Đại Việt.</p>
+    <p style="margin: 0 0 16px;">Thanks for reading.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001111111@gmail.com
+                        )
+
+                    [subject] => Registration successful at [Sim Đại Việt] 
+                    [message] => <!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Sim Đại Việt</title>
+</head>
+<body leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" offset="
+0">
+<div id="wrapper" dir="ltr" style="background-color: #f7f7f7; margin: 0; padding: 70px 0 70px 0; width: 100%; -webkit-text-size-adjust: none;">
+    <table border="0" cellpadding="0" cellspacing="0" height="100%" width="100%">
+        <tr>
+            <td align="center" valign="top">
+                <div id="template_header_image">
+					                </div>
+                <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_container" style="background-color: #ffffff; border: 1px solid #dedede; box-shadow: 0 1px 4px rgba(0,0,0,0.1); border-radius: 3px;">
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Header -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_header" style='background-color: #0071bd; color: #ffffff; border-bottom: 0; font-weight: bold; line-height: 100%; vertical-align: middle; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; border-radius: 3px 3px 0 0;'>
+                                <tr>
+                                    <td id="header_wrapper" style="padding: 36px 48px; display: block;">
+                                        <h1 style='font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 30px; font-weight: 300; line-height: 150%; margin: 0; text-align: left; text-shadow: 0 1px 0 #338dca; color: #ffffff;'>Registration successful</h1>
+                                    </td>
+                                </tr>
+                            </table>
+                            <!-- End Header -->
+                        </td>
+                    </tr>
+                    <tr>
+                        <td align="center" valign="top">
+                            <!-- Body -->
+                            <table border="0" cellpadding="0" cellspacing="0" width="600" id="template_body">
+                                <tr>
+                                    <td valign="top" id="body_content" style="background-color: #ffffff;">
+                                        <!-- Content -->
+                                        <table border="0" cellpadding="20" cellspacing="0" width="100%">
+                                            <tr>
+                                                <td valign="top" style="padding: 48px 48px 0;">
+                                                    <div id="body_content_inner" style='color: #636363; font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif; font-size: 14px; line-height: 150%; text-align: left;'>
+	<p style="margin: 0 0 16px;">Hi 3</p>
+	<p style="margin: 0 0 16px;">You are successfully registered to this site Sim Đại Việt</p>
+	<p style="margin: 0 0 16px;">Username: 3</p>
+	<br>
+	<p style="margin: 0 0 16px;">Thanks for reading.</p>
+															</div>
+														</td>
+													</tr>
+												</table>
+												<!-- End Content -->
+											</td>
+										</tr>
+									</table>
+									<!-- End Body -->
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td align="center" valign="top">
+						<!-- Footer -->
+						<table border="0" cellpadding="10" cellspacing="0" width="600" id="template_footer">
+							<tr>
+								<td valign="top" style="padding: 0; -webkit-border-radius: 6px;">
+									<table border="0" cellpadding="10" cellspacing="0" width="100%">
+										<tr>
+											<td colspan="2" valign="middle" id="credit" style="-webkit-border-radius: 6px; border: 0; color: #66aad7; font-family: Arial; font-size: 12px; line-height: 125%; text-align: center; padding: 0 48px 48px 48px;">
+												<p>Sim Đại Việt</p>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+						<!-- End Footer -->
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+                    [headers] => Array
+                        (
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
