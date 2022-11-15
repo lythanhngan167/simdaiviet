@@ -29,10 +29,12 @@ namespace radiustheme\Classima;
 		<div class="banner-main">
 	<div class="container">
         <a href="#">
-        <img src="http://192.168.1.7/simdaiviet/wp-content/uploads/2022/10/banenrphongthuy-1.png" alt="" style="
+		<?php $banner=get_home_url() ?>
+        <img src="http://simdaiviet.com/wp-content/uploads/2022/10/banenrphongthuy-1.png" alt="" style="
     padding-top: 10px;
 ">
 		</a>
+		
 	</div>
 </div>
 

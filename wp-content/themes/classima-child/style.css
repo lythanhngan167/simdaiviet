@@ -113,6 +113,9 @@ a:link, a:visited {
 .widget_recent_entries .widget h3 {
     padding-bottom: 15px;
 }
+.widget_recent_entries a {
+     padding: 0px;
+}
 .elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-3143f8ad {
     padding-top: 0px;
     padding-bottom: 30px;
@@ -314,8 +317,9 @@ a:link, a:visited {
     padding-bottom: 8px !important;
     margin-bottom: 10px !important;
 }
-.widget_recent_entries a{
-    padding: 10px;
+.widget ul li {
+   
+    padding-left: 10px;
 }
 .elementor-1793 .elementor-element.elementor-element-a2dd63c{
 padding:0px !important;
@@ -649,5 +653,8 @@ h1.entry-title {
     #content .listing-grid-each-6 .rtin-item .rtin-content {
         padding: 0px 0px 0px 70px !important;
         float: left;
+    }
+    #u_0_0_tU{
+        margin-left: 25px
     }
 }
