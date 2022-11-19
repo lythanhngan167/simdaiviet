@@ -83,8 +83,8 @@ License URI:    https://themeforest.net/licenses/terms/regular
 	padding-top:15px;
 }
 .panel{
-    padding-top: 20px;
- padding-bottom:10px !important;
+    /* padding-top: 20px; */
+    padding-bottom:10px !important;
 }
 .has-expanded{
 	padding-bottom:20px !important;
