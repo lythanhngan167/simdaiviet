@@ -29,11 +29,9 @@ namespace radiustheme\Classima;
 		<div class="banner-main">
 	<div class="container">
         <a href="#">
-<<<<<<< HEAD
-		<?php $banner=get_home_url() ?>
-=======
->>>>>>> f8d723fe387178f59ad2881b92698b99d691e74c
-        <img src="http://simdaiviet.com/wp-content/uploads/2022/10/banenrphongthuy-1.png" alt="" style="
+
+
+    <img src="http://simdaiviet.com/wp-content/uploads/2022/10/banenrphongthuy-1.png" alt="" style="
     padding-top: 10px;
 ">
 		</a>
