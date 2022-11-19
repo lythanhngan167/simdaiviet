@@ -90,7 +90,7 @@ License URI:    https://themeforest.net/licenses/terms/regular
 	padding-bottom:20px !important;
 }
 .elementor-2578 .elementor-element.elementor-element-94103c3 > .elementor-widget-container {
-     padding: 0px !important; 
+     padding: 0px !important;
 }
 .elementor-2878 .elementor-element.elementor-element-b8649b0 > .elementor-widget-container {
     padding: 0px;
@@ -124,7 +124,7 @@ a:link, a:visited {
     padding-top: 55px;
 }
 .site-content .content-area .site-content-block .main-content {
-    
+
     padding: 10px ;
 }
 .site-content .content-area {
@@ -141,10 +141,10 @@ a:link, a:visited {
  #content .listing-grid-each .rtin-item .rtin-content .rtin-title {
     font-size: 17px !important;
     font-weight: 700 !important;
-   
+
 }
 #content .listing-grid-each span.rtcl-price-amount {
-    
+
     font-size: 13px !important;
     /* box-shadow: 1px 1px #dadada;
     border: 1px solid #ccc;
@@ -177,7 +177,7 @@ a:link, a:visited {
     margin-bottom: 2px;
     margin-top: 3px;
     display: block;
-    
+
 }
 #content .listing-grid-each-6 .rtin-item .rtin-content .rtin-price{
     margin-top: 0px ;
@@ -194,7 +194,7 @@ a:link, a:visited {
     background: transparent url(image/sim-icon.png);
     background-position: 0px -299px;
     background-repeat: no-repeat;
-    
+
 }
 
 #sim-mobifone .rtin-item{
@@ -244,7 +244,7 @@ a:link, a:visited {
 }
 .footer-top-area {
     padding: 40px 0 22px;
-    
+
 }
 .elementor-1793 .elementor-element.elementor-element-c9e5f43 {
     padding: 0px 0px 35px 0px;
@@ -253,17 +253,26 @@ a:link, a:visited {
     padding: 10px 0px 0px 0px;
 }
 .elementor-1793 .elementor-element.elementor-element-3c297c51 {
+<<<<<<< HEAD
+
+    padding: 0px 0px 25px 0px;
+}
+.elementor-1793 .elementor-element.elementor-element-65df642 {
+
+    padding-top:30px !important;
+=======
    
     padding: 0px 0px 0px 0px;
 }
 .elementor-1793 .elementor-element.elementor-element-65df642 {
     
     padding-top:10px !important;
+>>>>>>> 7d9f7aae698dcb7acc4b429e7b2a57c2bbe779da
 }
 .rt-el-counter .rtin-item .rtin-left svg {
     width: 54px;
     height: 54px;
-   
+
 }
 .rt-el-counter .rtin-item .rtin-right .rtin-counter {
     font-size: 30px;
@@ -277,9 +286,9 @@ a:link, a:visited {
 }
 #content .listing-grid-each-6 .rtin-item .rtin-content {
     padding:0px 30px 0px 0px !important;
-   
+
 }
-#content .listing-grid-each{ 
+#content .listing-grid-each{
     width: 220px !important;
 }
 
@@ -287,7 +296,7 @@ a:link, a:visited {
     padding: 10px 10px !important;
 } */
 .classima-single-details-2 .rtin-content {
- 
+
     max-height: 2000px !important;
 }
 .rtrs-submit-btn{
@@ -325,7 +334,7 @@ a:link, a:visited {
 .elementor-1793 .elementor-element.elementor-element-a2dd63c{
 padding:0px !important;
 }
-.elementor-widget-container .elementor-heading-title{ 
+.elementor-widget-container .elementor-heading-title{
     padding-top: 20px;
 }
 .sidebar-widget-area .widget h3 {
@@ -363,7 +372,7 @@ padding:0px !important;
 }
 .main-header .main-navigation-area .main-navigation ul li ul li{
     padding: 0px !important;
-   
+
 }
 .main-header .main-navigation-area .main-navigation ul li ul li a {
     font-size: 13px;
@@ -387,7 +396,7 @@ padding:0px !important;
     font-size: 20px;
     font-weight: 700;
     float: left;
-    
+
 }
 .sitechatzalo .iczalo {
     width: 39px;
@@ -397,11 +406,11 @@ padding:0px !important;
     top: -1px;
     left: 0;
     border-radius: 50%;
-   
+
     animation: Rotate 1.3s linear 1.3s 5;
     animation-iteration-count: infinite;
     -webkit-animation-iteration-count: infinite;
-    
+
 }
 
 #zalonum{
@@ -515,7 +524,7 @@ padding:0px !important;
   bottom: 57px;
 }
 h1.entry-title {
-    
+
     padding-top: 10px;
     margin-bottom: 0px;
 }
@@ -532,7 +541,7 @@ h1.entry-title {
     padding-top: 0px !important;
 }
 .main-header .main-navigation-area .main-navigation ul.menu > li.menu-item-has-children:after {
-   
+
     bottom: 30px;
 }
 .hotline-bar > a {
@@ -601,17 +610,24 @@ h1.entry-title {
     -webkit-transform: rotate(0) scale(1) skew(1deg);
   }
 }
+
+
+.home-sim .rt-el-isotope-wrapper .col-sm-6{
+  padding-left:0px!important;
+  padding-right:0px!important;
+}
+
+
 @media (max-width: 768px) {
   .hotline-bar {
     display: none;
   }
-  
+  #content .listing-grid-each {
+    width: auto !important;
+  }
+
+
 }
-
-
-
-
-
 
 /*  */
 @media (max-width: 768px){
@@ -631,15 +647,20 @@ h1.entry-title {
         padding-top: 10px !important;
     }
     .elementor-1793 .elementor-element.elementor-element-a2dd63c {
+<<<<<<< HEAD
+        padding: 50px 10px 40px 10px !important;
+
+=======
         padding: 0px 10px 0px 10px !important;
         
+>>>>>>> 7d9f7aae698dcb7acc4b429e7b2a57c2bbe779da
     }
     #content .listing-grid-each .rtin-item {
-        
+
         padding-right: 100px;
     }
     /* .classima-single-details-2 .rtin-content {
-        
+
         max-height: 1000px !important;
     } */
     /* #content .listing-grid-each-1 .rtin-item .rtin-content {
@@ -649,12 +670,16 @@ h1.entry-title {
     #content .listing-grid-each .rtin-item{
         padding-right: 0px !important;
     }
-   
+
     .rtcl-carousel-slider, .rtcl-slider, .rtcl-slider-nav{
         padding-left: 55px !important;
     }
     #content .listing-grid-each-6 .rtin-item .rtin-content {
+<<<<<<< HEAD
+        padding: 0px 0px 0px 65px !important;
+=======
         padding: 0px 0px 0px 60px !important;
+>>>>>>> 7d9f7aae698dcb7acc4b429e7b2a57c2bbe779da
         float: left;
     }
     #content .listing-grid-each {
