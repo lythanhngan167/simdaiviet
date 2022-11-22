@@ -368,9 +368,7 @@ padding:0px !important;
 .main-header .main-navigation-area .main-navigation ul li ul li a {
     font-size: 13px;
 }
-.classima-listing-single .classima-single-details-2 .rtin-content-area {
-    padding-left: 20px;
-}
+
 
 /* css icon liên hệ */
 .sitechatzalo {
@@ -744,5 +742,8 @@ h1.entry-title {
     }
     .classima-listing-search-form .rtcl-search-input-type::before {
         line-height: 40px;
+    }
+    .classima-listing-single .classima-single-details-2 .rtin-content-area {
+        padding-left: 20px;
     }
 }
