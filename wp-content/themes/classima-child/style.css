@@ -746,4 +746,8 @@ h1.entry-title {
     .classima-listing-single .classima-single-details-2 .rtin-content-area {
         padding-left: 20px;
     }
+    .site-content .content-area .site-content-block .main-content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
 }
