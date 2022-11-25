@@ -420,7 +420,7 @@ overflow: hidden;
  }
  
 .sharecs-pc-net-bar li.zalo{ 
-background: url(https://sharecs.net/wp-content/uploads/2021/05/Code-Chen-Hotline-–-Zalo-–-Facebook-Vao-Website-sharecs.net-zl.png); 
+background: url(image/zalo.png); 
 background-repeat: no-repeat; 
 } 
 
@@ -449,7 +449,7 @@ overflow: hidden;
  list-style:none
  }
  .sharecs-mobile-net-bar li.zalo{ 
-background: url(https://sharecs.net/wp-content/uploads/2021/05/Code-Chen-Hotline-–-Zalo-–-Facebook-Vao-Website-sharecs.net-zl.png);    
+background: url(image/zalo.png);    
 background-repeat: no-repeat; 
 } 
 .sharecs-mobile-net-bar li a{ 
@@ -458,7 +458,7 @@ width: 44px;
 height: 44px;
 }
 .sharecs-mobile-net-bar li.hotline { 
-background: url(https://sharecs.net/wp-content/uploads/2021/05/Code-Chen-Hotline-vao-website-sharecs.net_.gif); 
+background: url(image/phone1.png); 
 background-repeat: no-repeat; 
 background-size: 44px; 
 } 
