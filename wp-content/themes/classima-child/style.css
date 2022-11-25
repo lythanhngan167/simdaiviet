@@ -115,6 +115,10 @@ a:link, a:visited {
 }
 .widget_recent_entries a {
      padding: 0px;
+     
+}
+#recent-posts-3 ul li a{
+    padding-left: 10px;
 }
 .elementor-column.elementor-col-100.elementor-top-column.elementor-element.elementor-element-3143f8ad {
     padding-top: 0px;
@@ -368,8 +372,25 @@ padding:0px !important;
 .main-header .main-navigation-area .main-navigation ul li ul li a {
     font-size: 13px;
 }
-
-
+.panel-content ul li:before {
+    content: "\f105";
+    font-family: 'Font Awesome 5 Free';
+    color: #dc1e25;
+    font-weight: 600;
+    left: 0;
+    position: absolute;
+    padding-left: 5px;
+}
+.widget_recent_entries ul li:before{
+    content: "\f105";
+    font-family: 'Font Awesome 5 Free';
+    color: #dc1e25;
+    font-weight: 600;
+    position: absolute;
+}
+.sidebar-widget-area .widget_recent_entries ul li a{
+    padding-left: 0px;
+}
 /* css icon liên hệ */
 .sitechatzalo {
     position: fixed;
@@ -632,7 +653,7 @@ h1.entry-title {
         padding-top: 10px !important;
     }
     .elementor-1793 .elementor-element.elementor-element-a2dd63c {
-        padding: 0px 10px 0px 10px !important;
+        padding: 0px 0px 0px 0px !important;
         
     }
     #content .listing-grid-each .rtin-item {
@@ -676,7 +697,7 @@ h1.entry-title {
         
     }
     .banner-main .container img{
-        height: 90px;
+        height: 70px;
     }
     .panel{
         padding-top: 0px;
@@ -728,11 +749,8 @@ h1.entry-title {
         margin-left: 6px;
     }
     .sitebar-list {
-        width: 100%;
-        -webkit-columns: 100px 2;
-        columns: 100px 2;
-        -webkit-column-gap: 0;
-        column-gap: 0;
+        display: grid;
+        grid-template-columns: 50% 50%;
     }
     .rt-el-listing-search .classima-listing-search-form .rtin-keyword input, .rt-el-listing-search .classima-listing-search-form .classima-search-style-2 input, .rt-el-listing-search .classima-listing-search-form .classima-search-style-2 select {
         height: 37px;
@@ -747,7 +765,49 @@ h1.entry-title {
         padding-left: 20px;
     }
     .site-content .content-area .site-content-block .main-content {
-        padding-left: 30px;
-        padding-right: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
+    .mean-container .mean-bar .mean-logo-area {
+       
+        height: 45px;
+        padding: 0px 0;
+    }
+    .mean-bar span.sidebarBtn{
+        padding-top: 18px;
+    }
+    .header-mobile-icons{
+        top: 10px;
+    }
+    .panel-content ul li:before{
+        position: relative;
+        
+    }
+    .sitebar-list a {
+        padding-left: 5px;
+    }
+    .widget ul li {
+   
+        padding-left: 0px;
+    }
+    .panel-content ul li:before {
+        padding-left: 5px;
+              
+    }
+    ul.list-order li:before {
+        position: absolute;
+    }
+    .sitebar-list-1 li a{
+        padding-left: 10px;
+    }
+    p.order-item {
+        padding-left: 20px;
+    }
+    ul.list-order li:before {
+        padding-left: 10px;
+    }
+    #recent-posts-3 ul li{
+        padding-left: 10px;
+    }
+    
 }
