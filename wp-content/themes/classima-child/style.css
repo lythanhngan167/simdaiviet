@@ -522,6 +522,9 @@ h1.entry-title {
 .classima-myaccount .main-content{
     padding:30px !important;
 }
+#post-6{
+    padding: 20px;
+}
 
 
 
@@ -611,6 +614,7 @@ h1.entry-title {
     .footer-top-area {
 
         padding-left: 10px !important;
+        padding-right: 10px !important;
     }
     .banner-main .container img{
         padding-top: 0px !important;
