@@ -525,6 +525,9 @@ h1.entry-title {
 #post-6{
     padding: 20px;
 }
+.post-footer .post-social{
+    padding-left: 20px;
+}
 
 
 
@@ -657,6 +660,7 @@ h1.entry-title {
     }
     .classima-listing-single .classima-single-details-2 .rtin-content-area {
         padding-left: 20px;
+        padding-right: 20px;
     }
     .site-content .content-area .site-content-block .main-content {
         padding-left: 10px;
@@ -711,5 +715,8 @@ h1.entry-title {
     }
     .footer-bottom-area {
         margin-bottom: 50px;
+    }
+    .postid-5253 #respond{
+        padding: 10px;
     }
 }
