@@ -63,6 +63,14 @@ License URI:    https://themeforest.net/licenses/terms/regular
 .main-header .main-navigation-area .main-navigation ul li a {
     padding: 22px 17px;
 }
+.main-header .main-navigation-area .main-navigation ul li a {
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 26px;
+    text-transform: capitalize;
+    font-style: normal;
+}
 .table-body {
     display: table-row-group;
 }
@@ -400,68 +408,82 @@ padding:0px !important;
 }
 /* css icon liên hệ */
 
-.sharecs-mobile-net-bar{
-display:none
+.hotline-btn a {
+    text-decoration: none;
+    z-index: 1010;
+    line-height: 37px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 21px;
+    position: fixed;
+    bottom: 05px;
+    left: 9px;
+    padding: 0 10px 0 37px;
+    height: 36px;
+    background: #dc1e25;
+    -webkit-box-shadow: 0 4px 5px -1px rgb(0 0 0 / 50%);
+    box-shadow: 0 4px 5px -1px rgb(0 0 0 / 50%);
+    border-radius: 50px;
 }
-.sharecs-pc-net-bar{
-left: 15px; /** icon hiển thị bên trái - Muốn chuyển sang bên phải sửa right =>left**/
-padding: 0px !important;
-bottom: 15px;
-position: fixed;
-z-index: 998;
-margin-bottom:0px !important; /** Nếu icon sát đáy quá tăng 0px lên ví dụ 5px **/
+.hotline-btn #phone {
+    position: absolute;
+    top: 7px;
+    left: 0;
 }
-.sharecs-pc-net-bar li{
- width: 44px;
- height: 46px;
-overflow: hidden;
- margin-bottom: 0;
- list-style: none;
- }
+.hotline-btn #phone span {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    background: url(image/phone2.png) no-repeat top;
+    -webkit-animation: Rotate 1.3s linear 1.3s 5;
+    animation: Rotate 1.3s linear 1.3s 5;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
+}
+.hotline-btn #phone+div {
+    border: 1px solid #fff;
+    width: 34px;
+    height: 34px;
+    position: absolute;
+    border-radius: 50px;
+    left: 0;
+    top: 0;
+}
 
-.sharecs-pc-net-bar li.zalo{
-background: url(image/zalo.png);
-background-repeat: no-repeat;
+.sitechatzalo {
+    position: fixed;
+    left: 10px;
+    bottom: 45px;
+    z-index: 0;
+    box-shadow: 0 4px 5px -1px rgb(0 0 0 / 50%);
+    background: #2196f3;
+    border-radius: 50px;
+    color: #000;
+    height: 37px;
+    line-height: 37px;
+    padding: 0 20px 0 46px;
+    font-size: 20px;
+    font-weight: 700;
 }
-
-.sharecs-pc-net-bar li a{
- display: block;
-width: 44px;
-height: 44px;
- }
-@media only screen and (max-width: 768px) {
-.sharecs-pc-net-bar{
-display:none
+.sitechatzalo>a {
+    color: #fff!important;
 }
- .sharecs-mobile-net-bar{
- left: -20px; /** icon hiển thị bên trái - Muốn chuyển sang bên phải sửa right => left**/
-bottom: 05px;
-position: fixed;
-z-index: 998;
- margin-bottom:0px !important; /** Nếu icon sát đáy quá tăng 0px lên ví dụ 5px **/
-display:block !Important
- }
-.sharecs-mobile-net-bar li{
- width: 44px;
- height: 46px;
-overflow: hidden;
- margin-bottom: 0;
- list-style:none
- }
- .sharecs-mobile-net-bar li.zalo{
-background: url(image/zalo.png);
-background-repeat: no-repeat;
-}
-.sharecs-mobile-net-bar li a{
-display: block;
-width: 44px;
-height: 44px;
-}
-.sharecs-mobile-net-bar li.hotline {
-background: url(image/phone1.png);
-background-repeat: no-repeat;
-background-size: 44px;
-}
+.sitechatzalo .iczalo {
+    width: 39px;
+    height: 39px;
+    background: url(image/iczalo.png) center no-repeat #0072b2;
+    position: absolute;
+    top: -1px;
+    left: 0;
+    border-radius: 50%;
+    -webkit-animation: Rotate 1.3s linear 1.3s 5;
+    animation: Rotate 1.3s linear 1.3s 5;
+    animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    -moz-animation-iteration-count: infinite;
+    -o-animation-iteration-count: infinite;
 }
 
 /* dong css icon lien he*/
@@ -487,11 +509,19 @@ h1.entry-title {
 
     bottom: 30px;
 }
-
-
-
-
-
+.sidebar-widget-area #recent-posts-3 ul li a {
+    padding-left: 0px; 
+}
+.sidebar-widget-area .widget ul li {
+    padding-left: 10px;
+}
+#rtcl-user-login-wrapper {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+.classima-myaccount .main-content{
+    padding:30px !important;
+}
 
 
 
@@ -646,6 +676,9 @@ h1.entry-title {
     .sitebar-list a {
         padding-left: 5px;
     }
+    .sidebar-widget-area .sitebar-list a {
+        padding-left: 10px;
+    }
     .widget ul li {
 
         padding-left: 0px;
@@ -660,8 +693,8 @@ h1.entry-title {
     .sitebar-list-1 li a{
         padding-left: 4px;
     }
-    p.order-item {
-        padding-left: 20px;
+    .sidebar-widget-area .sitebar-list-1 li a{
+        padding-left: 10px;
     }
     ul.list-order li:before {
         padding-left: 10px;
@@ -672,5 +705,7 @@ h1.entry-title {
     .elementor-widget-container .elementor-heading-title{
         padding-left: 10px;
     }
-    
+    .footer-bottom-area {
+        margin-bottom: 50px;
+    }
 }

@@ -14211,3 +14211,52 @@ Mailer Error: WP_Error Object
 
 )
 
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "[your-subject]"
+                    [message] => Gửi đến từ: [your-name] <[your-email]>
+Tiêu đề: [your-subject]
+
+Nội dung thông điệp:
+[your-message]
+
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.9/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+

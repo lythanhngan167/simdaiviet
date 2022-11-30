@@ -13,22 +13,17 @@ namespace radiustheme\Classima;
 </div><!-- #page -->
 <?php wp_footer();?>
 
-
-<!-- Hiển thị icon trên Máy Tính -->
-<ul class="sharecs-pc-net-bar">
- <li class="zalo">
-	 <a href="https://zalo.me/0971565656" target="_blank" rel="nofollow"></a>
- </li>
-</ul>
-<!-- Hiển thị icon trên điện thoại -->
-<ul class="sharecs-mobile-net-bar">
- <li class="zalo">
-	 <a href="https://zalo.me/0971565656" target="_blank" rel="nofollow"></a>
- </li>
- <li class="hotline">
-	 <a href="tel:0971565656" target="_blank" rel="nofollow"></a>
- </li>
- </ul>
+<div class="hotline-btn">
+<a id="phonenumber" href="tel:0971565656">0971.56.56.56
+<div id="phone">
+<span></span>
+</div>
+<div></div>
+</a>
+</div>
+<div class="sitechatzalo" id="zalo">
+<a id="zalonum" href="https://zalo.me/0971565656" target="_blank"><span class="iczalo">&nbsp;</span> Chat Zalo</a>
+</div>
 
 </div>
 </div>
