@@ -138,7 +138,16 @@ $has_meta    = $listing->can_show_date() || $listing->can_show_views() || ( $lis
                 </ul>
             </div>
 		<?php endif; ?>
-
+		
 		<?php do_action( 'classima_single_listing_after_contents' ); ?>
     </div>
+	
 </div>
+<div class="site-content-block owl-wrap datsim">
+<div class="main-title-block">
+	<h3 class="main-title">ĐẶT MUA SIM</h3>
+	<div class="owl-custom-nav">
+		<?php echo apply_shortcodes( '[contact-form-7 id="5002" title="Đặt Sim"]' ); ?>
+	</div>
+</div>
+</div> 
