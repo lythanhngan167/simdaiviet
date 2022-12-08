@@ -456,7 +456,7 @@ padding:0px !important;
     position: fixed;
     left: 10px;
     bottom: 45px;
-    z-index: 0;
+    z-index: 10;
     box-shadow: 0 4px 5px -1px rgb(0 0 0 / 50%);
     background: #2196f3;
     border-radius: 50px;
@@ -542,6 +542,9 @@ h1.entry-title {
     width: 25px !important;
     float: left;
 }
+.thanhtoan .wpcf7-list-item {
+    display: block;
+}
 .thanhtoan span.wpcf7-list-item-label {
     padding-left: 10px;
 }
@@ -554,6 +557,9 @@ h1.entry-title {
 }
 .cachmuasim {
     margin-top: 20px;
+}
+.woocommerce-page .panel-content ul li:before{
+    padding-left: 0px !important;
 }
 
 /*  */
@@ -743,5 +749,14 @@ h1.entry-title {
     }
     .postid-5253 #respond{
         padding: 10px;
+    }
+    .woocommerce .sidebar-widget-area .sitebar-list-1 li a{
+        padding-left: 5px !important;
+    }
+    .woocommerce .sidebar-widget-area .sitebar-list a{
+        padding-left: 5px !important;
+    }
+    .datsim .wpcf7-form.init {
+        padding: 0px;
     }
 }

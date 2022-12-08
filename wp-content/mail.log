@@ -14477,3 +14477,359 @@ Email này được gửi đến từ form liên hệ của website Sim Đại V
 
 )
 
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "[your-subject]"
+                    [message] => Gửi đến từ: [your-name] <[your-email]>
+Tiêu đề: [your-subject]
+
+Nội dung thông điệp:
+[your-message]
+
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.5/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => Could not instantiate mail function.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "[text* hoten] "
+                    [message] => Gửi đến từ: [your-name] <[your-email]>
+Tiêu đề: [your-subject]
+
+Nội dung thông điệp:
+[your-message]
+
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.5/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 2
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => SMTP Error: Could not connect to SMTP host.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "[text* hoten] "
+                    [message] => Gửi đến từ: [text* hoten] <[tel* phone]>
+Tiêu đề: Liên hệ đặt sim [text* hoten] [tel* phone]
+
+Nội dung đặt sim:
+Họ và tên : [text* hoten]
+Số điện thoại : [tel* phone]
+Địa chỉ : [text* diachi]
+Phương thức thanh toán: [checkbox* thanhtoan class:thanhtoan use_label_element exclusive "Thanh toán khi nhận hàng" "Chuyển khoảng ngân hàng"]
+
+
+
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.5/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 0
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => SMTP Error: Could not connect to SMTP host.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "[tel dt placeholder "Điện thoại liên hệ"]"
+                    [message] => Gửi đến từ: [tel dt placeholder "Điện thoại liên hệ"]
+Tiêu đề: Sim muốn bán [text sim-ban placeholder "Sim muốn bán"]
+
+Nội dung sim:
+Sim muốn bán : [text sim-ban placeholder "Sim muốn bán"]
+Giá đề nghị : [text gia placeholder "Giá đề nghị"]
+Điện thoại liên hệ : [tel dt placeholder "Điện thoại liên hệ"]
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.5/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 0
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => SMTP Error: Could not connect to SMTP host.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "[tel dt placeholder "Điện thoại liên hệ"]"
+                    [message] => Gửi đến từ: [tel dt placeholder "Điện thoại liên hệ"]
+Tiêu đề: Sim muốn bán [text sim-ban placeholder "Sim muốn bán"]
+
+Nội dung sim:
+Sim muốn bán : [text sim-ban placeholder "Sim muốn bán"]
+Giá đề nghị : [text gia placeholder "Giá đề nghị"]
+Điện thoại liên hệ : [tel dt placeholder "Điện thoại liên hệ"]
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.5/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 0
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => SMTP Error: Could not connect to SMTP host.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "0908639007"
+                    [message] => Gửi đến từ: [tel dt placeholder "Điện thoại liên hệ"]
+Tiêu đề: Sim muốn bán : 0813300247
+
+Nội dung sim:
+Sim muốn bán : 0813300247
+Giá đề nghị : 2 triệu
+Điện thoại liên hệ : 0908639007
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.5/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 0
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
+Mailer Error: WP_Error Object
+(
+    [errors] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [0] => SMTP Error: Could not connect to SMTP host.
+                )
+
+        )
+
+    [error_data] => Array
+        (
+            [wp_mail_failed] => Array
+                (
+                    [to] => Array
+                        (
+                            [0] => nguyenmanhcuong722001@gmail.com
+                        )
+
+                    [subject] => Sim Đại Việt "Nguyễn Văn A "
+                    [message] => Gửi đến từ: Nguyễn Văn A <0908639007>
+Tiêu đề: Liên hệ đặt sim Nguyễn Văn A 0908639007
+
+Nội dung đặt sim:
+Họ và tên : Nguyễn Văn A
+Số điện thoại : 0908639007
+Địa chỉ : 1 lê hồng phong
+Phương thức thanh toán: Chuyển khoảng ngân hàng
+
+
+
+-- 
+Email này được gửi đến từ form liên hệ của website Sim Đại Việt (http://192.168.1.5/simdaiviet)
+                    [headers] => Array
+                        (
+                            [X-WPCF7-Content-Type] => text/plain
+                        )
+
+                    [attachments] => Array
+                        (
+                        )
+
+                    [phpmailer_exception_code] => 0
+                )
+
+        )
+
+    [additional_data:protected] => Array
+        (
+        )
+
+)
+
