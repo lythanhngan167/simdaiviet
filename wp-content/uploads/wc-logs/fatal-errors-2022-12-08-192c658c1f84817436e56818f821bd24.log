@@ -1,0 +1,305 @@
+2022-12-08T08:16:45+00:00 CRITICAL Uncaught Error: Class 'create_donhang_widget' not found in C:\xampp\htdocs\simdaiviet\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 C:\xampp\htdocs\simdaiviet\wp-includes\widgets.php(115): WP_Widget_Factory->register('create_donhang_...')
+#1 C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php(26): register_widget('create_donhang_...')
+#2 C:\xampp\htdocs\simdaiviet\wp-includes\class-wp-hook.php(307): create_donhang_widget('')
+#3 C:\xampp\htdocs\simdaiviet\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#4 C:\xampp\htdocs\simdaiviet\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#5 C:\xampp\htdocs\simdaiviet\wp-includes\widgets.php(1854): do_action('widgets_init')
+#6 C:\xampp\htdocs\simdaiviet\wp-includes\class-wp-hook.php(307): wp_widgets_init('')
+#7 C:\xampp\htdocs\simdaiviet\wp-includes\class-wp-hook.php(331): WP_Hook->apply_filters(NULL, Array)
+#8 C:\xampp\htdocs\simdaiviet\wp-includes\plugin.php(476): WP_Hook->do_action(Array)
+#9 C:\xampp\h in C:\xampp\htdocs\simdaiviet\wp-includes\class-wp-widget-factory.php on line 61
+
+2022-12-08T09:03:20+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:03:26+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:03:32+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:03:38+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:03:44+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:03:50+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:03:56+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:02+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:08+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:14+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:20+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:26+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:32+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:38+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:44+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:50+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:04:56+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:02+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:08+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:14+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:20+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:26+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:32+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:38+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:44+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:50+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:05:56+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:02+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:08+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:14+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:20+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:26+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:30+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:32+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:38+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:44+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:49+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:06:55+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:01+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:07+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:12+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:18+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:24+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:29+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:35+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:41+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:47+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:52+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:07:58+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:04+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:09+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:15+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:21+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:27+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:29+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:31+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:32+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:38+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:44+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:50+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:08:55+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:01+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:07+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:13+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:18+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:24+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:30+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:36+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:41+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:47+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:53+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:09:58+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:04+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:10+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:15+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:21+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:27+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:31+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:33+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:39+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:45+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:51+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:10:58+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:11:04+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:11:10+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:11:16+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:11:22+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:11:28+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:11:32+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:11:34+00:00 CRITICAL syntax error, unexpected '{', expecting ']' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 13
+
+2022-12-08T09:20:44+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:20:50+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:20:56+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:03+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:09+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:15+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:21+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:28+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:34+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:40+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:43+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:46+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:52+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:21:58+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:22:04+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:22:10+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:22:16+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:22:22+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:22:28+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:22:34+00:00 CRITICAL syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 25
+
+2022-12-08T09:34:39+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 42
+
+2022-12-08T09:34:45+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 42
+
+2022-12-08T09:34:51+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 42
+
+2022-12-08T09:34:56+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 42
+
+2022-12-08T09:34:57+00:00 CRITICAL syntax error, unexpected 'else' (T_ELSE) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 42
+
+2022-12-08T09:40:50+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 35
+
+2022-12-08T15:34:26+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 80
+
+2022-12-08T15:34:28+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 80
+
+2022-12-08T15:34:29+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 80
+
+2022-12-08T15:46:31+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 3
+
+2022-12-08T15:46:37+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 3
+
+2022-12-08T15:46:43+00:00 CRITICAL syntax error, unexpected 'add_action' (T_STRING) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 3
+
+2022-12-08T15:54:44+00:00 CRITICAL require(): Failed opening required 'classima-child/order.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 12
+
+2022-12-08T15:54:48+00:00 CRITICAL require(): Failed opening required 'classima-child/order.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 12
+
+2022-12-08T15:54:48+00:00 CRITICAL require(): Failed opening required 'classima-child/order.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 12
+
+2022-12-08T15:55:22+00:00 CRITICAL require(): Failed opening required 'classima-child/order.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 12
+
+2022-12-08T15:59:14+00:00 CRITICAL Uncaught Error: Call to undefined function donhang() in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\simdaiviet\wp-settings.php(566): include()
+#1 C:\xampp\htdocs\simdaiviet\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simdaiviet\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simdaiviet\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 11
+
+2022-12-08T15:59:20+00:00 CRITICAL Uncaught Error: Call to undefined function donhang() in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\simdaiviet\wp-settings.php(566): include()
+#1 C:\xampp\htdocs\simdaiviet\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simdaiviet\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simdaiviet\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#4 {main}
+  thrown in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 11
+
+2022-12-08T15:59:22+00:00 CRITICAL Uncaught Error: Call to undefined function donhang() in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\simdaiviet\wp-settings.php(566): include()
+#1 C:\xampp\htdocs\simdaiviet\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simdaiviet\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simdaiviet\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\simdaiviet\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 11
+
+2022-12-08T15:59:22+00:00 CRITICAL Uncaught Error: Call to undefined function donhang() in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php:11
+Stack trace:
+#0 C:\xampp\htdocs\simdaiviet\wp-settings.php(566): include()
+#1 C:\xampp\htdocs\simdaiviet\wp-config.php(96): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\simdaiviet\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\simdaiviet\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\simdaiviet\index.php(17): require('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php on line 11
+
+2022-12-08T16:02:45+00:00 CRITICAL Cannot redeclare donhang() (previously declared in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\functions.php:15) in C:\xampp\htdocs\simdaiviet\wp-content\themes\classima-child\order.php on line 2
+

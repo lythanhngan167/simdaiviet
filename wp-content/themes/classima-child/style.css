@@ -565,7 +565,7 @@ h1.entry-title {
 .category-tin-tuc .panel-content ul li:before {
     padding-left: 0px !important;
 }
-.site-content .content-area .site-content-block .main-title-block{
+.site-content .content-area .datsim .main-title-block{
     background-color: #dfdfdf;
 }
 .rtcl-widget-filter-class .panel-block .rtcl-filter-form .ui-buttons.has-expanded .btn{
@@ -605,6 +605,13 @@ h1.entry-title {
 .sidebar-widget-area .rtcl-widget-filter-wrapper.style2 .widget .ui-accordion .ui-accordion-item{
     padding: 0px !important;
 }
+.panel-1 .panel-content ul li:before{
+    content: '';
+}
+.panel-1 .list-order{
+    padding-left: 0px;
+}
+
 
 /*  */
 @media (max-width: 768px){
