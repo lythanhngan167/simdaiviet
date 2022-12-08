@@ -561,6 +561,9 @@ h1.entry-title {
 .woocommerce-page .panel-content ul li:before{
     padding-left: 0px !important;
 }
+.category-tin-tuc .panel-content ul li:before {
+    padding-left: 0px !important;
+}
 
 /*  */
 @media (max-width: 768px){
