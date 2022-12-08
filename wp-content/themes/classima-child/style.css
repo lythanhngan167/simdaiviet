@@ -23,7 +23,7 @@ License URI:    https://themeforest.net/licenses/terms/regular
 
 .panel-header {
     padding: 10px;
-    background: #dc1e25;
+    background: #666565;
     text-transform: uppercase;
     font-weight: 500;
     width: 100%;
@@ -44,7 +44,7 @@ License URI:    https://themeforest.net/licenses/terms/regular
 	color:#dc1e25 !important;
 }
 .list-order li p .order-item-status label.status {
-    background: #dc1e25;
+    background: #bebebe;
     font-size: 11px;
     color: #fff;
     font-weight: 500;
@@ -113,7 +113,7 @@ a:link, a:visited {
     color: #54595F !important;
 }
 .widget_recent_entries .widgettitle{
-    background:#dc1e25 !important;
+    background:#666565 !important;
     text-align: center;
     padding-top: 7px !important;
     color: white;
@@ -320,6 +320,7 @@ a:link, a:visited {
     font-weight: 500;
     text-align: center;
     text-transform: uppercase;
+    background-color: #666565;
 }
 .rtcl-filter-btn{
     text-transform: uppercase;
@@ -339,7 +340,7 @@ padding:0px !important;
     padding-top: 20px;
 }
 .sidebar-widget-area .widget h3 {
-    color: black !important;
+    color: white !important;
 }
 #recent-posts-3 .widgettitle{
     color: white !important;
@@ -563,6 +564,46 @@ h1.entry-title {
 }
 .category-tin-tuc .panel-content ul li:before {
     padding-left: 0px !important;
+}
+.site-content .content-area .site-content-block .main-title-block{
+    background-color: #dfdfdf;
+}
+.rtcl-widget-filter-class .panel-block .rtcl-filter-form .ui-buttons.has-expanded .btn{
+    width: 120px;
+    margin: auto;
+}
+.elementor-widget .widget.rtcl-widget-filter-class .panel-block .rtcl-filter-form .ui-buttons .btn {
+    height: 40px;
+}
+#recent-posts-3 h3:after {
+    background-color: #666565;
+}
+.rt-el-listing-isotope .rtin-btn a:hover, .rt-el-listing-isotope .rtin-btn a.current {
+    background-color: #666565;
+}
+.footer-bottom-area {
+    background-color: #666565;
+    color: #ffffff;
+}
+.classima-listing-archive .panel-content ul li:before{
+    padding-left: 0px;
+}
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block .ui-accordion-item .ui-accordion-title {
+    color: white;
+    background-color: #666565;
+}
+.sidebar-widget-area .rtcl-widget-filter-class .panel-block .rtcl-filter-form .ui-buttons .btn {
+    height: 40px;
+}
+.sidebar-widget-area .rtcl-widget-filter-wrapper.style2 .rtcl-widget-filter-class .panel-block .ui-accordion-item .ui-accordion-title::before{
+    background-color: #666565;
+}
+.sidebar-widget-area .rtcl-widget-filter-wrapper.style2 .rtcl-widget-filter-class .panel-block .ui-accordion-item .ui-accordion-title{
+    padding: 12px 0 12px 0;
+    text-align: center;
+}
+.sidebar-widget-area .rtcl-widget-filter-wrapper.style2 .widget .ui-accordion .ui-accordion-item{
+    padding: 0px !important;
 }
 
 /*  */
