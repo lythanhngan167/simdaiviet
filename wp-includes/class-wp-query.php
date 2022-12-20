@@ -1416,13 +1416,37 @@ class WP_Query {
 				$like_op  = 'LIKE';
 				$andor_op = 'OR';
 			}
-
-			if ( $n && ! $exclude ) {
-				$like                        = '%' . $wpdb->esc_like( $term ) . '%';
-				$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+			//fix search
+			$explode = explode('*', $term);
+			if($explode[0] != '' && count($explode)<3 && $explode[1] == '' ){
+				if ( $n && ! $exclude ) {
+					$like                        =  $wpdb->esc_like( $explode[0] ) . '%';
+					$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+				}
+				$like =  $wpdb->esc_like($explode[0] ) . $n;
 			}
+			elseif($explode[0] != ''  && $explode[1] != ''){
+				if ( $n && ! $exclude ) {
+					$like                        = $wpdb->esc_like( $explode[0] ). '%' . $wpdb->esc_like( $explode[1] ) ;
+					$q['search_orderby_title'][] =$wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+				}
+				$like = $wpdb->esc_like($explode[0]) . $n . $wpdb->esc_like($explode[1] ) ;
+			}
+			else {
+				if ( $n && ! $exclude ) {
+					$like                        = '%' . $wpdb->esc_like( $explode[1] ) ;
+					$q['search_orderby_title'][] =$wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+				}
+				$like = $n . $wpdb->esc_like($explode[1] ) ;
+			}
+			//end code
+			
+			// if ( $n && ! $exclude ) {
+			// 	$like                        = '%' . $wpdb->esc_like( $term ) . '%';
+			// 	$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+			// }
 
-			$like = $n . $wpdb->esc_like( $term ) . $n;
+			// $like = $n . $wpdb->esc_like( $term ) . $n;
 
 			if ( ! empty( $this->allow_query_attachment_by_filename ) ) {
 				$search .= $wpdb->prepare( "{$searchand}(({$wpdb->posts}.post_title $like_op %s) $andor_op ({$wpdb->posts}.post_excerpt $like_op %s) $andor_op ({$wpdb->posts}.post_content $like_op %s) $andor_op (sq1.meta_value $like_op %s))", $like, $like, $like, $like );
