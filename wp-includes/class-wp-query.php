@@ -1438,7 +1438,7 @@ class WP_Query {
 					}
 					$like = $n . $wpdb->esc_like($explode[1] ) ;
 				}
-			}else{
+			}elseif(substr_count( $term, '*') == 2){
 				if($explode[0] =='' &&  $explode[1] !='' && $explode[2] !=''){
 					if ( $n && ! $exclude ) {
 						$like                        = '%' . $wpdb->esc_like( $explode[1] ) . '%' . $wpdb->esc_like( $explode[2] ) ;
@@ -1464,6 +1464,14 @@ class WP_Query {
 					}
 					$like = $n . $wpdb->esc_like( $explode[1] ) . $n;
 				}
+			}else{
+				if ( $n && ! $exclude ) {
+					$like                        = '%' . $wpdb->esc_like( $term ) . '%';
+					$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+				}
+	
+				$like = $n . $wpdb->esc_like( $term ) . $n;
+	
 			}
 			//end code
 			
