@@ -1418,26 +1418,52 @@ class WP_Query {
 			}
 			//fix search
 			$explode = explode('*', $term);
-			if($explode[0] != '' && count($explode)<3 && $explode[1] == '' ){
-				if ( $n && ! $exclude ) {
-					$like                        =  $wpdb->esc_like( $explode[0] ) . '%';
-					$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+			if(substr_count( $term, '*') == 1){
+				if($explode[0] != '' && $explode[1] == '' ){
+					if ( $n && ! $exclude ) {
+						$like                        =  $wpdb->esc_like( $explode[0] ) . '%';
+						$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+					}
+					$like =  $wpdb->esc_like($explode[0] ) . $n;
+				}elseif($explode[0] != ''  && $explode[1] != ''){
+					if ( $n && ! $exclude ) {
+						$like                        = $wpdb->esc_like( $explode[0] ). '%' . $wpdb->esc_like( $explode[1] ) ;
+						$q['search_orderby_title'][] =$wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+					}
+					$like = $wpdb->esc_like($explode[0]) . $n . $wpdb->esc_like($explode[1] ) ;
+				}else {
+					if ( $n && ! $exclude ) {
+						$like                        = '%' . $wpdb->esc_like( $explode[1] ) ;
+						$q['search_orderby_title'][] =$wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+					}
+					$like = $n . $wpdb->esc_like($explode[1] ) ;
 				}
-				$like =  $wpdb->esc_like($explode[0] ) . $n;
-			}
-			elseif($explode[0] != ''  && $explode[1] != ''){
-				if ( $n && ! $exclude ) {
-					$like                        = $wpdb->esc_like( $explode[0] ). '%' . $wpdb->esc_like( $explode[1] ) ;
-					$q['search_orderby_title'][] =$wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+			}else{
+				if($explode[0] =='' &&  $explode[1] !='' && $explode[2] !=''){
+					if ( $n && ! $exclude ) {
+						$like                        = '%' . $wpdb->esc_like( $explode[1] ) . '%' . $wpdb->esc_like( $explode[2] ) ;
+						$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+					}
+					$like = $n . $wpdb->esc_like($explode[1] ). $n . $wpdb->esc_like($explode[2] ) ;
+				}elseif($explode[0] !='' &&  $explode[1] !='' && $explode[2] ==''){
+					if ( $n && ! $exclude ) {
+						$like                        =  $wpdb->esc_like( $explode[0] ) . '%' . $wpdb->esc_like( $explode[1] ) . '%'  ;
+						$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+					}
+					$like = $wpdb->esc_like($explode[0] ) . $n . $wpdb->esc_like($explode[1] ) . $n ;
+				}elseif($explode[0] !='' && $explode[1] !='' && $explode[2] !=''){
+					if ( $n && ! $exclude ) {
+						$like                        =  $wpdb->esc_like( $explode[0] ) . '%' . $wpdb->esc_like( $explode[1]) . '%' . $wpdb->esc_like( $explode[2] ) ;
+						$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+					}
+					$like = $wpdb->esc_like($explode[0] ) . $n . $wpdb->esc_like($explode[1]) . $n . $wpdb->esc_like($explode[2]);
+				}else{
+					if ( $n && ! $exclude ) {
+						$like                        = '%' . $wpdb->esc_like( $$explode[1] ) . '%';
+						$q['search_orderby_title'][] = $wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
+					}
+					$like = $n . $wpdb->esc_like( $explode[1] ) . $n;
 				}
-				$like = $wpdb->esc_like($explode[0]) . $n . $wpdb->esc_like($explode[1] ) ;
-			}
-			else {
-				if ( $n && ! $exclude ) {
-					$like                        = '%' . $wpdb->esc_like( $explode[1] ) ;
-					$q['search_orderby_title'][] =$wpdb->prepare( "{$wpdb->posts}.post_title LIKE %s", $like );
-				}
-				$like = $n . $wpdb->esc_like($explode[1] ) ;
 			}
 			//end code
 			
