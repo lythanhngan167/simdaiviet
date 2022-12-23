@@ -130,6 +130,40 @@ $style = RDTheme::$options['listing_search_style'];
             <?php endif; ?>
         <?php endif; ?>
 
+        <?php if ( !empty( RDTheme::$options['listing_search_items']['keyword'] ) ): ?>
+            <div class="<?php echo esc_attr( $key_class );?>">
+                <div class="form-group">
+                    <div class="rtcl-search-input-button rtin-keyword">
+                        <input type="text" data-type="listing" name="q" class="rtcl-autocomplete" placeholder="<?php esc_html_e('Enter Keyword here ...', 'classima'); ?>" value="<?php if (isset($_GET['q'])) {echo esc_attr(Functions::clean( wp_unslash(($_GET['q']))));} ?>" />
+                    </div>
+                </div>
+            </div>
+        <?php endif; ?>
+
+
+        <?php if ( !empty( RDTheme::$options['listing_search_items']['type'] ) ): ?>
+            <div class="<?php echo esc_attr( $typ_class );?>">
+                <div class="form-group">
+                    <div class="rtcl-search-input-button rtcl-search-input-type">
+                        <?php
+                        $listing_types = Functions::get_listing_types();
+                        $listing_types = empty( $listing_types ) ? array() : $listing_types;
+                        ?>
+                        <div class="dropdown classima-listing-search-dropdown">
+                            <button class="btn dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><?php esc_html_e( 'Select Type', 'classima' ); ?></button>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                                <a class="dropdown-item" href="#" data-adtype=""><?php echo esc_html( $typ_text ); ?></a>
+                                <?php foreach ( $listing_types as $key => $listing_type ): ?>
+                                    <a class="dropdown-item" href="#" data-adtype="<?php echo esc_attr( $key ); ?>"><?php echo esc_html( $listing_type ); ?></a>
+                                <?php endforeach; ?>
+                            </div>
+                            <input type="hidden" name="filters[ad_type]">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <?php endif; ?>
+
         <?php if ( !empty( RDTheme::$options['listing_search_items']['category'] ) ): ?>
             <div class="<?php echo esc_attr( $cat_class );?>">
                 <div class="form-group">
@@ -185,41 +219,11 @@ $style = RDTheme::$options['listing_search_style'];
             </div>
         <?php endif; ?>
 
-        <?php if ( !empty( RDTheme::$options['listing_search_items']['type'] ) ): ?>
-            <div class="<?php echo esc_attr( $typ_class );?>">
-                <div class="form-group">
-                    <div class="rtcl-search-input-button rtcl-search-input-type">
-                        <?php
-                        $listing_types = Functions::get_listing_types();
-                        $listing_types = empty( $listing_types ) ? array() : $listing_types;
-                        ?>
-                        <div class="dropdown classima-listing-search-dropdown">
-                            <button class="btn dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><?php esc_html_e( 'Select Type', 'classima' ); ?></button>
-                            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                <a class="dropdown-item" href="#" data-adtype=""><?php echo esc_html( $typ_text ); ?></a>
-                                <?php foreach ( $listing_types as $key => $listing_type ): ?>
-                                    <a class="dropdown-item" href="#" data-adtype="<?php echo esc_attr( $key ); ?>"><?php echo esc_html( $listing_type ); ?></a>
-                                <?php endforeach; ?>
-                            </div>
-                            <input type="hidden" name="filters[ad_type]">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        <?php endif; ?>
-
-        <?php if ( !empty( RDTheme::$options['listing_search_items']['keyword'] ) ): ?>
-            <div class="<?php echo esc_attr( $key_class );?>">
-                <div class="form-group">
-                    <div class="rtcl-search-input-button rtin-keyword">
-                        <input type="text" data-type="listing" name="q" class="rtcl-autocomplete" placeholder="<?php esc_html_e('Enter Keyword here ...', 'classima'); ?>" value="<?php if (isset($_GET['q'])) {echo esc_attr(Functions::clean( wp_unslash(($_GET['q']))));} ?>" />
-                    </div>
-                </div>
-            </div>
-        <?php endif; ?>
-
         <div class="<?php echo esc_attr( $btn_class );?> rtin-btn-holder">
             <button type="submit" class="rtin-search-btn rdtheme-button-1"><i class="fas fa-search" aria-hidden="true"></i><?php esc_html_e( 'Search', 'classima' );?></button>
         </div>
     </form>
+</div>
+<div class="so_sim">
+<strong>Sử dụng dấu * đại diện cho một chuỗi số bất kỳ. Ví dụ: *9999, 0989*, *261292, 09*9999, 0903*99*99, hoặc bạn có thể gõ bất kỳ dãy số đuôi muốn tìm...</strong>
 </div>

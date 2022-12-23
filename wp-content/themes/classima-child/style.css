@@ -30,7 +30,7 @@ License URI:    https://themeforest.net/licenses/terms/regular
 	  text-align:center;
 }
 .panel-content {
-    background: #fff;
+    background: #e5e5e5;
     padding: 10px;
     width: 100%;
 }
@@ -38,13 +38,13 @@ License URI:    https://themeforest.net/licenses/terms/regular
 	color:white;
 }
 .sitebar-list a{
-	color:#646464 !important;
+	color: #000 !important;
 }
 .sitebar-list a:hover{
 	color:#dc1e25 !important;
 }
 .list-order li p .order-item-status label.status {
-    background: #bebebe;
+    background: #878585;
     font-size: 11px;
     color: #fff;
     font-weight: 500;
@@ -90,10 +90,10 @@ License URI:    https://themeforest.net/licenses/terms/regular
 .rtin-des{
 	padding-top:15px;
 }
-.panel{
-    /* padding-top: 20px; */
+/* .panel{
+    padding-top: 20px;
     padding-bottom:10px !important;
-}
+} */
 .has-expanded{
 	padding-bottom:20px !important;
 }
@@ -146,7 +146,7 @@ a:link, a:visited {
     padding: 0px 0px 75px 0px;
 }
 .content-area{
-    padding-top: 20px !important;
+    padding-top: 0px !important;
 }
  /* chinh anh sim-icon sim */
 
@@ -382,14 +382,14 @@ padding:0px !important;
 .panel-content ul li:before {
     content: "\f105";
     font-family: 'Font Awesome 5 Free';
-    color: #7e7e7e;
+    color: #dc1e25;
     font-weight: 600;
     left: 0;
     position: absolute;
     padding-left: 8px;
 }
 .sidebar-widget-area .widget ul li:before {
-    color: #7e7e7e;
+    color: #dc1e25;
 }
 #custom_html-13 .panel-content ul li:before {
     content: "";
@@ -400,7 +400,7 @@ padding:0px !important;
 .widget_recent_entries ul li:before{
     content: "\f105";
     font-family: 'Font Awesome 5 Free';
-    color: #7e7e7e;
+    color: #dc1e25 ;
     font-weight: 600;
     position: absolute;
 }
@@ -611,8 +611,74 @@ h1.entry-title {
 .panel-1 .list-order{
     padding-left: 0px;
 }
-
-
+.classima-listing-search-form .classima-search-style-2 select{
+    height: 43px;
+}
+.rt-el-listing-search .classima-listing-search-form .rtcl-search-input-button {
+    line-height: 43px;
+    height: 43px;
+}
+.classima-listing-search-form .rtin-keyword input {
+    height: 43px;
+}
+.classima-listing-search-form .rtin-keyword:before {
+    line-height: 43px;
+}
+.classima-listing-search-form .rtcl-search-input-type::before {
+    line-height: 43px;
+}
+.classima-listing-search-form .rtcl-search-input-button:before {
+    line-height: 43px;
+}
+.classima-listing-search-form select{
+    line-height: 43px;
+}
+.classima-listing-search-form .rtin-search-btn{
+    height: 43px;
+}
+.panel-content .list-order ::marker{
+    content: "\f105";
+    font-family: 'Font Awesome 5 Free';
+    color: #dc1e25;
+    font-weight: 600;
+    left: 0;
+    position: absolute;
+}
+.panel-content .list-order{
+    margin-left: 0px;
+}
+.panel-content .list-order .order-item{
+    padding-left: 3px;
+}
+.sidebar-widget-area .widget{
+    margin-bottom: 0px;
+}
+.so_sim{
+    padding: 10px;
+    border: 1px solid #bebebe;
+    text-align: center;
+}
+.rtcl-search-input-button.rtin-keyword {
+    width: 500px;
+}
+.rtcl-search-input-button.rtcl-search-input-type {
+    margin-left: 150px;
+}
+.rtcl-search-input-button.classima-search-style-2.rtin-category {
+    margin-left: 75px;
+}
+.classima-listing-search-form .rtcl-search-input-button:after{
+    width: 0px;
+}
+.classima-listing-search-form .classima-listing-search-dropdown button{
+    width: 230px;
+}
+.sitebar-list-1 li a{
+    color: #000;
+}
+.widget_recent_entries{
+    background-color: #e5e5e5 !important;
+} 
 /*  */
 @media (max-width: 768px){
     .elementor-column-gap-default > .elementor-row > .elementor-column > .elementor-element-populated {
@@ -717,6 +783,16 @@ h1.entry-title {
     .rt-el-listing-search .classima-listing-search .rtcl-widget-search-form > div {
 
         width: 47%;
+        float: left;
+    }
+    .rt-el-listing-search .classima-listing-search .rtcl-widget-search-form .rtin-key-space {
+
+        width:100% !important;
+        float: left;
+    }
+    .rt-el-listing-search .classima-listing-search .rtcl-widget-search-form .rtin-btn-holder {
+
+        width:100% !important;
         float: left;
     }
     .classima-listing-search-form .rtcl-search-input-button {

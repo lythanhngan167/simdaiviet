@@ -24,7 +24,9 @@ $rtcl_top_query = Fns::top_listings_query();
 
 $post_num   = Listing_Functions::listing_post_num( $rtcl_query );
 $count_text = Listing_Functions::listing_count_text( $post_num );
-
+// echo "<pre>";
+// print_r($rtcl_top_query);
+// echo "</pre>";
 $general_settings = Functions::get_option( 'rtcl_general_settings' );
 
 if ( isset( $_GET['view'] ) && in_array( $_GET['view'], [ 'grid', 'list' ], true ) ) {
